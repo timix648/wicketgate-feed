@@ -2,7 +2,15 @@
   "version": 1,
   "rollupId": "rdk-v328-e2e-mwd5v89d",
   "rollupKey": "0xe5e777197062b210a3582b5d5d294cc945899e9b1fd862236ee088c5cbdeccce",
-  "updatedAt": "2026-11-16T17:09:13.557Z",
+  "lane": {
+    "windowSecs": 3600,
+    "graceSecs": 1800,
+    "feeBps": 30,
+    "quorum": 2,
+    "lockPerWatcherQor": 8,
+    "enabled": true
+  },
+  "updatedAt": "2026-11-16T17:14:38.722Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
@@ -31,7 +39,21 @@
           "chainProof": []
         }
       ],
-      "attestationTx": "already-attested"
+      "attestationTx": "already-attested",
+      "pool": {
+        "batchKey": "0xc9c441675be57f7b7aa7525de688ecd16ae121b7086313d596b21e028252e6d4",
+        "confirmed": true,
+        "confirmedAt": "2026-11-16T12:26:03.000Z",
+        "contested": false,
+        "released": true,
+        "openAdvances": 0,
+        "coverQor": 16,
+        "advancedQor": 0,
+        "watchers": [
+          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
+          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4"
+        ]
+      }
     },
     {
       "index": 1,
@@ -53,7 +75,21 @@
           "chainProof": []
         }
       ],
-      "attestationTx": "already-attested"
+      "attestationTx": "already-attested",
+      "pool": {
+        "batchKey": "0x2fbe4c32f585cc4285a432536b981bb0a6fde8f927271335e191492629265849",
+        "confirmed": true,
+        "confirmedAt": "2026-11-16T12:48:50.000Z",
+        "contested": false,
+        "released": true,
+        "openAdvances": 0,
+        "coverQor": 4,
+        "advancedQor": 0,
+        "watchers": [
+          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
+          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0"
+        ]
+      }
     }
   ]
 }

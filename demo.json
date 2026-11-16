@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "rollupId": "wicketgate-pay",
+  "events": [
+    {
+      "story": "fraud",
+      "label": "ADMIN_B bonds 1,000 QOR as a second submitter",
+      "lane": "cosmos",
+      "tx": "A8DA63B129DFCB01869C94E2B2A2437366C5FAD958B8C6E105E9BAA174888638",
+      "height": 10195555,
+      "time": 1794833707,
+      "explorer": "https://explore.qore.network/tx/A8DA63B129DFCB01869C94E2B2A2437366C5FAD958B8C6E105E9BAA174888638"
+    },
+    {
+      "story": "fraud",
+      "label": "ADMIN_B submits batch 2 with one byte of its state root flipped",
+      "lane": "cosmos",
+      "tx": "53998C8AF7C47893CB85F679E83F496E9A7D9169530930A96370C9F636D963A7",
+      "height": 10195562,
+      "time": 1794833717,
+      "explorer": "https://explore.qore.network/tx/53998C8AF7C47893CB85F679E83F496E9A7D9169530930A96370C9F636D963A7"
+    },
+    {
+      "story": "fraud",
+      "label": "Watcher W2 re-executes, builds the fraud proof and challenges: batch rejected, 500 QOR burned, 500 QOR to W2",
+      "lane": "cosmos",
+      "tx": "2A2CDF8727310DFD45AAE25DAA8FF6E2D58ED4E9A482B47D6125B5C702F822D8",
+      "height": 10195566,
+      "time": 1794833722,
+      "explorer": "https://explore.qore.network/tx/2A2CDF8727310DFD45AAE25DAA8FF6E2D58ED4E9A482B47D6125B5C702F822D8"
+    },
+    {
+      "story": "fraud",
+      "label": "The honest operator re-batches the rolled-back entry as batch 2",
+      "lane": "cosmos",
+      "tx": "D0F1FE8D65D0E99B4198DBA3E2536FAC3F562DA209EDCD6905F61528CFFF1311",
+      "height": 10195599,
+      "time": 1794833771,
+      "explorer": "https://explore.qore.network/tx/D0F1FE8D65D0E99B4198DBA3E2536FAC3F562DA209EDCD6905F61528CFFF1311"
+    },
+    {
+      "story": "exit",
+      "label": "Operator submits batch 1 (anchored) carrying a 1 QOR withdrawal to an exit address",
+      "lane": "cosmos",
+      "tx": "A96CB4413999E67EA4F3FA11B69AA34F7FC3FAFEFC60F79BB8F06787F75CC1C5",
+      "height": 10195500,
+      "time": 1794833628,
+      "explorer": "https://explore.qore.network/tx/A96CB4413999E67EA4F3FA11B69AA34F7FC3FAFEFC60F79BB8F06787F75CC1C5"
+    },
+    {
+      "story": "exit",
+      "label": "Instant exit: the pool pays 1 QOR less 0.3% against the confirmed batch",
+      "lane": "evm",
+      "tx": "0x22c2ce760df7157f80011b3a367e630ca55e9519583c5b6f5db4072846238d87",
+      "height": 10195525,
+      "time": 1794833664,
+      "explorer": "https://explore.qore.network/tx/0x22c2ce760df7157f80011b3a367e630ca55e9519583c5b6f5db4072846238d87"
+    },
+    {
+      "story": "exit",
+      "label": "Batch finalised: the chain pays the withdrawal to the exit address",
+      "lane": "cosmos",
+      "tx": "28147088E8A7B7BF8E5931C1656728A22333D4319A6C7ABD03061D52CAE32591",
+      "height": 10198041,
+      "time": 1794837265,
+      "explorer": "https://explore.qore.network/tx/28147088E8A7B7BF8E5931C1656728A22333D4319A6C7ABD03061D52CAE32591"
+    },
+    {
+      "story": "exit",
+      "label": "The pool sweeps the exit address and settles the advance",
+      "lane": "evm",
+      "tx": "0x8aca28bc113e6b51ac0f19fc8f508c23dd12a9f1f04560d39ce191bf2e749e9b",
+      "height": 10198046,
+      "time": 1794837272,
+      "explorer": "https://explore.qore.network/tx/0x8aca28bc113e6b51ac0f19fc8f508c23dd12a9f1f04560d39ce191bf2e749e9b"
+    }
+  ]
+}

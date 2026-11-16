@@ -2,7 +2,15 @@
   "version": 1,
   "rollupId": "wicketgate-pay",
   "rollupKey": "0x8c7b3d3f54999fc426122972f809325097d432f4107fac1460c6847039299f7a",
-  "updatedAt": "2026-11-16T17:09:16.697Z",
+  "lane": {
+    "windowSecs": 3600,
+    "graceSecs": 1800,
+    "feeBps": 30,
+    "quorum": 2,
+    "lockPerWatcherQor": 4,
+    "enabled": true
+  },
+  "updatedAt": "2026-11-16T17:14:43.137Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
@@ -31,7 +39,21 @@
           "chainProof": []
         }
       ],
-      "attestationTx": "already-attested"
+      "attestationTx": "already-attested",
+      "pool": {
+        "batchKey": "0x3a5f4b97822dc2b0bfb4c220946eef29fc7bb538f043c8ba1beab3a0bdd21e52",
+        "confirmed": true,
+        "confirmedAt": "2026-11-16T12:51:45.000Z",
+        "contested": false,
+        "released": true,
+        "openAdvances": 0,
+        "coverQor": 0,
+        "advancedQor": 0,
+        "watchers": [
+          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
+          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0"
+        ]
+      }
     },
     {
       "index": 1,
@@ -53,7 +75,21 @@
           "chainProof": []
         }
       ],
-      "attestationTx": "already-attested"
+      "attestationTx": "already-attested",
+      "pool": {
+        "batchKey": "0xee3b90dbe2ab70d2da74a181070fcae6630339b7f7e3a610962bc52f0c3c60d7",
+        "confirmed": true,
+        "confirmedAt": "2026-11-16T12:54:10.000Z",
+        "contested": false,
+        "released": true,
+        "openAdvances": 0,
+        "coverQor": 8,
+        "advancedQor": 0,
+        "watchers": [
+          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
+          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4"
+        ]
+      }
     },
     {
       "index": 2,
@@ -66,7 +102,21 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "attestationTx": "already-attested"
+      "attestationTx": "already-attested",
+      "pool": {
+        "batchKey": "0xba778f19c2fa62033faeb3257db002d627ec88978d4738c51ffae979320b3b76",
+        "confirmed": true,
+        "confirmedAt": "2026-11-16T12:56:54.000Z",
+        "contested": false,
+        "released": true,
+        "openAdvances": 0,
+        "coverQor": 8,
+        "advancedQor": 0,
+        "watchers": [
+          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
+          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0"
+        ]
+      }
     },
     {
       "index": 3,
@@ -79,7 +129,21 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "attestationTx": "already-attested"
+      "attestationTx": "already-attested",
+      "pool": {
+        "batchKey": "0x887225b93b3ab6e74725a6779172df4da2095347d159a5ce4b1b8d550d3001d9",
+        "confirmed": true,
+        "confirmedAt": "2026-11-16T13:01:04.000Z",
+        "contested": false,
+        "released": true,
+        "openAdvances": 0,
+        "coverQor": 8,
+        "advancedQor": 0,
+        "watchers": [
+          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
+          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0"
+        ]
+      }
     }
   ]
 }
