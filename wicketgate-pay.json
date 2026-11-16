@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "rollupId": "wicketgate-pay",
+  "rollupKey": "0x8c7b3d3f54999fc426122972f809325097d432f4107fac1460c6847039299f7a",
+  "updatedAt": "2026-11-16T12:52:24.610Z",
+  "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
+  "mode": "challenge",
+  "inbox": {
+    "head": 3,
+    "consumed": 3,
+    "oldestPendingHeight": null
+  },
+  "batches": [
+    {
+      "index": 0,
+      "status": "submitted",
+      "inboxStart": 0,
+      "inboxEnd": 3,
+      "submittedTime": 1794833467,
+      "stateRoot": "0x07f5775eeac55a01b3c0cd01887c9faccce37af2c0607d2aad0af1557bb390ad",
+      "withdrawalsRoot": "0xd1a291ef3538a63da3963dded641ec570f8411cfa62f8d7ce12735e4557fd221",
+      "verdict": "match",
+      "exitRoot": "0x49236d72d857e7b51065bf2bb3fb1eed57700e5e7189dc9f7dc4539b0a59c3b3",
+      "withdrawals": [
+        {
+          "index": "0",
+          "recipient": "qor1aca0p7vmrvday8k8eak5fm5tlj3qy55cre74yq",
+          "recipientEvm": "0xeE3af0f99B1B1bd21Ec7cf6D44eE8bfCa2025298",
+          "amountUqor": "1000000",
+          "exitProof": [],
+          "chainProof": []
+        }
+      ],
+      "attestationTx": "already-attested"
+    }
+  ]
+}
