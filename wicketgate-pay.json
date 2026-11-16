@@ -10,7 +10,7 @@
     "lockPerWatcherQor": 50,
     "enabled": true
   },
-  "updatedAt": "2026-11-16T21:01:39.581Z",
+  "updatedAt": "2026-11-16T21:06:33.199Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
@@ -375,7 +375,7 @@
     },
     {
       "index": 10,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 17,
       "inboxEnd": 20,
       "submittedTime": 1794859413,
@@ -393,7 +393,6 @@
           "chainProof": []
         }
       ],
-      "attestationTx": "already-attested",
       "submission": {
         "tx": "4E922A7AE81AD8C79ECCA94290EEC1882650410E843247CF8F80C16A90EC65EB",
         "height": 10213558,
@@ -407,9 +406,9 @@
         "confirmedAt": "2026-11-16T20:03:58.000Z",
         "contested": false,
         "released": false,
-        "openAdvances": 1,
+        "openAdvances": 0,
         "coverQor": 3,
-        "advancedQor": 3,
+        "advancedQor": 0,
         "watchers": [
           "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
           "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0"
