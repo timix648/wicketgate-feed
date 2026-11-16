@@ -10,7 +10,7 @@
     "lockPerWatcherQor": 8,
     "enabled": true
   },
-  "updatedAt": "2026-11-16T17:14:38.722Z",
+  "updatedAt": "2026-11-16T17:19:15.641Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
@@ -40,6 +40,13 @@
         }
       ],
       "attestationTx": "already-attested",
+      "submission": {
+        "tx": "929C7A21066A88C5EBEE432B2B0B8E9F176D08A27A4D9D49FA6246330A5A63CD",
+        "height": 9936609,
+        "signer": "qor1ekyftdz36tndvnmttjexmzpgj48j0mfwk007rp",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0xc9c441675be57f7b7aa7525de688ecd16ae121b7086313d596b21e028252e6d4",
         "confirmed": true,
@@ -76,6 +83,22 @@
         }
       ],
       "attestationTx": "already-attested",
+      "submission": {
+        "tx": "FACE91C06DA7932DD6944F173B94BC198789B6BD5C450DA358C730E7078C6065",
+        "height": 10195236,
+        "signer": "qor16087dpc985wvk6hlsl2x8p0kyumz394q0lvm6k",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "replacedSubmissions": [
+        {
+          "tx": "B30CD12C7F19C12F449DA49B289562E365D95E390E24F66FAC6A25B73225376C",
+          "height": 9936622,
+          "signer": "qor1ekyftdz36tndvnmttjexmzpgj48j0mfwk007rp",
+          "pqVerified": true,
+          "tier": "pqc"
+        }
+      ],
       "pool": {
         "batchKey": "0x2fbe4c32f585cc4285a432536b981bb0a6fde8f927271335e191492629265849",
         "confirmed": true,
