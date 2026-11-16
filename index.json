@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
+  "rollups": [
+    {
+      "rollupId": "rdk-v328-e2e-mwd5v89d",
+      "updatedAt": "2026-11-16T12:47:31.594Z",
+      "batches": 2,
+      "file": "rdk-v328-e2e-mwd5v89d.json"
+    }
+  ]
+}

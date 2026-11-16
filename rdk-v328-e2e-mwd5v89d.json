@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "rollupId": "rdk-v328-e2e-mwd5v89d",
+  "rollupKey": "0xe5e777197062b210a3582b5d5d294cc945899e9b1fd862236ee088c5cbdeccce",
+  "updatedAt": "2026-11-16T12:47:31.594Z",
+  "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
+  "mode": "challenge",
+  "inbox": {
+    "head": 9,
+    "consumed": 4,
+    "oldestPendingHeight": 9936617
+  },
+  "batches": [
+    {
+      "index": 0,
+      "status": "finalized",
+      "inboxStart": 0,
+      "inboxEnd": 4,
+      "submittedTime": 1794464647,
+      "stateRoot": "0x83274dd8c1e80acbe22bb5fb8bd054f08d5c020ecea632a3b650ffe685f387a7",
+      "withdrawalsRoot": "0x75482e03e14c4ad163d4d8986f1133caa3d5ce7132538af8f7df84cf14167d98",
+      "verdict": "match",
+      "exitRoot": "0xc960ae3b49fc6bfe5094119cb439946d7aa32ad67b827edaf74878a14c223531",
+      "withdrawals": [
+        {
+          "index": "0",
+          "recipient": "qor1ekyftdz36tndvnmttjexmzpgj48j0mfwk007rp",
+          "recipientEvm": "0xCd8895B451d2E6d64F6b5Cb26D8828954f27ed2E",
+          "amountUqor": "300000",
+          "exitProof": [],
+          "chainProof": []
+        }
+      ],
+      "attestationTx": "already-attested"
+    },
+    {
+      "index": 1,
+      "status": "rejected",
+      "inboxStart": 4,
+      "inboxEnd": 5,
+      "submittedTime": 1794464666,
+      "stateRoot": "0x1afc100b88ad4f51ca123989926a44a037002dc0310702c9f003b2ab9a9fe7d7",
+      "withdrawalsRoot": "0x",
+      "verdict": "rejected-on-chain",
+      "reason": "rejected by a fraud proof; its inbox range was rolled back"
+    }
+  ]
+}
