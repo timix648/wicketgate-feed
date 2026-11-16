@@ -4,14 +4,14 @@
   "rollups": [
     {
       "rollupId": "rdk-v328-e2e-mwd5v89d",
-      "updatedAt": "2026-11-16T15:58:51.720Z",
+      "updatedAt": "2026-11-16T16:03:40.243Z",
       "batches": 2,
       "file": "rdk-v328-e2e-mwd5v89d.json"
     },
     {
       "rollupId": "wicketgate-pay",
-      "updatedAt": "2026-11-16T15:58:54.893Z",
-      "batches": 4,
+      "updatedAt": "2026-11-16T16:03:42.741Z",
+      "batches": 2,
       "file": "wicketgate-pay.json"
     }
   ]

@@ -2,7 +2,7 @@
   "version": 1,
   "rollupId": "wicketgate-pay",
   "rollupKey": "0x8c7b3d3f54999fc426122972f809325097d432f4107fac1460c6847039299f7a",
-  "updatedAt": "2026-11-16T15:58:54.893Z",
+  "updatedAt": "2026-11-16T16:03:42.741Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
@@ -53,32 +53,6 @@
           "chainProof": []
         }
       ],
-      "attestationTx": "already-attested"
-    },
-    {
-      "index": 2,
-      "status": "finalized",
-      "inboxStart": 6,
-      "inboxEnd": 7,
-      "submittedTime": 1794833771,
-      "stateRoot": "0xfe31b41d7b01c52356bd03c885860311eaa2ee518902f605dbc636573f8b85ab",
-      "withdrawalsRoot": "0x",
-      "verdict": "match",
-      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
-      "withdrawals": [],
-      "attestationTx": "already-attested"
-    },
-    {
-      "index": 3,
-      "status": "finalized",
-      "inboxStart": 7,
-      "inboxEnd": 8,
-      "submittedTime": 1794834039,
-      "stateRoot": "0x2f80928b3fc4696771724d65c566a8e0eb8115a0e918d2f83100a230dbb785f2",
-      "withdrawalsRoot": "0x",
-      "verdict": "match",
-      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
-      "withdrawals": [],
       "attestationTx": "already-attested"
     }
   ]
