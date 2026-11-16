@@ -10,12 +10,12 @@
     "lockPerWatcherQor": 50,
     "enabled": true
   },
-  "updatedAt": "2026-11-16T19:54:53.697Z",
+  "updatedAt": "2026-11-16T20:05:58.396Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
-    "head": 17,
-    "consumed": 17,
+    "head": 20,
+    "consumed": 20,
     "oldestPendingHeight": null
   },
   "batches": [
@@ -39,7 +39,6 @@
           "chainProof": []
         }
       ],
-      "attestationTx": "already-attested",
       "submission": {
         "tx": "27C6A35490A85BED5BD91FA86824F67497DF0B1CF12B2F6B077B913791FC4B5C",
         "height": 10195387,
@@ -49,17 +48,14 @@
       },
       "pool": {
         "batchKey": "0x3a5f4b97822dc2b0bfb4c220946eef29fc7bb538f043c8ba1beab3a0bdd21e52",
-        "confirmed": true,
-        "confirmedAt": "2026-11-16T12:51:45.000Z",
+        "confirmed": false,
+        "confirmedAt": null,
         "contested": false,
-        "released": true,
+        "released": false,
         "openAdvances": 0,
         "coverQor": 0,
         "advancedQor": 0,
-        "watchers": [
-          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
-          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0"
-        ]
+        "watchers": []
       }
     },
     {
@@ -82,7 +78,6 @@
           "chainProof": []
         }
       ],
-      "attestationTx": "already-attested",
       "submission": {
         "tx": "A96CB4413999E67EA4F3FA11B69AA34F7FC3FAFEFC60F79BB8F06787F75CC1C5",
         "height": 10195500,
@@ -92,17 +87,14 @@
       },
       "pool": {
         "batchKey": "0xee3b90dbe2ab70d2da74a181070fcae6630339b7f7e3a610962bc52f0c3c60d7",
-        "confirmed": true,
-        "confirmedAt": "2026-11-16T12:54:10.000Z",
+        "confirmed": false,
+        "confirmedAt": null,
         "contested": false,
-        "released": true,
+        "released": false,
         "openAdvances": 0,
-        "coverQor": 8,
+        "coverQor": 0,
         "advancedQor": 0,
-        "watchers": [
-          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
-          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4"
-        ]
+        "watchers": []
       }
     },
     {
@@ -116,7 +108,6 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "attestationTx": "already-attested",
       "submission": {
         "tx": "D0F1FE8D65D0E99B4198DBA3E2536FAC3F562DA209EDCD6905F61528CFFF1311",
         "height": 10195599,
@@ -135,17 +126,14 @@
       ],
       "pool": {
         "batchKey": "0xba778f19c2fa62033faeb3257db002d627ec88978d4738c51ffae979320b3b76",
-        "confirmed": true,
-        "confirmedAt": "2026-11-16T12:56:54.000Z",
+        "confirmed": false,
+        "confirmedAt": null,
         "contested": false,
-        "released": true,
+        "released": false,
         "openAdvances": 0,
-        "coverQor": 8,
+        "coverQor": 0,
         "advancedQor": 0,
-        "watchers": [
-          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
-          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0"
-        ]
+        "watchers": []
       }
     },
     {
@@ -159,7 +147,6 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "attestationTx": "already-attested",
       "submission": {
         "tx": "B560D883F46E6D8A291463D668527436A4BFFA2C8BE34257A487DE1BC700A47D",
         "height": 10195786,
@@ -169,17 +156,14 @@
       },
       "pool": {
         "batchKey": "0x887225b93b3ab6e74725a6779172df4da2095347d159a5ce4b1b8d550d3001d9",
-        "confirmed": true,
-        "confirmedAt": "2026-11-16T13:01:04.000Z",
+        "confirmed": false,
+        "confirmedAt": null,
         "contested": false,
-        "released": true,
+        "released": false,
         "openAdvances": 0,
-        "coverQor": 8,
+        "coverQor": 0,
         "advancedQor": 0,
-        "watchers": [
-          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
-          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0"
-        ]
+        "watchers": []
       }
     },
     {
@@ -193,7 +177,6 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "attestationTx": "already-attested",
       "submission": {
         "tx": "9467E601DF14B43015EB25DE6EC9A08F9123B0AACC87626E49C64BABFD40690D",
         "height": 10206699,
@@ -203,17 +186,14 @@
       },
       "pool": {
         "batchKey": "0x748820d9884e53546f12809e6fe57ba8728571637eb53da4d19de1392e02446d",
-        "confirmed": true,
-        "confirmedAt": "2026-11-16T17:20:42.000Z",
+        "confirmed": false,
+        "confirmedAt": null,
         "contested": false,
-        "released": true,
+        "released": false,
         "openAdvances": 0,
-        "coverQor": 100,
+        "coverQor": 0,
         "advancedQor": 0,
-        "watchers": [
-          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
-          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0"
-        ]
+        "watchers": []
       }
     },
     {
@@ -227,7 +207,6 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "attestationTx": "already-attested",
       "submission": {
         "tx": "9F6DAE1DFF055345A50C1A786458E1EA262D94A42B0669355C85DA8FF7A0623A",
         "height": 10206726,
@@ -237,17 +216,14 @@
       },
       "pool": {
         "batchKey": "0xf1ce72db2228197b9b05bf7a38c988c37248aaeeb8e269d47483cf36e3d44509",
-        "confirmed": true,
-        "confirmedAt": "2026-11-16T17:21:33.000Z",
+        "confirmed": false,
+        "confirmedAt": null,
         "contested": false,
-        "released": true,
+        "released": false,
         "openAdvances": 0,
-        "coverQor": 100,
+        "coverQor": 0,
         "advancedQor": 0,
-        "watchers": [
-          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
-          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0"
-        ]
+        "watchers": []
       }
     },
     {
@@ -270,7 +246,6 @@
           "chainProof": []
         }
       ],
-      "attestationTx": "already-attested",
       "submission": {
         "tx": "4D758E6F6CE42D503DC8966DF872CCD7DF7667942A329DB85BA765DB73B66828",
         "height": 10206794,
@@ -280,17 +255,14 @@
       },
       "pool": {
         "batchKey": "0x6dd9b525f695128a703b2e0e380274c070c3f004e3c9b2af79b25dc915b6aa14",
-        "confirmed": true,
-        "confirmedAt": "2026-11-16T17:23:39.000Z",
+        "confirmed": false,
+        "confirmedAt": null,
         "contested": false,
-        "released": true,
+        "released": false,
         "openAdvances": 0,
-        "coverQor": 50,
+        "coverQor": 0,
         "advancedQor": 0,
-        "watchers": [
-          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
-          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4"
-        ]
+        "watchers": []
       }
     },
     {
@@ -313,7 +285,6 @@
           "chainProof": []
         }
       ],
-      "attestationTx": "already-attested",
       "submission": {
         "tx": "CFD9F54FDA60E580920DAF58D9A3716A2831272F2FC659113B1B280FADA4E7AA",
         "height": 10207504,
@@ -323,17 +294,14 @@
       },
       "pool": {
         "batchKey": "0xcccb9383b049c68c3ee43ac7c6415d3af203f638d7bea9fe5de3cc7b76b0938f",
-        "confirmed": true,
-        "confirmedAt": "2026-11-16T17:40:33.000Z",
+        "confirmed": false,
+        "confirmedAt": null,
         "contested": false,
-        "released": true,
+        "released": false,
         "openAdvances": 0,
-        "coverQor": 50,
+        "coverQor": 0,
         "advancedQor": 0,
-        "watchers": [
-          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
-          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4"
-        ]
+        "watchers": []
       }
     },
     {
@@ -347,7 +315,6 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "attestationTx": "not-needed: no withdrawals to exit",
       "submission": {
         "tx": "C627F01110ECFDCB61F4696C5E58704DF64A80C65C2599BD4344B0B021DCD7D6",
         "height": 10207600,
@@ -387,7 +354,6 @@
           "chainProof": []
         }
       ],
-      "attestationTx": "already-attested",
       "submission": {
         "tx": "B94724932CE64288B9E48FF29D5FCA4FBCF5202AEF2EEEDA1131C630B8C0680A",
         "height": 10207615,
@@ -397,16 +363,56 @@
       },
       "pool": {
         "batchKey": "0xfd688ca25039537cc1fc548bd219ef6baa0457d600b4901f815040a8ddc5e1f2",
-        "confirmed": true,
-        "confirmedAt": "2026-11-16T17:42:43.000Z",
+        "confirmed": false,
+        "confirmedAt": null,
         "contested": false,
-        "released": true,
+        "released": false,
         "openAdvances": 0,
-        "coverQor": 40,
+        "coverQor": 0,
+        "advancedQor": 0,
+        "watchers": []
+      }
+    },
+    {
+      "index": 10,
+      "status": "submitted",
+      "inboxStart": 17,
+      "inboxEnd": 20,
+      "submittedTime": 1794859413,
+      "stateRoot": "0x9260912fd661d4a25bc8ce93d080044d44a80986131c4f67f595bd68ea8125ed",
+      "withdrawalsRoot": "0x6dcc9050f0185e6f0d8581e201a44b8ad2107a80ddd8327ee72c46492e863577",
+      "verdict": "match",
+      "exitRoot": "0xcb1844c9caa6dd5cab5c148276a3036ef3cc47fa39144d7839bef033d51ce0f7",
+      "withdrawals": [
+        {
+          "index": "5",
+          "recipient": "qor108ca6gxmmdzyej35xhegj5ucpuufkfapq2k3vx",
+          "recipientEvm": "0x79f1dd20DbdB444CCA3435f28953980f389B27A1",
+          "amountUqor": "3000000",
+          "exitProof": [],
+          "chainProof": []
+        }
+      ],
+      "attestationTx": "already-attested",
+      "submission": {
+        "tx": "4E922A7AE81AD8C79ECCA94290EEC1882650410E843247CF8F80C16A90EC65EB",
+        "height": 10213558,
+        "signer": "qor16087dpc985wvk6hlsl2x8p0kyumz394q0lvm6k",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": {
+        "batchKey": "0xcf48bf3702fb04270aae30534dd4a467a3d8ecad9639ef862c4792d32149b9d2",
+        "confirmed": true,
+        "confirmedAt": "2026-11-16T20:03:58.000Z",
+        "contested": false,
+        "released": false,
+        "openAdvances": 0,
+        "coverQor": 0,
         "advancedQor": 0,
         "watchers": [
-          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
-          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4"
+          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
+          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0"
         ]
       }
     }

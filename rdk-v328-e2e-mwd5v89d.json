@@ -10,7 +10,7 @@
     "lockPerWatcherQor": 8,
     "enabled": true
   },
-  "updatedAt": "2026-11-16T19:54:41.703Z",
+  "updatedAt": "2026-11-16T20:06:12.136Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
@@ -39,7 +39,6 @@
           "chainProof": []
         }
       ],
-      "attestationTx": "already-attested",
       "submission": {
         "tx": "929C7A21066A88C5EBEE432B2B0B8E9F176D08A27A4D9D49FA6246330A5A63CD",
         "height": 9936609,
@@ -49,17 +48,14 @@
       },
       "pool": {
         "batchKey": "0xc9c441675be57f7b7aa7525de688ecd16ae121b7086313d596b21e028252e6d4",
-        "confirmed": true,
-        "confirmedAt": "2026-11-16T12:26:03.000Z",
+        "confirmed": false,
+        "confirmedAt": null,
         "contested": false,
-        "released": true,
+        "released": false,
         "openAdvances": 0,
-        "coverQor": 16,
+        "coverQor": 0,
         "advancedQor": 0,
-        "watchers": [
-          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
-          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4"
-        ]
+        "watchers": []
       }
     },
     {
@@ -82,7 +78,6 @@
           "chainProof": []
         }
       ],
-      "attestationTx": "already-attested",
       "submission": {
         "tx": "FACE91C06DA7932DD6944F173B94BC198789B6BD5C450DA358C730E7078C6065",
         "height": 10195236,
@@ -101,17 +96,14 @@
       ],
       "pool": {
         "batchKey": "0x2fbe4c32f585cc4285a432536b981bb0a6fde8f927271335e191492629265849",
-        "confirmed": true,
-        "confirmedAt": "2026-11-16T12:48:50.000Z",
+        "confirmed": false,
+        "confirmedAt": null,
         "contested": false,
-        "released": true,
+        "released": false,
         "openAdvances": 0,
-        "coverQor": 4,
+        "coverQor": 0,
         "advancedQor": 0,
-        "watchers": [
-          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
-          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0"
-        ]
+        "watchers": []
       }
     }
   ]
