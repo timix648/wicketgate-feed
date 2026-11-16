@@ -2,7 +2,7 @@
   "version": 1,
   "rollupId": "wicketgate-pay",
   "rollupKey": "0x8c7b3d3f54999fc426122972f809325097d432f4107fac1460c6847039299f7a",
-  "updatedAt": "2026-11-16T13:52:44.087Z",
+  "updatedAt": "2026-11-16T13:57:32.807Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
@@ -35,7 +35,7 @@
     },
     {
       "index": 1,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 3,
       "inboxEnd": 6,
       "submittedTime": 1794833628,
@@ -57,7 +57,7 @@
     },
     {
       "index": 2,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 6,
       "inboxEnd": 7,
       "submittedTime": 1794833771,
