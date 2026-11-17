@@ -10,13 +10,13 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-17T09:47:31.531Z",
+  "updatedAt": "2026-11-17T09:52:28.335Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
-    "head": 16,
-    "consumed": 15,
-    "oldestPendingHeight": 10248229
+    "head": 17,
+    "consumed": 17,
+    "oldestPendingHeight": null
   },
   "batches": [
     {
@@ -220,6 +220,46 @@
       "submission": {
         "tx": "EA2719178721C63EF82C64ABD3FFF681A339ECD4172E4828CBB432B66A43365A",
         "height": 10248123,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 9,
+      "status": "submitted",
+      "inboxStart": 15,
+      "inboxEnd": 16,
+      "submittedTime": 1794908863,
+      "stateRoot": "0xcbec16d593cb188b67db1dd5f8d01b12e84ccc21fc4be206609b236f738b38b5",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": {
+        "tx": "D17B1A0506AB6DD3888570392DF924168B3D98526792D1DD13FBD27B4848F60E",
+        "height": 10248243,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 10,
+      "status": "submitted",
+      "inboxStart": 16,
+      "inboxEnd": 17,
+      "submittedTime": 1794909036,
+      "stateRoot": "0xc50ad1be8d8098bafe94a28ef9128fff973bb9908edb3cff213262ad8165555b",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": {
+        "tx": "F241749069AFE2F4E1B9933509F1EF26E5076BABE707DCB5D2EE3C26A98E3053",
+        "height": 10248363,
         "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
         "pqVerified": true,
         "tier": "pqc"
