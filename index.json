@@ -4,19 +4,19 @@
   "rollups": [
     {
       "rollupId": "rdk-v328-e2e-mwd5v89d",
-      "updatedAt": "2026-11-17T22:34:58.308Z",
+      "updatedAt": "2026-11-17T22:39:48.501Z",
       "batches": 4,
       "file": "rdk-v328-e2e-mwd5v89d.json"
     },
     {
       "rollupId": "vigil-1",
-      "updatedAt": "2026-11-17T22:35:05.460Z",
+      "updatedAt": "2026-11-17T22:39:52.743Z",
       "batches": 27,
       "file": "vigil-1.json"
     },
     {
       "rollupId": "wicketgate-pay",
-      "updatedAt": "2026-11-17T22:35:13.366Z",
+      "updatedAt": "2026-11-17T22:39:56.520Z",
       "batches": 11,
       "file": "wicketgate-pay.json"
     }
