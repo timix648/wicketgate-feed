@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "rollupId": "vigil-1",
+  "rollupKey": "0x67db76d1ce29a3c3edd7892d6203d4a9f3646f77af591addc81443833b9e5f5b",
+  "lane": {
+    "windowSecs": 0,
+    "graceSecs": 0,
+    "feeBps": 0,
+    "quorum": 0,
+    "lockPerWatcherQor": 0,
+    "enabled": false
+  },
+  "updatedAt": "2026-11-17T04:30:12.160Z",
+  "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
+  "mode": "challenge",
+  "inbox": {
+    "head": 3,
+    "consumed": 3,
+    "oldestPendingHeight": null
+  },
+  "batches": [
+    {
+      "index": 0,
+      "status": "submitted",
+      "inboxStart": 0,
+      "inboxEnd": 3,
+      "submittedTime": 1794889632,
+      "stateRoot": "0x8de3a37a763a47a2d7338865e886073b6b8e66fe60193b83842a44e9a8e8d06e",
+      "withdrawalsRoot": "0x5ea8db0708898987fa28b3e9fc5685bfb9a2883b9febf5981c3f01eb1e14d41b",
+      "verdict": "match",
+      "exitRoot": "0x117b3115a6380215ef0dc087366e3d786ee3f3f6c9c07bf9cf17df94f06ee46e",
+      "withdrawals": [
+        {
+          "index": "0",
+          "recipient": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+          "recipientEvm": "0x7F806B5bF878a7b89d7F7d0b4ec3a517A38d15C7",
+          "amountUqor": "500000",
+          "exitProof": [],
+          "chainProof": []
+        }
+      ],
+      "submission": {
+        "tx": "B15BF4B9BACA1DE7ED0E290C8BD9D409AF11A8207D38FD5481066C047092E70E",
+        "height": 10234764,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    }
+  ]
+}
