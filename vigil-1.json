@@ -10,12 +10,12 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-17T09:17:14.283Z",
+  "updatedAt": "2026-11-17T09:22:28.508Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
-    "head": 11,
-    "consumed": 11,
+    "head": 13,
+    "consumed": 13,
     "oldestPendingHeight": null
   },
   "batches": [
@@ -140,6 +140,46 @@
       "submission": {
         "tx": "CFD10F9A0B331A139E21BB10133ABEEC7A9E9D847BCD175F438F0170D1E7BD3D",
         "height": 10246942,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 5,
+      "status": "submitted",
+      "inboxStart": 11,
+      "inboxEnd": 12,
+      "submittedTime": 1794907155,
+      "stateRoot": "0x7dc90fdfbbccc83e0199d652b8efa4284951467e033e8e1c788b61d82dec2ce0",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": {
+        "tx": "31C182B648A87AAC7D92BE8B0100319CFA0C8435011D3892416D04271F52F93A",
+        "height": 10247048,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 6,
+      "status": "submitted",
+      "inboxStart": 12,
+      "inboxEnd": 13,
+      "submittedTime": 1794907266,
+      "stateRoot": "0xc967217b2dbd928e0f910b98e6faff9074d7b23735bb7eebf484c4e5f84f5503",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": {
+        "tx": "85D4790675D68E91FE189215C9F96F66C443E40A92526D186B6DC426F17638E3",
+        "height": 10247126,
         "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
         "pqVerified": true,
         "tier": "pqc"
