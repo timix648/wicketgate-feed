@@ -10,12 +10,12 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-17T10:38:10.805Z",
+  "updatedAt": "2026-11-17T10:42:51.967Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
-    "head": 21,
-    "consumed": 21,
+    "head": 23,
+    "consumed": 23,
     "oldestPendingHeight": null
   },
   "batches": [
@@ -329,6 +329,55 @@
       "submission": {
         "tx": "8F6E53DCD689D5CA08038FFE3E2A90492C42F27F014AD64F44D9541B184FE74A",
         "height": 10250290,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 14,
+      "status": "submitted",
+      "inboxStart": 21,
+      "inboxEnd": 22,
+      "submittedTime": 1794912002,
+      "stateRoot": "0x1d6ba3067492b537596f846a53836145336cf15a929a331308885a64305bd55b",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": {
+        "tx": "66EDF795D07714AD9EE962BFE248053731B6B5368D1E3218D96FB9242DB0D3E7",
+        "height": 10250439,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 15,
+      "status": "submitted",
+      "inboxStart": 22,
+      "inboxEnd": 23,
+      "submittedTime": 1794912031,
+      "stateRoot": "0x4b8879f671ccb1d0e2ed39852b542fd303bf82baaa68e9a2d48c06f8c632584e",
+      "withdrawalsRoot": "0x7b1cf870d0ab50f64f4fa2d92ae3c794721c50ec0aec161bdfe23fe813c15a4c",
+      "verdict": "match",
+      "exitRoot": "0x8102bc88d32ba109532c0885de1d73d6835d6416969af6e3f32b272e43ffc541",
+      "withdrawals": [
+        {
+          "index": "3",
+          "recipient": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+          "recipientEvm": "0x7F806B5bF878a7b89d7F7d0b4ec3a517A38d15C7",
+          "amountUqor": "10000",
+          "exitProof": [],
+          "chainProof": []
+        }
+      ],
+      "submission": {
+        "tx": "6CD0447AA96328A725BFD31C4518BD8CD42423C069068619FEE1CC5DA88C81F4",
+        "height": 10250459,
         "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
         "pqVerified": true,
         "tier": "pqc"
