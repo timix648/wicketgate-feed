@@ -1,0 +1,119 @@
+{
+  "rollupId": "wicketgate-pay",
+  "generatedAt": "2026-11-18T19:57:31.658Z",
+  "batches": 11,
+  "receipts": 11,
+  "valid": 11,
+  "rows": [
+    {
+      "batch": 0,
+      "status": "finalized",
+      "valid": true,
+      "checks": "6/6",
+      "stateRoot": "07f5775eeac55a01b3c0cd01887c9faccce37af2c0607d2aad0af1557bb390ad",
+      "anchorHeight": 10195387,
+      "algorithm": "ML-DSA-87",
+      "file": "batch-0.json"
+    },
+    {
+      "batch": 1,
+      "status": "finalized",
+      "valid": true,
+      "checks": "6/6",
+      "stateRoot": "ead59be450d7f0bced9eaf5df81fb0b0372b0e6ce02e145794eee226748fc850",
+      "anchorHeight": 10195500,
+      "algorithm": "ML-DSA-87",
+      "file": "batch-1.json"
+    },
+    {
+      "batch": 2,
+      "status": "finalized",
+      "valid": true,
+      "checks": "6/6",
+      "stateRoot": "fe31b41d7b01c52356bd03c885860311eaa2ee518902f605dbc636573f8b85ab",
+      "anchorHeight": 10195599,
+      "algorithm": "ML-DSA-87",
+      "file": "batch-2.json"
+    },
+    {
+      "batch": 3,
+      "status": "finalized",
+      "valid": true,
+      "checks": "6/6",
+      "stateRoot": "2f80928b3fc4696771724d65c566a8e0eb8115a0e918d2f83100a230dbb785f2",
+      "anchorHeight": 10195786,
+      "algorithm": "ML-DSA-87",
+      "file": "batch-3.json"
+    },
+    {
+      "batch": 4,
+      "status": "finalized",
+      "valid": true,
+      "checks": "6/6",
+      "stateRoot": "f67766edc1c21970249205fe2800cd558ad7e40f9acfa76bca27aa7e8b4cbb62",
+      "anchorHeight": 10206699,
+      "algorithm": "ML-DSA-87",
+      "file": "batch-4.json"
+    },
+    {
+      "batch": 5,
+      "status": "finalized",
+      "valid": true,
+      "checks": "6/6",
+      "stateRoot": "0a0505db1845df2d35d2a134f199e5c1b800837f8c9c1bb4bca9b5a67a035dfa",
+      "anchorHeight": 10206726,
+      "algorithm": "ML-DSA-87",
+      "file": "batch-5.json"
+    },
+    {
+      "batch": 6,
+      "status": "finalized",
+      "valid": true,
+      "checks": "6/6",
+      "stateRoot": "39ce3cce5901bf8b00198e97a9396190e4954a3aaf24027a7c9ca026076a6309",
+      "anchorHeight": 10206794,
+      "algorithm": "ML-DSA-87",
+      "file": "batch-6.json"
+    },
+    {
+      "batch": 7,
+      "status": "finalized",
+      "valid": true,
+      "checks": "6/6",
+      "stateRoot": "6468bea1be84b28c110cc7c3c7ea9da9dcf326aaad9f23cf99b7c37d936272b1",
+      "anchorHeight": 10207504,
+      "algorithm": "ML-DSA-87",
+      "file": "batch-7.json"
+    },
+    {
+      "batch": 8,
+      "status": "finalized",
+      "valid": true,
+      "checks": "6/6",
+      "stateRoot": "711c086ea02e0a336d75c74ab40f48d295eb5a58f14e2fd367900839ed40134a",
+      "anchorHeight": 10207600,
+      "algorithm": "ML-DSA-87",
+      "file": "batch-8.json"
+    },
+    {
+      "batch": 9,
+      "status": "finalized",
+      "valid": true,
+      "checks": "6/6",
+      "stateRoot": "8dda312936ed78a7dff85a858ebf089fe12834f0f08c958ae49a9a2f8322455c",
+      "anchorHeight": 10207615,
+      "algorithm": "ML-DSA-87",
+      "file": "batch-9.json"
+    },
+    {
+      "batch": 10,
+      "status": "finalized",
+      "valid": true,
+      "checks": "6/6",
+      "stateRoot": "9260912fd661d4a25bc8ce93d080044d44a80986131c4f67f595bd68ea8125ed",
+      "anchorHeight": 10213558,
+      "algorithm": "ML-DSA-87",
+      "file": "batch-10.json"
+    }
+  ]
+}
