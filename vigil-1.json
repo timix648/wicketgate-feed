@@ -10,11 +10,11 @@
     "lockPerWatcherQor": 20,
     "enabled": true
   },
-  "updatedAt": "2026-11-18T21:39:19.910Z",
+  "updatedAt": "2026-11-18T21:44:21.246Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
-    "head": 42,
+    "head": 44,
     "consumed": 41,
     "oldestPendingHeight": 10338495
   },
@@ -980,6 +980,35 @@
           "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
           "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0"
         ]
+      }
+    },
+    {
+      "index": 29,
+      "status": "rejected",
+      "inboxStart": 41,
+      "inboxEnd": 43,
+      "submittedTime": 1795038116,
+      "stateRoot": "0x69c68862b19c8faeecee42cd82bcbca6f884d169bc5bf6b55e5a71376615f868",
+      "withdrawalsRoot": "0x8aca2150a32842e7316bdd1f48e854c07c70412a5aa19b23933fa1ba8fd9c079",
+      "verdict": "rejected-on-chain",
+      "reason": "rejected by a fraud proof; its inbox range was rolled back",
+      "submission": {
+        "tx": "9C99378232BDEAF92ED44D109236D39DA2B693CAD5122572F577E6A734C44DDE",
+        "height": 10338740,
+        "signer": "qor1hc3dg5w8a988kazr7cdjyqp6sdqpf2sg8vqse4",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": {
+        "batchKey": "0x7f5bbb15024852b4a1d4e2fa542891c6f464183d2bacf2796d9671d1dc9bb112",
+        "confirmed": false,
+        "confirmedAt": null,
+        "contested": false,
+        "released": false,
+        "openAdvances": 0,
+        "coverQor": 0,
+        "advancedQor": 0,
+        "watchers": []
       }
     }
   ]
