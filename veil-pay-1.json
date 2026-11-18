@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "rollupId": "veil-pay-1",
+  "rollupKey": "0x761e576d6804ecebdba034a826ed33a8987f56e2110d13423c5fdd1698d6b48e",
+  "lane": {
+    "windowSecs": 0,
+    "graceSecs": 0,
+    "feeBps": 0,
+    "quorum": 0,
+    "lockPerWatcherQor": 0,
+    "enabled": false
+  },
+  "updatedAt": "2026-11-18T07:54:06.696Z",
+  "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
+  "mode": "challenge",
+  "inbox": {
+    "head": 3,
+    "consumed": 3,
+    "oldestPendingHeight": null
+  },
+  "batches": [
+    {
+      "index": 0,
+      "status": "submitted",
+      "inboxStart": 0,
+      "inboxEnd": 3,
+      "submittedTime": 1794988312,
+      "stateRoot": "0x03a597edc173caf8a4b63400382a6d50ca0797db45ac1b2d212153c28c32742e",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": {
+        "tx": "86513B9ACC9A4AA079C7EA51BA9558768232581EFE8AB41ECB8AF4FDCDBCD96D",
+        "height": 10303842,
+        "signer": "qor1a5j8wjpxpqc6f7htyv92042nrt7gaegpezdhx4",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    }
+  ]
+}
