@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "rollupId": "sealed-scouts-1",
+  "rollupKey": "0xe828d56b7344fb85378a1af5f286adc649ca4bad3ab766619ccad24c8cd43342",
+  "lane": {
+    "windowSecs": 0,
+    "graceSecs": 0,
+    "feeBps": 0,
+    "quorum": 0,
+    "lockPerWatcherQor": 0,
+    "enabled": false
+  },
+  "updatedAt": "2026-11-19T18:51:24.962Z",
+  "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
+  "mode": "challenge",
+  "inbox": {
+    "head": 11,
+    "consumed": 0,
+    "oldestPendingHeight": 10388279
+  },
+  "batches": []
+}
