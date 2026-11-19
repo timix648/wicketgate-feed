@@ -10,13 +10,13 @@
     "lockPerWatcherQor": 20,
     "enabled": true
   },
-  "updatedAt": "2026-11-19T03:55:44.942Z",
+  "updatedAt": "2026-11-19T04:00:58.253Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
     "head": 45,
-    "consumed": 41,
-    "oldestPendingHeight": 10338495
+    "consumed": 45,
+    "oldestPendingHeight": null
   },
   "batches": [
     {
@@ -984,18 +984,20 @@
     },
     {
       "index": 29,
-      "status": "rejected",
+      "status": "submitted",
       "inboxStart": 41,
       "inboxEnd": 45,
-      "submittedTime": 1795039302,
+      "submittedTime": 1795060634,
       "stateRoot": "0xeb384b8438352e46eb023b42a3d01229996eb652658bbf91308f9b03a1638dd2",
-      "withdrawalsRoot": "0xc6d0958df633f196f0e188e60e561d1444dfe0490eea93098076bcfdae653d05",
-      "verdict": "rejected-on-chain",
-      "reason": "rejected by a fraud proof; its inbox range was rolled back",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "attestationTx": "not-needed: no withdrawals to exit",
       "submission": {
-        "tx": "3DB238B4F64AE89A0A8200781FE72D1D671E9D96902EC6698275A166D0B6A2E0",
-        "height": 10339572,
-        "signer": "qor1hc3dg5w8a988kazr7cdjyqp6sdqpf2sg8vqse4",
+        "tx": "C84025D3BFD559F6DB4C7F567C5BE00082ADBDA741A0C5A1B2710BD423ED9FE2",
+        "height": 10354506,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
         "pqVerified": true,
         "tier": "pqc"
       },
@@ -1003,6 +1005,13 @@
         {
           "tx": "9C99378232BDEAF92ED44D109236D39DA2B693CAD5122572F577E6A734C44DDE",
           "height": 10338740,
+          "signer": "qor1hc3dg5w8a988kazr7cdjyqp6sdqpf2sg8vqse4",
+          "pqVerified": true,
+          "tier": "pqc"
+        },
+        {
+          "tx": "3DB238B4F64AE89A0A8200781FE72D1D671E9D96902EC6698275A166D0B6A2E0",
+          "height": 10339572,
           "signer": "qor1hc3dg5w8a988kazr7cdjyqp6sdqpf2sg8vqse4",
           "pqVerified": true,
           "tier": "pqc"
