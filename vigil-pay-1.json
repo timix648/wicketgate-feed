@@ -10,13 +10,34 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-19T03:10:01.115Z",
+  "updatedAt": "2026-11-19T03:15:05.434Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
-    "head": 0,
-    "consumed": 0,
+    "head": 1,
+    "consumed": 1,
     "oldestPendingHeight": null
   },
-  "batches": []
+  "batches": [
+    {
+      "index": 0,
+      "status": "submitted",
+      "inboxStart": 0,
+      "inboxEnd": 1,
+      "submittedTime": 1795058004,
+      "stateRoot": "0x27cc24911b144e354f0154d22fbf5a9a2143655cc9763e90614b2aba6761959e",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": {
+        "tx": "E953275101D707E1D93C69216FA8B9CEA2331EF5BBCA88A6F34DEC3F33813D35",
+        "height": 10352665,
+        "signer": "qor1z6m6kshavs5zjvd3tz0nu9tjpde5p7w83mj90s",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    }
+  ]
 }
