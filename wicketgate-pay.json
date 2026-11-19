@@ -10,12 +10,12 @@
     "lockPerWatcherQor": 50,
     "enabled": true
   },
-  "updatedAt": "2026-11-19T20:13:10.857Z",
+  "updatedAt": "2026-11-19T20:18:10.440Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
-    "head": 47,
-    "consumed": 47,
+    "head": 50,
+    "consumed": 50,
     "oldestPendingHeight": null
   },
   "batches": [
@@ -931,6 +931,49 @@
         "watchers": [
           "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
           "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4"
+        ]
+      }
+    },
+    {
+      "index": 14,
+      "status": "submitted",
+      "inboxStart": 47,
+      "inboxEnd": 50,
+      "submittedTime": 1795119287,
+      "stateRoot": "0x8b74fda7a0cd987d2b867fa8bd9bf88818a839a4e490c2a2cec1b7e4178eeb91",
+      "withdrawalsRoot": "0x7ea5bda21c211519b409247f9a2f04072691ef7cfbbd4326f0aa9980966710af",
+      "verdict": "match",
+      "exitRoot": "0xbabadb26b0c025210526201415e4de77efdf15b63f9ea51c54dc7a93dee04658",
+      "withdrawals": [
+        {
+          "index": "28",
+          "recipient": "qor1a8nahtw9fv9d2elg6l8v85m44eqhpyre5zkxee",
+          "recipientEvm": "0xe9e7DbaDc54b0Ad567E8D7ceC3D375aE41709079",
+          "amountUqor": "2000000",
+          "exitProof": [],
+          "chainProof": []
+        }
+      ],
+      "attestationTx": "already-attested",
+      "submission": {
+        "tx": "A027E683E3E30EF64B312E599D3330B808AC1F7DB77BA79B0D2FF6AA4562712B",
+        "height": 10391947,
+        "signer": "qor16087dpc985wvk6hlsl2x8p0kyumz394q0lvm6k",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": {
+        "batchKey": "0x60bad13148d2d35e9fcb63ba6ed876a5a78f0bb8ac92e8e75886ab16b9d9203c",
+        "confirmed": true,
+        "confirmedAt": "2026-11-19T20:14:59.000Z",
+        "contested": false,
+        "released": false,
+        "openAdvances": 0,
+        "coverQor": 0,
+        "advancedQor": 0,
+        "watchers": [
+          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
+          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0"
         ]
       }
     }
