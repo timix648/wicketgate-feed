@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "rollupId": "vigil-pay-1",
+  "rollupKey": "0x2625e6d758919c41ae36231f6d96be4ecb64babe96e0f3eedb8009c750b24bef",
+  "lane": {
+    "windowSecs": 0,
+    "graceSecs": 0,
+    "feeBps": 0,
+    "quorum": 0,
+    "lockPerWatcherQor": 0,
+    "enabled": false
+  },
+  "updatedAt": "2026-11-19T02:54:37.962Z",
+  "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
+  "mode": "challenge",
+  "inbox": {
+    "head": 0,
+    "consumed": 0,
+    "oldestPendingHeight": null
+  },
+  "batches": []
+}
