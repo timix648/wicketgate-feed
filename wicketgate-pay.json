@@ -10,7 +10,7 @@
     "lockPerWatcherQor": 50,
     "enabled": true
   },
-  "updatedAt": "2026-11-19T09:08:00.306Z",
+  "updatedAt": "2026-11-19T09:13:06.375Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
@@ -924,7 +924,7 @@
         "confirmed": true,
         "confirmedAt": "2026-11-19T07:38:14.000Z",
         "contested": false,
-        "released": false,
+        "released": true,
         "openAdvances": 0,
         "coverQor": 0,
         "advancedQor": 0,
