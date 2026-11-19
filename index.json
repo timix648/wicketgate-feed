@@ -4,25 +4,25 @@
   "rollups": [
     {
       "rollupId": "rdk-v328-e2e-mwd5v89d",
-      "updatedAt": "2026-11-19T03:45:43.253Z",
+      "updatedAt": "2026-11-19T03:50:45.339Z",
       "batches": 5,
       "file": "rdk-v328-e2e-mwd5v89d.json"
     },
     {
       "rollupId": "veil-pay-1",
-      "updatedAt": "2026-11-19T03:45:44.074Z",
+      "updatedAt": "2026-11-19T03:50:46.127Z",
       "batches": 5,
       "file": "veil-pay-1.json"
     },
     {
       "rollupId": "vigil-1",
-      "updatedAt": "2026-11-19T03:45:45.564Z",
+      "updatedAt": "2026-11-19T03:50:47.395Z",
       "batches": 30,
       "file": "vigil-1.json"
     },
     {
       "rollupId": "vigil-pay-1",
-      "updatedAt": "2026-11-19T03:45:46.700Z",
+      "updatedAt": "2026-11-19T03:50:48.717Z",
       "batches": 3,
       "file": "vigil-pay-1.json"
     }
