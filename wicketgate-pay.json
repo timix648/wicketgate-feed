@@ -10,12 +10,12 @@
     "lockPerWatcherQor": 50,
     "enabled": true
   },
-  "updatedAt": "2026-11-19T20:33:41.438Z",
+  "updatedAt": "2026-11-19T20:38:38.957Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
-    "head": 50,
-    "consumed": 50,
+    "head": 51,
+    "consumed": 51,
     "oldestPendingHeight": null
   },
   "batches": [
@@ -975,6 +975,36 @@
           "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
           "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0"
         ]
+      }
+    },
+    {
+      "index": 15,
+      "status": "submitted",
+      "inboxStart": 50,
+      "inboxEnd": 51,
+      "submittedTime": 1795120697,
+      "stateRoot": "0x6e1a23a26edb8ad84ac4c9828c6ed2bfdc288ee53f5b72cb72f6fd70999711a5",
+      "withdrawalsRoot": "0x76885afd593797d32a59fcf41f78f4b10d21ff6a3bb48356b040049937359957",
+      "verdict": "mismatch",
+      "reason": "withdrawals root differs from re-execution",
+      "challengeTx": "2A766E33FB5A0C8C324B4AF16C4DD6F3E6E1A133D98ABC24615DE47EDB4CCE74",
+      "submission": {
+        "tx": "D178C82640E413CDBB5A2E6B492C8B302C95C4BED8A5201B670A364D17A25C6D",
+        "height": 10392938,
+        "signer": "qor1qmjh62n42g60awt47qry7ah5f0rm5eulstekac",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": {
+        "batchKey": "0x07a33a854740565242fe652602db0d9796a29aa22f30b3aedbe74dc8236b098e",
+        "confirmed": false,
+        "confirmedAt": null,
+        "contested": false,
+        "released": false,
+        "openAdvances": 0,
+        "coverQor": 0,
+        "advancedQor": 0,
+        "watchers": []
       }
     }
   ]
