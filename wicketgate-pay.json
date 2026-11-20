@@ -10,13 +10,13 @@
     "lockPerWatcherQor": 50,
     "enabled": true
   },
-  "updatedAt": "2026-11-20T09:51:39.452Z",
+  "updatedAt": "2026-11-20T09:56:57.588Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
     "head": 54,
-    "consumed": 51,
-    "oldestPendingHeight": 10426212
+    "consumed": 54,
+    "oldestPendingHeight": null
   },
   "batches": [
     {
@@ -1013,6 +1013,49 @@
         "coverQor": 0,
         "advancedQor": 0,
         "watchers": []
+      }
+    },
+    {
+      "index": 16,
+      "status": "submitted",
+      "inboxStart": 51,
+      "inboxEnd": 54,
+      "submittedTime": 1795168305,
+      "stateRoot": "0xc16ec575fd8d95ebf9773bb3ff69cc4f8c2fbc2455c93d2731627a0268905568",
+      "withdrawalsRoot": "0x83122aa0e4149e2040dd5ece3ba64041706417ca54a121b1c4cf24f2f7326c0e",
+      "verdict": "match",
+      "exitRoot": "0xd891c88bba55c0dcde3cc2bb52270f8e0bc97cccbb1cd6a4fa2c135db87520a0",
+      "withdrawals": [
+        {
+          "index": "29",
+          "recipient": "qor1tdfz7mr2fcvtm53awruuyxhrkl4kmkdjppwre0",
+          "recipientEvm": "0x5B522f6C6a4e18bDD23d70F9C21aE3b7eB6dd9b2",
+          "amountUqor": "1000000",
+          "exitProof": [],
+          "chainProof": []
+        }
+      ],
+      "attestationTx": "already-attested",
+      "submission": {
+        "tx": "F83CE6C5F483D00E5C6D469BD2670AFB0872C0A05F6A402B6584CE7EA27516A4",
+        "height": 10426232,
+        "signer": "qor16087dpc985wvk6hlsl2x8p0kyumz394q0lvm6k",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": {
+        "batchKey": "0xe010f0ea0f37cb98e24078809bc931887296f57c37d36c15b652c98e08daa731",
+        "confirmed": true,
+        "confirmedAt": "2026-11-20T09:52:09.000Z",
+        "contested": false,
+        "released": false,
+        "openAdvances": 1,
+        "coverQor": 1,
+        "advancedQor": 1,
+        "watchers": [
+          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
+          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4"
+        ]
       }
     }
   ]
