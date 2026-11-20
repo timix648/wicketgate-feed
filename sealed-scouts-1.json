@@ -10,12 +10,12 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-20T13:08:06.502Z",
+  "updatedAt": "2026-11-20T13:13:25.466Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
-    "head": 331,
-    "consumed": 331,
+    "head": 355,
+    "consumed": 355,
     "oldestPendingHeight": null
   },
   "batches": [
@@ -1178,6 +1178,166 @@
       "submission": {
         "tx": "E99E35311C421B77FA42C4E90EB42AD6403584F5A464402EFD99E2D96D6B9297",
         "height": 10434443,
+        "signer": "qor1gydsf0760dumk23gzph45w5y8gltuch8zfn9qf",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 57,
+      "status": "submitted",
+      "inboxStart": 331,
+      "inboxEnd": 337,
+      "submittedTime": 1795180103,
+      "stateRoot": "0x0bab2ea726d24c0de36eec282131debbec9049321be105b5d3f27555720b6bc7",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": {
+        "tx": "C502AF716415FAB7E51522A560A80A689B301830B263A463D1C0F7B6F5BF99C3",
+        "height": 10434468,
+        "signer": "qor1gydsf0760dumk23gzph45w5y8gltuch8zfn9qf",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 58,
+      "status": "submitted",
+      "inboxStart": 337,
+      "inboxEnd": 339,
+      "submittedTime": 1795180187,
+      "stateRoot": "0x0bab2ea726d24c0de36eec282131debbec9049321be105b5d3f27555720b6bc7",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": {
+        "tx": "A03E93FF8EBB73C3BA1805EADF0FA095F0DF2DB8774CEC65D12FDFEB3A2B66AE",
+        "height": 10434527,
+        "signer": "qor1gydsf0760dumk23gzph45w5y8gltuch8zfn9qf",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 59,
+      "status": "submitted",
+      "inboxStart": 339,
+      "inboxEnd": 340,
+      "submittedTime": 1795180197,
+      "stateRoot": "0x0bab2ea726d24c0de36eec282131debbec9049321be105b5d3f27555720b6bc7",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": {
+        "tx": "723A2C9927AB4EF400A56C4B86566FBD7EC0D7E36EA5D6783D5C6B2208684944",
+        "height": 10434534,
+        "signer": "qor1gydsf0760dumk23gzph45w5y8gltuch8zfn9qf",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 60,
+      "status": "submitted",
+      "inboxStart": 340,
+      "inboxEnd": 342,
+      "submittedTime": 1795180227,
+      "stateRoot": "0x0bab2ea726d24c0de36eec282131debbec9049321be105b5d3f27555720b6bc7",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": {
+        "tx": "4DE419699D412DBDC1B7514FD0D089ED9B5E52BC74FC37C817D096FC4BEC72C0",
+        "height": 10434555,
+        "signer": "qor1gydsf0760dumk23gzph45w5y8gltuch8zfn9qf",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 61,
+      "status": "submitted",
+      "inboxStart": 342,
+      "inboxEnd": 346,
+      "submittedTime": 1795180237,
+      "stateRoot": "0x0bab2ea726d24c0de36eec282131debbec9049321be105b5d3f27555720b6bc7",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": {
+        "tx": "AB0C11368117D0E62667DE906721ACB2BFCDFAC3D9A87EB8D950EEBF42E6A122",
+        "height": 10434562,
+        "signer": "qor1gydsf0760dumk23gzph45w5y8gltuch8zfn9qf",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 62,
+      "status": "submitted",
+      "inboxStart": 346,
+      "inboxEnd": 349,
+      "submittedTime": 1795180317,
+      "stateRoot": "0x0bab2ea726d24c0de36eec282131debbec9049321be105b5d3f27555720b6bc7",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": {
+        "tx": "F4A4DEA54B7C02B25F7EC5170C3B53DF5D7B293B816AE730BBFF5E7358E0D4C7",
+        "height": 10434618,
+        "signer": "qor1gydsf0760dumk23gzph45w5y8gltuch8zfn9qf",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 63,
+      "status": "submitted",
+      "inboxStart": 349,
+      "inboxEnd": 351,
+      "submittedTime": 1795180357,
+      "stateRoot": "0x0bab2ea726d24c0de36eec282131debbec9049321be105b5d3f27555720b6bc7",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": {
+        "tx": "CC3A0F3356330189014FBB682B04A39A4D3BCD3A5F3A3EB6966319BB9472FDE3",
+        "height": 10434646,
+        "signer": "qor1gydsf0760dumk23gzph45w5y8gltuch8zfn9qf",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 64,
+      "status": "submitted",
+      "inboxStart": 351,
+      "inboxEnd": 355,
+      "submittedTime": 1795180367,
+      "stateRoot": "0x0bab2ea726d24c0de36eec282131debbec9049321be105b5d3f27555720b6bc7",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": {
+        "tx": "2BD1E8D3B34C7E8345C4C007DF0BB859E5319C90ACDC59E714AFE74940E984EB",
+        "height": 10434653,
         "signer": "qor1gydsf0760dumk23gzph45w5y8gltuch8zfn9qf",
         "pqVerified": true,
         "tier": "pqc"
