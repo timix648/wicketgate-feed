@@ -10,12 +10,12 @@
     "lockPerWatcherQor": 50,
     "enabled": true
   },
-  "updatedAt": "2026-11-20T11:18:36.844Z",
+  "updatedAt": "2026-11-20T11:24:17.203Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
-    "head": 54,
-    "consumed": 54,
+    "head": 56,
+    "consumed": 56,
     "oldestPendingHeight": null
   },
   "batches": [
@@ -1047,10 +1047,53 @@
         "confirmed": true,
         "confirmedAt": "2026-11-20T09:52:09.000Z",
         "contested": false,
-        "released": false,
+        "released": true,
         "openAdvances": 0,
         "coverQor": 1,
         "advancedQor": 0,
+        "watchers": [
+          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
+          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4"
+        ]
+      }
+    },
+    {
+      "index": 17,
+      "status": "submitted",
+      "inboxStart": 54,
+      "inboxEnd": 56,
+      "submittedTime": 1795173691,
+      "stateRoot": "0x50f8dd2262106a2d9d4ad2e8aa5752461d432253ef44fe0704d396468108f245",
+      "withdrawalsRoot": "0x9a6bbcfbb18cc21aad4dad0498461b87c843a23b0f296bd690f027fb27b4554e",
+      "verdict": "match",
+      "exitRoot": "0x6078336c40f604f19ec965edaa2fff325feb6cef679627dd320be630a9e3695d",
+      "withdrawals": [
+        {
+          "index": "30",
+          "recipient": "qor1lnwe2mpaca3v58dllucnzg3ue64p8x54gh2crm",
+          "recipientEvm": "0xfCDD956c3dc762cA1dBfff3131223cceaa139A95",
+          "amountUqor": "1000000",
+          "exitProof": [],
+          "chainProof": []
+        }
+      ],
+      "attestationTx": "already-attested",
+      "submission": {
+        "tx": "9BDBFB73D907854D7CE4B73D3E67768CDB40ED149AC7FA4EA211B578E22DE8D4",
+        "height": 10430004,
+        "signer": "qor16087dpc985wvk6hlsl2x8p0kyumz394q0lvm6k",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": {
+        "batchKey": "0xb5a838e287f6af5525ed45cc75220ef993795d8bed6d3809fd61fc6205a2a0cd",
+        "confirmed": true,
+        "confirmedAt": "2026-11-20T11:21:55.000Z",
+        "contested": false,
+        "released": false,
+        "openAdvances": 1,
+        "coverQor": 1,
+        "advancedQor": 1,
         "watchers": [
           "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
           "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4"
