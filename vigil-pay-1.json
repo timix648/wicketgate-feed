@@ -10,12 +10,12 @@
     "lockPerWatcherQor": 20,
     "enabled": true
   },
-  "updatedAt": "2026-11-20T12:47:25.766Z",
+  "updatedAt": "2026-11-20T12:53:17.878Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
-    "head": 12,
-    "consumed": 12,
+    "head": 13,
+    "consumed": 13,
     "oldestPendingHeight": null
   },
   "batches": [
@@ -383,6 +383,49 @@
         "coverQor": 0,
         "advancedQor": 0,
         "watchers": []
+      }
+    },
+    {
+      "index": 11,
+      "status": "submitted",
+      "inboxStart": 12,
+      "inboxEnd": 13,
+      "submittedTime": 1795178855,
+      "stateRoot": "0xcb76f9e3f601ebf610f3a205fac6a040141939d43072c66c0758b611e77be85b",
+      "withdrawalsRoot": "0x93d53b7a110b9c8e5f47573309e2b1d45a4d8e610135641429ab10369ac88ba2",
+      "verdict": "match",
+      "exitRoot": "0x1a4f387a4f69281c133e2e5036617277c5877ea082715f395ac14687a4c2431c",
+      "withdrawals": [
+        {
+          "index": "2",
+          "recipient": "qor10w42gcuvzr0mvnt2ukfu9uqe0qh8wulrv2gk6k",
+          "recipientEvm": "0x7BaAa4638c10dFB64D6ae593C2f019782E7773E3",
+          "amountUqor": "100000",
+          "exitProof": [],
+          "chainProof": []
+        }
+      ],
+      "attestationTx": "already-attested",
+      "submission": {
+        "tx": "07FF243ADEC001154ADA0B35A4850BFE5010D790AF1AB1C1EA4D5D9954929941",
+        "height": 10433596,
+        "signer": "qor1qwker9qw2l4jpsudwkkkcrwnc9a29xpvw36gft",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": {
+        "batchKey": "0xfbbe35407b4bf7bd12436d76898d088be2884d78161a5e63f04514bc26a43d1c",
+        "confirmed": true,
+        "confirmedAt": "2026-11-20T12:47:51.000Z",
+        "contested": false,
+        "released": false,
+        "openAdvances": 0,
+        "coverQor": 0,
+        "advancedQor": 0,
+        "watchers": [
+          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
+          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0"
+        ]
       }
     }
   ]
