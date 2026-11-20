@@ -10,7 +10,7 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-20T19:20:14.394Z",
+  "updatedAt": "2026-11-20T19:25:20.349Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
@@ -3602,7 +3602,7 @@
     },
     {
       "index": 212,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 1390,
       "inboxEnd": 1397,
       "submittedTime": 1795198878,
@@ -3616,7 +3616,7 @@
     },
     {
       "index": 213,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 1397,
       "inboxEnd": 1404,
       "submittedTime": 1795199006,
