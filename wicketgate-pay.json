@@ -10,12 +10,12 @@
     "lockPerWatcherQor": 50,
     "enabled": true
   },
-  "updatedAt": "2026-11-20T12:16:44.939Z",
+  "updatedAt": "2026-11-20T12:22:43.205Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
-    "head": 56,
-    "consumed": 56,
+    "head": 59,
+    "consumed": 59,
     "oldestPendingHeight": null
   },
   "batches": [
@@ -402,17 +402,14 @@
       },
       "pool": {
         "batchKey": "0xcf48bf3702fb04270aae30534dd4a467a3d8ecad9639ef862c4792d32149b9d2",
-        "confirmed": true,
-        "confirmedAt": "2026-11-16T20:03:58.000Z",
+        "confirmed": false,
+        "confirmedAt": null,
         "contested": false,
-        "released": true,
+        "released": false,
         "openAdvances": 0,
-        "coverQor": 3,
+        "coverQor": 0,
         "advancedQor": 0,
-        "watchers": [
-          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
-          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0"
-        ]
+        "watchers": []
       }
     },
     {
@@ -849,17 +846,14 @@
       },
       "pool": {
         "batchKey": "0x5c57e0fc5cdbf2eeff7b74ff7a1193d056035e387851c78011fb1fd859c1db5a",
-        "confirmed": true,
-        "confirmedAt": "2026-11-18T20:00:35.000Z",
+        "confirmed": false,
+        "confirmedAt": null,
         "contested": false,
-        "released": true,
+        "released": false,
         "openAdvances": 0,
-        "coverQor": 100,
+        "coverQor": 0,
         "advancedQor": 0,
-        "watchers": [
-          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
-          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0"
-        ]
+        "watchers": []
       }
     },
     {
@@ -921,17 +915,14 @@
       },
       "pool": {
         "batchKey": "0xcba0c063d632e21658a6486466b0a67357f7bb391c2c69a5a24ed1843acff2fe",
-        "confirmed": true,
-        "confirmedAt": "2026-11-19T07:38:14.000Z",
+        "confirmed": false,
+        "confirmedAt": null,
         "contested": false,
-        "released": true,
+        "released": false,
         "openAdvances": 0,
         "coverQor": 0,
         "advancedQor": 0,
-        "watchers": [
-          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
-          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4"
-        ]
+        "watchers": []
       }
     },
     {
@@ -963,17 +954,14 @@
       },
       "pool": {
         "batchKey": "0x60bad13148d2d35e9fcb63ba6ed876a5a78f0bb8ac92e8e75886ab16b9d9203c",
-        "confirmed": true,
-        "confirmedAt": "2026-11-19T20:14:59.000Z",
+        "confirmed": false,
+        "confirmedAt": null,
         "contested": false,
-        "released": true,
+        "released": false,
         "openAdvances": 0,
         "coverQor": 0,
         "advancedQor": 0,
-        "watchers": [
-          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
-          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0"
-        ]
+        "watchers": []
       }
     },
     {
@@ -1044,22 +1032,19 @@
       },
       "pool": {
         "batchKey": "0xe010f0ea0f37cb98e24078809bc931887296f57c37d36c15b652c98e08daa731",
-        "confirmed": true,
-        "confirmedAt": "2026-11-20T09:52:09.000Z",
+        "confirmed": false,
+        "confirmedAt": null,
         "contested": false,
-        "released": true,
+        "released": false,
         "openAdvances": 0,
-        "coverQor": 1,
+        "coverQor": 0,
         "advancedQor": 0,
-        "watchers": [
-          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
-          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4"
-        ]
+        "watchers": []
       }
     },
     {
       "index": 17,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 54,
       "inboxEnd": 56,
       "submittedTime": 1795173691,
@@ -1077,7 +1062,6 @@
           "chainProof": []
         }
       ],
-      "attestationTx": "already-attested",
       "submission": {
         "tx": "9BDBFB73D907854D7CE4B73D3E67768CDB40ED149AC7FA4EA211B578E22DE8D4",
         "height": 10430004,
@@ -1088,12 +1072,55 @@
       "pool": {
         "batchKey": "0xb5a838e287f6af5525ed45cc75220ef993795d8bed6d3809fd61fc6205a2a0cd",
         "confirmed": true,
-        "confirmedAt": "2026-11-20T11:21:55.000Z",
+        "confirmedAt": "2026-11-20T12:21:09.000Z",
         "contested": false,
         "released": false,
-        "openAdvances": 1,
-        "coverQor": 1,
-        "advancedQor": 1,
+        "openAdvances": 0,
+        "coverQor": 0,
+        "advancedQor": 0,
+        "watchers": [
+          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
+          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4"
+        ]
+      }
+    },
+    {
+      "index": 18,
+      "status": "submitted",
+      "inboxStart": 56,
+      "inboxEnd": 59,
+      "submittedTime": 1795177110,
+      "stateRoot": "0xa27abe83ae0f45dc6b549cf14d027f56e628dd154b0607989012a22b6108135b",
+      "withdrawalsRoot": "0x1189cfbf7bcba0a64ecfa0b2319212db7fd35c2c0d35d297c062a3f7c730b260",
+      "verdict": "match",
+      "exitRoot": "0xeb0495224c85d493eb82a3b1a1879e41985794088b50e815c0f0f7405c17ed3a",
+      "withdrawals": [
+        {
+          "index": "31",
+          "recipient": "qor123uyerp3ac404yr3r3u34mydg06p33jdxq53ug",
+          "recipientEvm": "0x54784c8C31eE2aFa90711C791Aec8D43F418C64D",
+          "amountUqor": "2000000",
+          "exitProof": [],
+          "chainProof": []
+        }
+      ],
+      "attestationTx": "already-attested",
+      "submission": {
+        "tx": "0C306945CAC433DDA26F2A1D79B48DFB60D71B9FE3F1B3DBB783D45A9810A5A1",
+        "height": 10432392,
+        "signer": "qor16087dpc985wvk6hlsl2x8p0kyumz394q0lvm6k",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": {
+        "batchKey": "0x2886e8e33df7d7f4f2330ae3978b44006add84b59a3285453f6bc9b9b511938c",
+        "confirmed": true,
+        "confirmedAt": "2026-11-20T12:21:15.000Z",
+        "contested": false,
+        "released": false,
+        "openAdvances": 0,
+        "coverQor": 0,
+        "advancedQor": 0,
         "watchers": [
           "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
           "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4"

@@ -10,7 +10,7 @@
     "lockPerWatcherQor": 20,
     "enabled": true
   },
-  "updatedAt": "2026-11-20T12:16:42.828Z",
+  "updatedAt": "2026-11-20T12:22:39.867Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
@@ -375,17 +375,14 @@
       },
       "pool": {
         "batchKey": "0xf3d00567ec3ead36fba6fea97ad0f5cf4caa447b1009bf45f44aa5482eaaf844",
-        "confirmed": true,
-        "confirmedAt": "2026-11-19T20:42:32.000Z",
+        "confirmed": false,
+        "confirmedAt": null,
         "contested": false,
-        "released": true,
+        "released": false,
         "openAdvances": 0,
-        "coverQor": 2,
+        "coverQor": 0,
         "advancedQor": 0,
-        "watchers": [
-          "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
-          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4"
-        ]
+        "watchers": []
       }
     }
   ]
