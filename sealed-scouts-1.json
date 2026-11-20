@@ -10,13 +10,13 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-20T14:15:39.843Z",
+  "updatedAt": "2026-11-20T14:20:47.112Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
-    "head": 580,
-    "consumed": 574,
-    "oldestPendingHeight": 10437252
+    "head": 595,
+    "consumed": 588,
+    "oldestPendingHeight": 10437432
   },
   "batches": [
     {
@@ -1426,7 +1426,7 @@
     },
     {
       "index": 69,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 364,
       "inboxEnd": 365,
       "submittedTime": 1795180573,
@@ -1446,7 +1446,7 @@
     },
     {
       "index": 70,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 365,
       "inboxEnd": 370,
       "submittedTime": 1795180593,
@@ -1466,7 +1466,7 @@
     },
     {
       "index": 71,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 370,
       "inboxEnd": 380,
       "submittedTime": 1795180724,
@@ -2002,6 +2002,34 @@
         "pqVerified": true,
         "tier": "pqc"
       },
+      "pool": null
+    },
+    {
+      "index": 98,
+      "status": "submitted",
+      "inboxStart": 574,
+      "inboxEnd": 581,
+      "submittedTime": 1795184198,
+      "stateRoot": "0xfb3417a17d457dd53da564470d19efbf43f757b040c08f25a25f51a44f0acd8e",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 99,
+      "status": "submitted",
+      "inboxStart": 581,
+      "inboxEnd": 588,
+      "submittedTime": 1795184331,
+      "stateRoot": "0xfb3417a17d457dd53da564470d19efbf43f757b040c08f25a25f51a44f0acd8e",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
       "pool": null
     }
   ]
