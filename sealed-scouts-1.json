@@ -10,13 +10,13 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-20T14:57:41.397Z",
+  "updatedAt": "2026-11-20T15:02:25.377Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
-    "head": 723,
-    "consumed": 723,
-    "oldestPendingHeight": null
+    "head": 746,
+    "consumed": 740,
+    "oldestPendingHeight": 10439233
   },
   "batches": [
     {
@@ -1846,7 +1846,7 @@
     },
     {
       "index": 90,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 515,
       "inboxEnd": 522,
       "submittedTime": 1795183172,
@@ -1866,7 +1866,7 @@
     },
     {
       "index": 91,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 522,
       "inboxEnd": 529,
       "submittedTime": 1795183298,
@@ -2277,6 +2277,34 @@
       "inboxEnd": 723,
       "submittedTime": 1795186645,
       "stateRoot": "0x19cea9c2dabde0316b6d342ea91265687b78307b947adda48b112caee0534014",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 118,
+      "status": "submitted",
+      "inboxStart": 723,
+      "inboxEnd": 730,
+      "submittedTime": 1795186774,
+      "stateRoot": "0x19cea9c2dabde0316b6d342ea91265687b78307b947adda48b112caee0534014",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 119,
+      "status": "submitted",
+      "inboxStart": 730,
+      "inboxEnd": 740,
+      "submittedTime": 1795186899,
+      "stateRoot": "0x4d49576cb9ba9679a0d2c4376c468076ae4b5fa770dd9ec9b95eaa4626d7d111",
       "withdrawalsRoot": "0x",
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
