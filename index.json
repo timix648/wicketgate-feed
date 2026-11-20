@@ -4,37 +4,37 @@
   "rollups": [
     {
       "rollupId": "rdk-v328-e2e-mwd5v89d",
-      "updatedAt": "2026-11-20T18:38:54.984Z",
+      "updatedAt": "2026-11-20T18:44:08.559Z",
       "batches": 6,
       "file": "rdk-v328-e2e-mwd5v89d.json"
     },
     {
       "rollupId": "sealed-scouts-1",
-      "updatedAt": "2026-11-20T18:39:00.609Z",
+      "updatedAt": "2026-11-20T18:44:12.643Z",
       "batches": 215,
       "file": "sealed-scouts-1.json"
     },
     {
       "rollupId": "veil-pay-1",
-      "updatedAt": "2026-11-20T18:39:01.722Z",
+      "updatedAt": "2026-11-20T18:44:13.295Z",
       "batches": 6,
       "file": "veil-pay-1.json"
     },
     {
       "rollupId": "vigil-1",
-      "updatedAt": "2026-11-20T18:39:03.353Z",
+      "updatedAt": "2026-11-20T18:44:14.558Z",
       "batches": 30,
       "file": "vigil-1.json"
     },
     {
       "rollupId": "vigil-pay-1",
-      "updatedAt": "2026-11-20T18:39:04.182Z",
+      "updatedAt": "2026-11-20T18:44:15.322Z",
       "batches": 13,
       "file": "vigil-pay-1.json"
     },
     {
       "rollupId": "wicketgate-pay",
-      "updatedAt": "2026-11-20T18:39:05.930Z",
+      "updatedAt": "2026-11-20T18:44:17.213Z",
       "batches": 19,
       "file": "wicketgate-pay.json"
     }
