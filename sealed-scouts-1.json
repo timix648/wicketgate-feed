@@ -10,13 +10,13 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-20T14:05:30.663Z",
+  "updatedAt": "2026-11-20T14:10:37.169Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
-    "head": 543,
-    "consumed": 536,
-    "oldestPendingHeight": 10436803
+    "head": 560,
+    "consumed": 560,
+    "oldestPendingHeight": null
   },
   "batches": [
     {
@@ -1066,7 +1066,7 @@
     },
     {
       "index": 51,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 319,
       "inboxEnd": 321,
       "submittedTime": 1795179929,
@@ -1086,7 +1086,7 @@
     },
     {
       "index": 52,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 321,
       "inboxEnd": 322,
       "submittedTime": 1795179937,
@@ -1106,7 +1106,7 @@
     },
     {
       "index": 53,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 322,
       "inboxEnd": 326,
       "submittedTime": 1795179974,
@@ -1126,7 +1126,7 @@
     },
     {
       "index": 54,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 326,
       "inboxEnd": 328,
       "submittedTime": 1795179984,
@@ -1146,7 +1146,7 @@
     },
     {
       "index": 55,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 328,
       "inboxEnd": 330,
       "submittedTime": 1795180056,
@@ -1166,7 +1166,7 @@
     },
     {
       "index": 56,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 330,
       "inboxEnd": 331,
       "submittedTime": 1795180066,
@@ -1186,7 +1186,7 @@
     },
     {
       "index": 57,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 331,
       "inboxEnd": 337,
       "submittedTime": 1795180103,
@@ -1206,7 +1206,7 @@
     },
     {
       "index": 58,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 337,
       "inboxEnd": 339,
       "submittedTime": 1795180187,
@@ -1226,7 +1226,7 @@
     },
     {
       "index": 59,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 339,
       "inboxEnd": 340,
       "submittedTime": 1795180197,
@@ -1898,6 +1898,66 @@
       "submission": {
         "tx": "A549735C6630EE5E35595A99AFA1C2D917C056D4A5F6FE8868FE02D691872911",
         "height": 10436793,
+        "signer": "qor1gydsf0760dumk23gzph45w5y8gltuch8zfn9qf",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 93,
+      "status": "submitted",
+      "inboxStart": 536,
+      "inboxEnd": 543,
+      "submittedTime": 1795183559,
+      "stateRoot": "0xb8715cfb342c70479ce8de3b8712dc6e7fee42664d705ccbc101a348e39d395c",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": {
+        "tx": "E3EF1D6DF0744DA04ECF9C70FD009DB2C24E77F0D68AC81157E1B7C5D939864F",
+        "height": 10436882,
+        "signer": "qor1gydsf0760dumk23gzph45w5y8gltuch8zfn9qf",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 94,
+      "status": "submitted",
+      "inboxStart": 543,
+      "inboxEnd": 550,
+      "submittedTime": 1795183686,
+      "stateRoot": "0xb8715cfb342c70479ce8de3b8712dc6e7fee42664d705ccbc101a348e39d395c",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": {
+        "tx": "14C1849BB97CEADBDF575B5CFB2E7F37431CECDB337E9D498C772FE8EB6BED1A",
+        "height": 10436972,
+        "signer": "qor1gydsf0760dumk23gzph45w5y8gltuch8zfn9qf",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 95,
+      "status": "submitted",
+      "inboxStart": 550,
+      "inboxEnd": 560,
+      "submittedTime": 1795183818,
+      "stateRoot": "0xfb3417a17d457dd53da564470d19efbf43f757b040c08f25a25f51a44f0acd8e",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": {
+        "tx": "353D19A9CFB0D746FB46E61ED7AA5513C8229E971675AC50DAB498F8B14FC256",
+        "height": 10437064,
         "signer": "qor1gydsf0760dumk23gzph45w5y8gltuch8zfn9qf",
         "pqVerified": true,
         "tier": "pqc"
