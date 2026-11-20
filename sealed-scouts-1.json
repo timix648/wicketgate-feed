@@ -10,13 +10,13 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-20T12:32:38.436Z",
+  "updatedAt": "2026-11-20T12:37:52.111Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
-    "head": 276,
+    "head": 277,
     "consumed": 276,
-    "oldestPendingHeight": null
+    "oldestPendingHeight": 10433088
   },
   "batches": [
     {
@@ -743,6 +743,25 @@
         "tx": "E0FE85888069D01A5F89CEA67345306695C3CBE2AFA3BB657C9CBA137D3C6E3C",
         "height": 10391610,
         "signer": "qor1gydsf0760dumk23gzph45w5y8gltuch8zfn9qf",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 36,
+      "status": "rejected",
+      "inboxStart": 276,
+      "inboxEnd": 277,
+      "submittedTime": 1795178126,
+      "stateRoot": "0xf4ab2ea726d24c0de36eec282131debbec9049321be105b5d3f27555720b6bc7",
+      "withdrawalsRoot": "0x",
+      "verdict": "rejected-on-chain",
+      "reason": "rejected by a fraud proof; its inbox range was rolled back",
+      "submission": {
+        "tx": "EB405A53C17C947F18A42E4C73E442CE253B1F2C7E2360B61E0AE57382CF85BA",
+        "height": 10433104,
+        "signer": "qor19vcs3hcveku6uyd4j688reugl8m877ykzluhj3",
         "pqVerified": true,
         "tier": "pqc"
       },
