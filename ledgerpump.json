@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "rollupId": "ledgerpump",
+  "rollupKey": "0xf925ff943c2473219f63c1b19362aa92cd5e1a48737f7436cc536f6efc65e4b9",
+  "lane": {
+    "windowSecs": 0,
+    "graceSecs": 0,
+    "feeBps": 0,
+    "quorum": 0,
+    "lockPerWatcherQor": 0,
+    "enabled": false
+  },
+  "updatedAt": "2026-11-21T18:21:31.647Z",
+  "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
+  "mode": "challenge",
+  "inbox": {
+    "head": 0,
+    "consumed": 0,
+    "oldestPendingHeight": null
+  },
+  "accounts": [],
+  "batches": []
+}
