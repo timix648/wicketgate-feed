@@ -10,7 +10,7 @@
     "lockPerWatcherQor": 8,
     "enabled": true
   },
-  "updatedAt": "2026-11-21T14:09:14.006Z",
+  "updatedAt": "2026-11-21T14:12:35.888Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
@@ -18,6 +18,43 @@
     "consumed": 18,
     "oldestPendingHeight": null
   },
+  "accounts": [
+    {
+      "id": "0x000000000000000000000000453de4649d1322c53428f405db25ddad688d2be8",
+      "balance": "1000000",
+      "nonce": 0
+    },
+    {
+      "id": "0x14e8c2f84ea0be3ca595612ce65cfd795f9b01a69a7b16f06bf02acf61bc34a7",
+      "balance": "700000",
+      "nonce": 1
+    },
+    {
+      "id": "0x365941e28df60f6fa76a8070c4898b167a893c551cec1a20c386ac59c44447e7",
+      "balance": "500000",
+      "nonce": 0
+    },
+    {
+      "id": "0x5401e3ef8b91c5fb59a28fc3941972720234b13ae748a431f073d6aff4772c17",
+      "balance": "3",
+      "nonce": 0
+    },
+    {
+      "id": "0x6023358463a8ddf73ba806210a01c6a9400f075b2cd7ab14559e26971a6652c5",
+      "balance": "3300000",
+      "nonce": 2
+    },
+    {
+      "id": "0x9554c942c01410544f113297d9f0ec6ce18fa426d925a89c71e77021e7792bbd",
+      "balance": "1500000",
+      "nonce": 2
+    },
+    {
+      "id": "0xeb1a44af2658a72b7d5c50f80d522f9f7fb23c55bddda7f5f057f7ba5993c632",
+      "balance": "1400000",
+      "nonce": 1
+    }
+  ],
   "batches": [
     {
       "index": 0,
