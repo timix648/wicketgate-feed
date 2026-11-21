@@ -10,8 +10,8 @@
     "lockPerWatcherQor": 20,
     "enabled": true
   },
-  "updatedAt": "2026-11-21T14:50:51.545Z",
-  "watcher": "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
+  "updatedAt": "2026-11-21T14:51:57.202Z",
+  "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
     "head": 45,
