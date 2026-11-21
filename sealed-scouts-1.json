@@ -10,13 +10,13 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-21T00:42:36.645Z",
+  "updatedAt": "2026-11-21T00:47:20.662Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
-    "head": 1634,
-    "consumed": 1627,
-    "oldestPendingHeight": 10463532
+    "head": 1648,
+    "consumed": 1641,
+    "oldestPendingHeight": 10463714
   },
   "batches": [
     {
@@ -3686,7 +3686,7 @@
     },
     {
       "index": 218,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 1431,
       "inboxEnd": 1438,
       "submittedTime": 1795218178,
@@ -3700,7 +3700,7 @@
     },
     {
       "index": 219,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 1438,
       "inboxEnd": 1445,
       "submittedTime": 1795218310,
@@ -4068,6 +4068,34 @@
       "inboxStart": 1620,
       "inboxEnd": 1627,
       "submittedTime": 1795221663,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 246,
+      "status": "submitted",
+      "inboxStart": 1627,
+      "inboxEnd": 1634,
+      "submittedTime": 1795221792,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 247,
+      "status": "submitted",
+      "inboxStart": 1634,
+      "inboxEnd": 1641,
+      "submittedTime": 1795221925,
       "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
       "withdrawalsRoot": "0x",
       "verdict": "match",
