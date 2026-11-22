@@ -10,13 +10,13 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-22T05:25:23.215Z",
+  "updatedAt": "2026-11-22T05:30:27.913Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
-    "head": 1885,
-    "consumed": 1878,
-    "oldestPendingHeight": 10535893
+    "head": 1905,
+    "consumed": 1899,
+    "oldestPendingHeight": 10536164
   },
   "accounts": [
     {
@@ -4585,6 +4585,48 @@
       "inboxStart": 1871,
       "inboxEnd": 1878,
       "submittedTime": 1795325005,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 281,
+      "status": "submitted",
+      "inboxStart": 1878,
+      "inboxEnd": 1885,
+      "submittedTime": 1795325129,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 282,
+      "status": "submitted",
+      "inboxStart": 1885,
+      "inboxEnd": 1892,
+      "submittedTime": 1795325264,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 283,
+      "status": "submitted",
+      "inboxStart": 1892,
+      "inboxEnd": 1899,
+      "submittedTime": 1795325392,
       "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
       "withdrawalsRoot": "0x",
       "verdict": "match",
