@@ -10,13 +10,13 @@
     "lockPerWatcherQor": 50,
     "enabled": true
   },
-  "updatedAt": "2026-11-22T22:55:28.865Z",
+  "updatedAt": "2026-11-22T23:00:23.873Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
   "inbox": {
-    "head": 65,
-    "consumed": 65,
+    "head": 66,
+    "consumed": 66,
     "oldestPendingHeight": null
   },
   "accounts": [
@@ -27,13 +27,13 @@
     },
     {
       "id": "0x5401e3ef8b91c5fb59a28fc3941972720234b13ae748a431f073d6aff4772c17",
-      "balance": "34",
+      "balance": "35",
       "nonce": 0
     },
     {
       "id": "0x9554c942c01410544f113297d9f0ec6ce18fa426d925a89c71e77021e7792bbd",
-      "balance": "20100000",
-      "nonce": 48
+      "balance": "19100000",
+      "nonce": 49
     }
   ],
   "batches": [
@@ -1219,6 +1219,49 @@
         "confirmedAt": "2026-11-22T11:29:15.000Z",
         "contested": false,
         "released": true,
+        "openAdvances": 0,
+        "coverQor": 0,
+        "advancedQor": 0,
+        "watchers": [
+          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
+          "0xe9916f8cf1D98E47f7FCC518800C2Ef72cb703D8"
+        ]
+      }
+    },
+    {
+      "index": 21,
+      "status": "submitted",
+      "inboxStart": 65,
+      "inboxEnd": 66,
+      "submittedTime": 1795388367,
+      "stateRoot": "0x1d73bd20c093ce48870fdf997e283460fa64f8129662742748a52f7d13b93a9b",
+      "withdrawalsRoot": "0xfc2365dec559ffaac85bb1a3dc42023c5a77b001c3ff895b6f92ed3eef32f1ca",
+      "verdict": "match",
+      "exitRoot": "0xd274315538f7ee19eb2d0bb6ff3875e89fc4e6153bb605916c9ea81f381f26f4",
+      "withdrawals": [
+        {
+          "index": "34",
+          "recipient": "qor1m0a405ld8y4y9emyu3k02ym05h5xy0z3jz3s47",
+          "recipientEvm": "0xdbFb57d3ED392a42e764E46CF5136fA5e8623C51",
+          "amountUqor": "1000000",
+          "exitProof": [],
+          "chainProof": []
+        }
+      ],
+      "attestationTx": "already-attested",
+      "submission": {
+        "tx": "C9D8D2401C55244CF49BD62378BF2875F452A5541B7B54BB19E1BDDAAA7A3F15",
+        "height": 10580238,
+        "signer": "qor16087dpc985wvk6hlsl2x8p0kyumz394q0lvm6k",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": {
+        "batchKey": "0xe547a921a92b9cc4caeb4a764ddda624d9f116efd22f4c227797fac532e26d67",
+        "confirmed": true,
+        "confirmedAt": "2026-11-22T22:59:38.000Z",
+        "contested": false,
+        "released": false,
         "openAdvances": 0,
         "coverQor": 0,
         "advancedQor": 0,
