@@ -10,7 +10,7 @@
     "lockPerWatcherQor": 50,
     "enabled": true
   },
-  "updatedAt": "2026-11-22T23:00:23.873Z",
+  "updatedAt": "2026-11-22T23:05:40.487Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
@@ -1262,9 +1262,9 @@
         "confirmedAt": "2026-11-22T22:59:38.000Z",
         "contested": false,
         "released": false,
-        "openAdvances": 0,
-        "coverQor": 0,
-        "advancedQor": 0,
+        "openAdvances": 1,
+        "coverQor": 1,
+        "advancedQor": 1,
         "watchers": [
           "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
           "0xe9916f8cf1D98E47f7FCC518800C2Ef72cb703D8"
