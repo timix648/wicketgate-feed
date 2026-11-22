@@ -10,13 +10,13 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-22T09:34:41.092Z",
+  "updatedAt": "2026-11-22T09:39:37.150Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
-    "head": 2697,
-    "consumed": 2697,
-    "oldestPendingHeight": null
+    "head": 2717,
+    "consumed": 2711,
+    "oldestPendingHeight": 10546604
   },
   "accounts": [
     {
@@ -5841,7 +5841,7 @@
     },
     {
       "index": 370,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 2501,
       "inboxEnd": 2508,
       "submittedTime": 1795336586,
@@ -5855,7 +5855,7 @@
     },
     {
       "index": 371,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 2508,
       "inboxEnd": 2515,
       "submittedTime": 1795336716,
@@ -6223,6 +6223,34 @@
       "inboxStart": 2690,
       "inboxEnd": 2697,
       "submittedTime": 1795340062,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 398,
+      "status": "submitted",
+      "inboxStart": 2697,
+      "inboxEnd": 2704,
+      "submittedTime": 1795340190,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 399,
+      "status": "submitted",
+      "inboxStart": 2704,
+      "inboxEnd": 2711,
+      "submittedTime": 1795340320,
       "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
       "withdrawalsRoot": "0x",
       "verdict": "match",
