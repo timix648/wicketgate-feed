@@ -10,13 +10,13 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-22T06:41:29.721Z",
+  "updatedAt": "2026-11-22T06:46:42.404Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "inbox": {
-    "head": 2136,
-    "consumed": 2130,
-    "oldestPendingHeight": 10539133
+    "head": 2151,
+    "consumed": 2144,
+    "oldestPendingHeight": 10539312
   },
   "accounts": [
     {
@@ -4707,7 +4707,7 @@
     },
     {
       "index": 289,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 1934,
       "inboxEnd": 1941,
       "submittedTime": 1795326160,
@@ -4721,7 +4721,7 @@
     },
     {
       "index": 290,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 1941,
       "inboxEnd": 1948,
       "submittedTime": 1795326289,
@@ -5089,6 +5089,34 @@
       "inboxStart": 2123,
       "inboxEnd": 2130,
       "submittedTime": 1795329639,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 317,
+      "status": "submitted",
+      "inboxStart": 2130,
+      "inboxEnd": 2137,
+      "submittedTime": 1795329764,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 318,
+      "status": "submitted",
+      "inboxStart": 2137,
+      "inboxEnd": 2144,
+      "submittedTime": 1795329895,
       "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
       "withdrawalsRoot": "0x",
       "verdict": "match",
