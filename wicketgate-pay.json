@@ -10,7 +10,7 @@
     "lockPerWatcherQor": 50,
     "enabled": true
   },
-  "updatedAt": "2026-11-23T23:47:09.509Z",
+  "updatedAt": "2026-11-23T23:52:22.135Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
@@ -1861,9 +1861,9 @@
         "confirmedAt": "2026-11-23T22:45:13.000Z",
         "contested": false,
         "released": false,
-        "openAdvances": 3,
+        "openAdvances": 0,
         "coverQor": 13.04,
-        "advancedQor": 5.152,
+        "advancedQor": 0,
         "watchers": [
           "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
           "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0"
@@ -2023,9 +2023,9 @@
         "confirmedAt": "2026-11-23T22:47:14.000Z",
         "contested": false,
         "released": false,
-        "openAdvances": 8,
+        "openAdvances": 0,
         "coverQor": 13.721,
-        "advancedQor": 13.721,
+        "advancedQor": 0,
         "watchers": [
           "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
           "0xe9916f8cf1D98E47f7FCC518800C2Ef72cb703D8"
@@ -2034,7 +2034,7 @@
     },
     {
       "index": 29,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 101,
       "inboxEnd": 109,
       "submittedTime": 1795474100,
@@ -2172,7 +2172,6 @@
           ]
         }
       ],
-      "attestationTx": "already-attested",
       "submission": {
         "tx": "98BF76080165CA5A4C35C5E2720B5BF15A3F70F82EC5DB4419E281F67821FDE5",
         "height": 10633018,
@@ -2186,9 +2185,9 @@
         "confirmedAt": "2026-11-23T22:48:33.000Z",
         "contested": false,
         "released": false,
-        "openAdvances": 8,
+        "openAdvances": 4,
         "coverQor": 14.965,
-        "advancedQor": 14.965,
+        "advancedQor": 7.3,
         "watchers": [
           "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
           "0xe9916f8cf1D98E47f7FCC518800C2Ef72cb703D8"
@@ -2197,7 +2196,7 @@
     },
     {
       "index": 30,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 109,
       "inboxEnd": 117,
       "submittedTime": 1795474196,
@@ -2335,7 +2334,6 @@
           ]
         }
       ],
-      "attestationTx": "already-attested",
       "submission": {
         "tx": "51386F76FCA20690901904BB42D6E131B837B074DE214D9D93633DA646A75D78",
         "height": 10633085,
