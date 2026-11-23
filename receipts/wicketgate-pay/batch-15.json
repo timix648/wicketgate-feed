@@ -21,13 +21,13 @@
     "valid": false,
     "mode": "chain",
     "checks": {
-      "rollupLayerBinding": true,
+      "rollupLayerBinding": false,
       "batchStateRoot": false,
       "anchorOnChain": false,
       "creatorAuthority": false,
       "pqcSignature": false,
       "chainBinding": false
     },
-    "checkedAt": "2026-11-23T13:32:08.348Z"
+    "checkedAt": "2026-11-23T14:03:20.111Z"
   }
 }
