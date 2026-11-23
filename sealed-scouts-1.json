@@ -10,14 +10,14 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-23T05:24:06.506Z",
+  "updatedAt": "2026-11-23T05:29:07.669Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
   "inbox": {
-    "head": 5017,
-    "consumed": 5016,
-    "oldestPendingHeight": 10596352
+    "head": 5018,
+    "consumed": 5018,
+    "oldestPendingHeight": null
   },
   "accounts": [
     {
@@ -12814,7 +12814,7 @@
     },
     {
       "index": 868,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 4997,
       "inboxEnd": 4998,
       "submittedTime": 1795407962,
@@ -12828,7 +12828,7 @@
     },
     {
       "index": 869,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 4998,
       "inboxEnd": 4999,
       "submittedTime": 1795408095,
@@ -13070,6 +13070,34 @@
       "inboxStart": 5015,
       "inboxEnd": 5016,
       "submittedTime": 1795411184,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 887,
+      "status": "submitted",
+      "inboxStart": 5016,
+      "inboxEnd": 5017,
+      "submittedTime": 1795411445,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 888,
+      "status": "submitted",
+      "inboxStart": 5017,
+      "inboxEnd": 5018,
+      "submittedTime": 1795411721,
       "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
       "withdrawalsRoot": "0x",
       "verdict": "match",
