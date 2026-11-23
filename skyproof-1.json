@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "rollupId": "skyproof-1",
+  "rollupKey": "0x25c6be15cf8605a44e3f787b9fe2908d779f855ffd1ad0c6a1168982dbbe9631",
+  "lane": {
+    "windowSecs": 0,
+    "graceSecs": 0,
+    "feeBps": 0,
+    "quorum": 0,
+    "lockPerWatcherQor": 0,
+    "enabled": false
+  },
+  "updatedAt": "2026-11-23T07:02:15.650Z",
+  "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
+  "mode": "challenge",
+  "reader": "rdk",
+  "inbox": {
+    "head": 17,
+    "consumed": 16,
+    "oldestPendingHeight": 10600508
+  },
+  "accounts": [
+    {
+      "id": "0x08aa7baf5c445f679998e50b8af4e5e59f7ab4a159a8e2c1e52100ab13622ddc",
+      "balance": "50000000",
+      "nonce": 0
+    }
+  ],
+  "batches": [
+    {
+      "index": 0,
+      "status": "submitted",
+      "inboxStart": 0,
+      "inboxEnd": 16,
+      "submittedTime": 1795417310,
+      "stateRoot": "0x3d2fc62fc8de63174ca39bcd2d8fc32943c302fff238bf79199cc9c2d9c8820b",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": {
+        "tx": "23878762E5A651075DF6A898F4FCD187F252ED55A08846ACB78C94D6F9425BF8",
+        "height": 10600497,
+        "signer": "qor1xynqax3jn65dekatcxqmfwpyh84xtgzl8y4mmn",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    }
+  ]
+}
