@@ -1,9 +1,9 @@
 {
   "rollupId": "wicketgate-pay",
-  "generatedAt": "2026-11-23T23:27:34.559Z",
+  "generatedAt": "2026-11-23T23:59:06.993Z",
   "batches": 31,
   "receipts": 31,
-  "valid": 30,
+  "valid": 31,
   "rows": [
     {
       "batch": 0,
@@ -88,8 +88,12 @@
     {
       "batch": 8,
       "status": "finalized",
-      "valid": false,
-      "error": "REST GET /qorechain/rdk/v1/batch/wicketgate-pay/8 failed: 429 Too Many Requests"
+      "valid": true,
+      "checks": "6/6",
+      "stateRoot": "711c086ea02e0a336d75c74ab40f48d295eb5a58f14e2fd367900839ed40134a",
+      "anchorHeight": 10207600,
+      "algorithm": "ML-DSA-87",
+      "file": "batch-8.json"
     },
     {
       "batch": 9,
@@ -243,7 +247,7 @@
     },
     {
       "batch": 24,
-      "status": "submitted",
+      "status": "finalized",
       "valid": true,
       "checks": "6/6",
       "stateRoot": "9333f115e25564c7cd715af38595037de116c31eea1bb8daf00fd64a4b166c24",
@@ -253,7 +257,7 @@
     },
     {
       "batch": 25,
-      "status": "submitted",
+      "status": "finalized",
       "valid": true,
       "checks": "6/6",
       "stateRoot": "ca7a1348efc0bfc5dd0d4e1c1634f02eb21ae3022eef8b0c2da62f1549dc2541",
@@ -263,7 +267,7 @@
     },
     {
       "batch": 26,
-      "status": "submitted",
+      "status": "finalized",
       "valid": true,
       "checks": "6/6",
       "stateRoot": "ab6fbe0e357c6132b66f3c054ab7278320a25eebf7d8a586f5d7dbd19a2b8bb1",
@@ -273,7 +277,7 @@
     },
     {
       "batch": 27,
-      "status": "submitted",
+      "status": "finalized",
       "valid": true,
       "checks": "6/6",
       "stateRoot": "1cab71f7da8064eaefe63ddaded80b58745974b1701e873cc2d5654d90222e7f",
@@ -283,7 +287,7 @@
     },
     {
       "batch": 28,
-      "status": "submitted",
+      "status": "finalized",
       "valid": true,
       "checks": "6/6",
       "stateRoot": "922b23a5078ae6c441e622287878b0110e753b37b91a564d51e16caa45e6e008",
@@ -293,7 +297,7 @@
     },
     {
       "batch": 29,
-      "status": "submitted",
+      "status": "finalized",
       "valid": true,
       "checks": "6/6",
       "stateRoot": "f9ad91d3fd1b1137564b3d33ff1f05179bcda14b820b9a5b157a9f6d5d097051",
@@ -303,7 +307,7 @@
     },
     {
       "batch": 30,
-      "status": "submitted",
+      "status": "finalized",
       "valid": true,
       "checks": "6/6",
       "stateRoot": "931daa1a18f871c53d694ba2518ad97962212a04416b373fa55c45ecf72bb369",
