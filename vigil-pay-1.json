@@ -10,7 +10,7 @@
     "lockPerWatcherQor": 20,
     "enabled": true
   },
-  "updatedAt": "2026-11-23T07:17:23.631Z",
+  "updatedAt": "2026-11-23T07:28:54.022Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
@@ -358,9 +358,9 @@
       "submission": {
         "tx": "C73B1CB2E9D8EE86004A6432D818293799A5F13790458A872BDFA1301DA6A26D",
         "height": 10393099,
-        "signer": "qor1z6m6kshavs5zjvd3tz0nu9tjpde5p7w83mj90s",
-        "pqVerified": true,
-        "tier": "pqc"
+        "signer": null,
+        "pqVerified": null,
+        "tier": null
       },
       "pool": {
         "batchKey": "0x061a967a90507e65b141aa36fd2d1a5ced072864efe8871d56d0f0f27fd23196",
@@ -397,9 +397,9 @@
       "submission": {
         "tx": "A1DA0D052FA92F57BEB0F88B04DAD412DE2D64E2A3B0812B1A3B13A15A8F28A4",
         "height": 10393105,
-        "signer": "qor1z6m6kshavs5zjvd3tz0nu9tjpde5p7w83mj90s",
-        "pqVerified": true,
-        "tier": "pqc"
+        "signer": null,
+        "pqVerified": null,
+        "tier": null
       },
       "pool": {
         "batchKey": "0xf3d00567ec3ead36fba6fea97ad0f5cf4caa447b1009bf45f44aa5482eaaf844",
@@ -436,9 +436,9 @@
       "submission": {
         "tx": "07FF243ADEC001154ADA0B35A4850BFE5010D790AF1AB1C1EA4D5D9954929941",
         "height": 10433596,
-        "signer": "qor1qwker9qw2l4jpsudwkkkcrwnc9a29xpvw36gft",
-        "pqVerified": true,
-        "tier": "pqc"
+        "signer": null,
+        "pqVerified": null,
+        "tier": null
       },
       "pool": {
         "batchKey": "0xfbbe35407b4bf7bd12436d76898d088be2884d78161a5e63f04514bc26a43d1c",
@@ -469,9 +469,9 @@
       "submission": {
         "tx": "2B7C50D856A5C0EC2E6A6514AA8660B09DBCC814A4F17A2C483603C65AA466EA",
         "height": 10433896,
-        "signer": "qor1z6m6kshavs5zjvd3tz0nu9tjpde5p7w83mj90s",
-        "pqVerified": true,
-        "tier": "pqc"
+        "signer": null,
+        "pqVerified": null,
+        "tier": null
       },
       "pool": {
         "batchKey": "0xfb43ce18d9eb51121dd850d333a9089a2366fc1dfb51b9fccd3fbb585a550436",
