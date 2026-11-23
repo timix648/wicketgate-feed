@@ -10,7 +10,7 @@
     "lockPerWatcherQor": 50,
     "enabled": true
   },
-  "updatedAt": "2026-11-23T23:41:40.475Z",
+  "updatedAt": "2026-11-23T23:47:09.509Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
@@ -1537,9 +1537,9 @@
         "confirmedAt": "2026-11-23T22:41:39.000Z",
         "contested": false,
         "released": false,
-        "openAdvances": 4,
+        "openAdvances": 0,
         "coverQor": 7.272,
-        "advancedQor": 7.272,
+        "advancedQor": 0,
         "watchers": [
           "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
           "0xe9916f8cf1D98E47f7FCC518800C2Ef72cb703D8"
@@ -1548,7 +1548,7 @@
     },
     {
       "index": 26,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 77,
       "inboxEnd": 85,
       "submittedTime": 1795473803,
@@ -1686,7 +1686,6 @@
           ]
         }
       ],
-      "attestationTx": "already-attested",
       "submission": {
         "tx": "CFE10354B65045360C91F15D45F09021A8529C8705342B2CF4C99A86BDFAA7FE",
         "height": 10632814,
@@ -1700,9 +1699,9 @@
         "confirmedAt": "2026-11-23T22:43:51.000Z",
         "contested": false,
         "released": false,
-        "openAdvances": 8,
+        "openAdvances": 0,
         "coverQor": 12.697,
-        "advancedQor": 12.697,
+        "advancedQor": 0,
         "watchers": [
           "0xe9916f8cf1D98E47f7FCC518800C2Ef72cb703D8",
           "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0"
@@ -1711,7 +1710,7 @@
     },
     {
       "index": 27,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 85,
       "inboxEnd": 93,
       "submittedTime": 1795473897,
@@ -1849,7 +1848,6 @@
           ]
         }
       ],
-      "attestationTx": "already-attested",
       "submission": {
         "tx": "0D46A9B0E46A55BC6EDA9169A4AB91E3C345886E41556BA62F1C5E0CFC653F96",
         "height": 10632879,
@@ -1863,9 +1861,9 @@
         "confirmedAt": "2026-11-23T22:45:13.000Z",
         "contested": false,
         "released": false,
-        "openAdvances": 8,
+        "openAdvances": 3,
         "coverQor": 13.04,
-        "advancedQor": 13.04,
+        "advancedQor": 5.152,
         "watchers": [
           "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
           "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0"
@@ -1874,7 +1872,7 @@
     },
     {
       "index": 28,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 93,
       "inboxEnd": 101,
       "submittedTime": 1795474005,
@@ -2012,7 +2010,6 @@
           ]
         }
       ],
-      "attestationTx": "already-attested",
       "submission": {
         "tx": "85DD7132C7A227C3AB67773DFF09D11BF405D11A319E6FD8CD8E4420219E79F5",
         "height": 10632953,
