@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "rollupId": "augury-oracle",
+  "rollupKey": "0x31991cec7611b464e857554a4ea9cd9a5d71e8804cbd03769f67e8eefb76cebf",
+  "lane": {
+    "windowSecs": 0,
+    "graceSecs": 0,
+    "feeBps": 0,
+    "quorum": 0,
+    "lockPerWatcherQor": 0,
+    "enabled": false
+  },
+  "updatedAt": "2026-11-23T22:47:32.489Z",
+  "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
+  "mode": "challenge",
+  "reader": "rdk",
+  "inbox": {
+    "head": 8,
+    "consumed": 0,
+    "oldestPendingHeight": 10632923
+  },
+  "accounts": [],
+  "batches": []
+}
