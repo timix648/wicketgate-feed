@@ -10,13 +10,13 @@
     "lockPerWatcherQor": 50,
     "enabled": true
   },
-  "updatedAt": "2026-11-23T20:01:48.989Z",
+  "updatedAt": "2026-11-23T20:06:39.332Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
   "inbox": {
-    "head": 66,
-    "consumed": 66,
+    "head": 67,
+    "consumed": 67,
     "oldestPendingHeight": null
   },
   "accounts": [
@@ -27,13 +27,13 @@
     },
     {
       "id": "0x5401e3ef8b91c5fb59a28fc3941972720234b13ae748a431f073d6aff4772c17",
-      "balance": "35",
+      "balance": "36",
       "nonce": 0
     },
     {
       "id": "0x9554c942c01410544f113297d9f0ec6ce18fa426d925a89c71e77021e7792bbd",
-      "balance": "19100000",
-      "nonce": 49
+      "balance": "18100000",
+      "nonce": 50
     }
   ],
   "batches": [
@@ -1267,6 +1267,49 @@
         "watchers": [
           "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
           "0xe9916f8cf1D98E47f7FCC518800C2Ef72cb703D8"
+        ]
+      }
+    },
+    {
+      "index": 22,
+      "status": "submitted",
+      "inboxStart": 66,
+      "inboxEnd": 67,
+      "submittedTime": 1795464273,
+      "stateRoot": "0x6e9dbc9b92a93a8d97907bc5af4c8e179174149a964a79e01aa7119fae0844fc",
+      "withdrawalsRoot": "0xec04f13048349b2a373204ff24d144691516458198948d5f9a17914f600fda4f",
+      "verdict": "match",
+      "exitRoot": "0x4325afe81c0dd05f07adb04373af99587c263c037a6c6f509ec1fcd99bf8f656",
+      "withdrawals": [
+        {
+          "index": "35",
+          "recipient": "qor14ycmjpsk30r5lmey6dxs7fu7zu9uy4edwmy48e",
+          "recipientEvm": "0xA931b906168bc74fef24D34d0F279e170bc2572D",
+          "amountUqor": "1000000",
+          "exitProof": [],
+          "chainProof": []
+        }
+      ],
+      "attestationTx": "already-attested",
+      "submission": {
+        "tx": "375E782265D99334B13F68FDEC9CEE5800CAE5E49C98B2EC577F8DE3EEBC4D4A",
+        "height": 10628404,
+        "signer": "qor16087dpc985wvk6hlsl2x8p0kyumz394q0lvm6k",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": {
+        "batchKey": "0x2650181d11ca9780bf95b33396c3d7e220125fcc2f0547193b464b0da66d7650",
+        "confirmed": true,
+        "confirmedAt": "2026-11-23T20:05:13.000Z",
+        "contested": false,
+        "released": false,
+        "openAdvances": 0,
+        "coverQor": 0,
+        "advancedQor": 0,
+        "watchers": [
+          "0xe9916f8cf1D98E47f7FCC518800C2Ef72cb703D8",
+          "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4"
         ]
       }
     }
