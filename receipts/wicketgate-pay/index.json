@@ -1,9 +1,9 @@
 {
   "rollupId": "wicketgate-pay",
-  "generatedAt": "2026-11-23T22:22:38.768Z",
-  "batches": 24,
-  "receipts": 24,
-  "valid": 24,
+  "generatedAt": "2026-11-23T22:55:02.279Z",
+  "batches": 31,
+  "receipts": 31,
+  "valid": 29,
   "rows": [
     {
       "batch": 0,
@@ -237,13 +237,79 @@
     },
     {
       "batch": 23,
-      "status": "submitted",
+      "status": "finalized",
       "valid": true,
       "checks": "6/6",
       "stateRoot": "6d217801ee79edbabeaf7252c76209ee2bd4dfdd8686ce63453682c0cfd331bc",
       "anchorHeight": 10630452,
       "algorithm": "ML-DSA-87",
       "file": "batch-23.json"
+    },
+    {
+      "batch": 24,
+      "status": "submitted",
+      "valid": true,
+      "checks": "6/6",
+      "stateRoot": "9333f115e25564c7cd715af38595037de116c31eea1bb8daf00fd64a4b166c24",
+      "anchorHeight": 10632712,
+      "algorithm": "ML-DSA-87",
+      "file": "batch-24.json"
+    },
+    {
+      "batch": 25,
+      "status": "submitted",
+      "valid": true,
+      "checks": "6/6",
+      "stateRoot": "ca7a1348efc0bfc5dd0d4e1c1634f02eb21ae3022eef8b0c2da62f1549dc2541",
+      "anchorHeight": 10632733,
+      "algorithm": "ML-DSA-87",
+      "file": "batch-25.json"
+    },
+    {
+      "batch": 26,
+      "status": "submitted",
+      "valid": false,
+      "checks": "0/6",
+      "stateRoot": "ab6fbe0e357c6132b66f3c054ab7278320a25eebf7d8a586f5d7dbd19a2b8bb1",
+      "anchorHeight": 10632814,
+      "algorithm": "ML-DSA-87",
+      "file": "batch-26.json"
+    },
+    {
+      "batch": 27,
+      "status": "submitted",
+      "valid": true,
+      "checks": "6/6",
+      "stateRoot": "1cab71f7da8064eaefe63ddaded80b58745974b1701e873cc2d5654d90222e7f",
+      "anchorHeight": 10632879,
+      "algorithm": "ML-DSA-87",
+      "file": "batch-27.json"
+    },
+    {
+      "batch": 28,
+      "status": "submitted",
+      "valid": false,
+      "error": "fetch failed"
+    },
+    {
+      "batch": 29,
+      "status": "submitted",
+      "valid": true,
+      "checks": "6/6",
+      "stateRoot": "f9ad91d3fd1b1137564b3d33ff1f05179bcda14b820b9a5b157a9f6d5d097051",
+      "anchorHeight": 10633018,
+      "algorithm": "ML-DSA-87",
+      "file": "batch-29.json"
+    },
+    {
+      "batch": 30,
+      "status": "submitted",
+      "valid": true,
+      "checks": "6/6",
+      "stateRoot": "931daa1a18f871c53d694ba2518ad97962212a04416b373fa55c45ecf72bb369",
+      "anchorHeight": 10633085,
+      "algorithm": "ML-DSA-87",
+      "file": "batch-30.json"
     }
   ]
 }
