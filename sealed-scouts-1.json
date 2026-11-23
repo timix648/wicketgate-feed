@@ -10,14 +10,14 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-23T09:53:29.082Z",
+  "updatedAt": "2026-11-23T09:59:16.809Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
   "inbox": {
-    "head": 5092,
-    "consumed": 5091,
-    "oldestPendingHeight": 10607696
+    "head": 5094,
+    "consumed": 5094,
+    "oldestPendingHeight": null
   },
   "accounts": [
     {
@@ -14106,6 +14106,48 @@
       "inboxStart": 5090,
       "inboxEnd": 5091,
       "submittedTime": 1795427493,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 961,
+      "status": "submitted",
+      "inboxStart": 5091,
+      "inboxEnd": 5092,
+      "submittedTime": 1795427637,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 962,
+      "status": "submitted",
+      "inboxStart": 5092,
+      "inboxEnd": 5093,
+      "submittedTime": 1795427750,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 963,
+      "status": "submitted",
+      "inboxStart": 5093,
+      "inboxEnd": 5094,
+      "submittedTime": 1795427886,
       "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
       "withdrawalsRoot": "0x",
       "verdict": "match",
