@@ -10,19 +10,24 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-23T07:02:15.650Z",
+  "updatedAt": "2026-11-23T07:07:20.109Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
   "inbox": {
     "head": 17,
-    "consumed": 16,
-    "oldestPendingHeight": 10600508
+    "consumed": 17,
+    "oldestPendingHeight": null
   },
   "accounts": [
     {
       "id": "0x08aa7baf5c445f679998e50b8af4e5e59f7ab4a159a8e2c1e52100ab13622ddc",
-      "balance": "50000000",
+      "balance": "45000000",
+      "nonce": 1
+    },
+    {
+      "id": "0x5401e3ef8b91c5fb59a28fc3941972720234b13ae748a431f073d6aff4772c17",
+      "balance": "1",
       "nonce": 0
     }
   ],
@@ -41,6 +46,35 @@
       "submission": {
         "tx": "23878762E5A651075DF6A898F4FCD187F252ED55A08846ACB78C94D6F9425BF8",
         "height": 10600497,
+        "signer": "qor1xynqax3jn65dekatcxqmfwpyh84xtgzl8y4mmn",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 1,
+      "status": "submitted",
+      "inboxStart": 16,
+      "inboxEnd": 17,
+      "submittedTime": 1795417388,
+      "stateRoot": "0xaf757880e6bc9a2115369f4d14f329b03bd863a290986ecc0e9d48422c3cd083",
+      "withdrawalsRoot": "0xafab865b5575dbcab1190b91fcf9ffe153611a68583fb13c49df274a752cc65f",
+      "verdict": "match",
+      "exitRoot": "0x9267beb155924bc6a001b6c7b6c606919fed308323295df331d6a727270b0417",
+      "withdrawals": [
+        {
+          "index": "0",
+          "recipient": "qor1p8dfxg2mx5sah5mjh34yepunrtc50fp53tj35d",
+          "recipientEvm": "0x09DA93215B3521dbd372bc6A4C87931af147a434",
+          "amountUqor": "5000000",
+          "exitProof": [],
+          "chainProof": []
+        }
+      ],
+      "submission": {
+        "tx": "0386DE01FBA814443B7B62FCDA002829B039E2EC5B9B143B63F1A13126BB6949",
+        "height": 10600552,
         "signer": "qor1xynqax3jn65dekatcxqmfwpyh84xtgzl8y4mmn",
         "pqVerified": true,
         "tier": "pqc"
