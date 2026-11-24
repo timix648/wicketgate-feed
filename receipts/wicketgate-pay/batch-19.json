@@ -18,16 +18,16 @@
     "compressedStateProof": ""
   },
   "verification": {
-    "valid": true,
+    "valid": false,
     "mode": "chain",
     "checks": {
       "rollupLayerBinding": true,
-      "batchStateRoot": true,
-      "anchorOnChain": true,
-      "creatorAuthority": true,
-      "pqcSignature": true,
-      "chainBinding": true
+      "batchStateRoot": false,
+      "anchorOnChain": false,
+      "creatorAuthority": false,
+      "pqcSignature": false,
+      "chainBinding": false
     },
-    "checkedAt": "2026-11-24T06:49:38.943Z"
+    "checkedAt": "2026-11-24T07:21:47.228Z"
   }
 }
