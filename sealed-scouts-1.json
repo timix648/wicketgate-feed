@@ -10,14 +10,14 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-24T10:16:46.681Z",
+  "updatedAt": "2026-11-24T10:21:57.844Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
   "inbox": {
-    "head": 8010,
-    "consumed": 8004,
-    "oldestPendingHeight": 10661623
+    "head": 8027,
+    "consumed": 8020,
+    "oldestPendingHeight": 10661802
   },
   "accounts": [
     {
@@ -20962,7 +20962,7 @@
     },
     {
       "index": 1450,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 7782,
       "inboxEnd": 7789,
       "submittedTime": 1795511915,
@@ -20976,7 +20976,7 @@
     },
     {
       "index": 1451,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 7789,
       "inboxEnd": 7798,
       "submittedTime": 1795512049,
@@ -21344,6 +21344,34 @@
       "inboxStart": 7995,
       "inboxEnd": 8004,
       "submittedTime": 1795515385,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 1478,
+      "status": "submitted",
+      "inboxStart": 8004,
+      "inboxEnd": 8011,
+      "submittedTime": 1795515514,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 1479,
+      "status": "submitted",
+      "inboxStart": 8011,
+      "inboxEnd": 8020,
+      "submittedTime": 1795515638,
       "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
       "withdrawalsRoot": "0x",
       "verdict": "match",
