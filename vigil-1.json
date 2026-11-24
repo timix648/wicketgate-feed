@@ -10,14 +10,14 @@
     "lockPerWatcherQor": 20,
     "enabled": true
   },
-  "updatedAt": "2026-11-24T13:09:56.479Z",
+  "updatedAt": "2026-11-24T13:16:46.150Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
   "inbox": {
-    "head": 45,
-    "consumed": 45,
-    "oldestPendingHeight": null
+    "head": 47,
+    "consumed": 46,
+    "oldestPendingHeight": 10669213
   },
   "accounts": [
     {
@@ -27,8 +27,8 @@
     },
     {
       "id": "0x14e8c2f84ea0be3ca595612ce65cfd795f9b01a69a7b16f06bf02acf61bc34a7",
-      "balance": "4470000",
-      "nonce": 33
+      "balance": "4460000",
+      "nonce": 34
     },
     {
       "id": "0x365941e28df60f6fa76a8070c4898b167a893c551cec1a20c386ac59c44447e7",
@@ -47,7 +47,7 @@
     },
     {
       "id": "0x9621a556ab9a2b7af4e37dace1d79482171e47360ab36c1501a5ec785823b5f7",
-      "balance": "1680000",
+      "balance": "1690000",
       "nonce": 0
     }
   ],
@@ -1048,6 +1048,37 @@
       ],
       "pool": {
         "batchKey": "0x7f5bbb15024852b4a1d4e2fa542891c6f464183d2bacf2796d9671d1dc9bb112",
+        "confirmed": false,
+        "confirmedAt": null,
+        "contested": false,
+        "released": false,
+        "openAdvances": 0,
+        "coverQor": 0,
+        "advancedQor": 0,
+        "watchers": []
+      }
+    },
+    {
+      "index": 30,
+      "status": "submitted",
+      "inboxStart": 45,
+      "inboxEnd": 46,
+      "submittedTime": 1795525925,
+      "stateRoot": "0xb86c8a401112c1d1c5f213540ecb3b5520a57bc73d39aaf4730c4d73c8237626",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "attestationTx": "not-needed: no withdrawals to exit",
+      "submission": {
+        "tx": "B240A3A82F4F455397AAE5CC16E0DA7542E78D9CD4498FC6E6C79F670B085976",
+        "height": 10669024,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": {
+        "batchKey": "0x68c7c4b6e493a3fd9952c6756d931594874ea23f953c490564c0ba6e2a806bc8",
         "confirmed": false,
         "confirmedAt": null,
         "contested": false,
