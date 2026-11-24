@@ -10,7 +10,7 @@
     "lockPerWatcherQor": 20,
     "enabled": true
   },
-  "updatedAt": "2026-11-24T21:03:20.775Z",
+  "updatedAt": "2026-11-24T21:08:26.648Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
@@ -649,7 +649,7 @@
     },
     {
       "index": 18,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 19,
       "inboxEnd": 20,
       "submittedTime": 1795550685,
@@ -667,7 +667,6 @@
           "chainProof": []
         }
       ],
-      "attestationTx": "already-attested",
       "submission": {
         "tx": "E3D16C6D3C2CC1665DAB6F355A1AE5DBBCD5899AF38AD7B4CE39D4E3E7DCB30A",
         "height": 10686374,
@@ -692,7 +691,7 @@
     },
     {
       "index": 19,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 20,
       "inboxEnd": 22,
       "submittedTime": 1795550693,
@@ -701,7 +700,6 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "attestationTx": "not-needed: no withdrawals to exit",
       "submission": {
         "tx": "646B8CBBA07126DCE02598C698539A7B82DBA0D9897BDA9A37BE44D5DFBC0DDC",
         "height": 10686380,
