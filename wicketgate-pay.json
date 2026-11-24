@@ -10,7 +10,7 @@
     "lockPerWatcherQor": 50,
     "enabled": true
   },
-  "updatedAt": "2026-11-24T00:08:57.706Z",
+  "updatedAt": "2026-11-24T00:13:51.637Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
@@ -1536,7 +1536,7 @@
         "confirmed": true,
         "confirmedAt": "2026-11-23T22:41:39.000Z",
         "contested": false,
-        "released": false,
+        "released": true,
         "openAdvances": 0,
         "coverQor": 7.272,
         "advancedQor": 0,
