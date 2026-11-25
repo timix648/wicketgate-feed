@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "rollupId": "tree-rings",
+  "rollupKey": "0x966c0aee32d7a37ffb4e95c464721f90d50097e0adde1190d83e7be5e266ae94",
+  "lane": {
+    "windowSecs": 0,
+    "graceSecs": 0,
+    "feeBps": 0,
+    "quorum": 0,
+    "lockPerWatcherQor": 0,
+    "enabled": false
+  },
+  "updatedAt": "2026-11-25T08:46:30.672Z",
+  "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
+  "mode": "challenge",
+  "reader": "rdk",
+  "inbox": {
+    "head": 0,
+    "consumed": 0,
+    "oldestPendingHeight": null
+  },
+  "accounts": [],
+  "batches": []
+}
