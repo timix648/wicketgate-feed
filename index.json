@@ -5,61 +5,61 @@
   "rollups": [
     {
       "rollupId": "augury-oracle",
-      "updatedAt": "2026-11-25T08:46:25.773Z",
+      "updatedAt": "2026-11-25T08:52:21.759Z",
       "batches": 0,
       "file": "augury-oracle.json"
     },
     {
       "rollupId": "ledgerpump",
-      "updatedAt": "2026-11-25T08:46:26.567Z",
+      "updatedAt": "2026-11-25T08:52:22.962Z",
       "batches": 5,
       "file": "ledgerpump.json"
     },
     {
       "rollupId": "rdk-v328-e2e-mwd5v89d",
-      "updatedAt": "2026-11-25T08:46:27.369Z",
+      "updatedAt": "2026-11-25T08:52:24.242Z",
       "batches": 7,
       "file": "rdk-v328-e2e-mwd5v89d.json"
     },
     {
       "rollupId": "sealed-scouts-1",
-      "updatedAt": "2026-11-25T08:46:28.726Z",
+      "updatedAt": "2026-11-25T08:52:25.746Z",
       "batches": 1521,
       "file": "sealed-scouts-1.json"
     },
     {
       "rollupId": "skyproof-1",
-      "updatedAt": "2026-11-25T08:46:29.899Z",
+      "updatedAt": "2026-11-25T08:52:27.068Z",
       "batches": 9,
       "file": "skyproof-1.json"
     },
     {
       "rollupId": "tree-rings",
-      "updatedAt": "2026-11-25T08:46:30.672Z",
-      "batches": 0,
+      "updatedAt": "2026-11-25T08:52:28.771Z",
+      "batches": 1,
       "file": "tree-rings.json"
     },
     {
       "rollupId": "veil-pay-1",
-      "updatedAt": "2026-11-25T08:46:31.582Z",
+      "updatedAt": "2026-11-25T08:52:30.419Z",
       "batches": 8,
       "file": "veil-pay-1.json"
     },
     {
       "rollupId": "vigil-1",
-      "updatedAt": "2026-11-25T08:46:32.598Z",
+      "updatedAt": "2026-11-25T08:52:32.044Z",
       "batches": 34,
       "file": "vigil-1.json"
     },
     {
       "rollupId": "vigil-pay-1",
-      "updatedAt": "2026-11-25T08:46:33.433Z",
+      "updatedAt": "2026-11-25T08:52:33.451Z",
       "batches": 22,
       "file": "vigil-pay-1.json"
     },
     {
       "rollupId": "wicketgate-pay",
-      "updatedAt": "2026-11-25T08:46:37.658Z",
+      "updatedAt": "2026-11-25T08:52:39.608Z",
       "batches": 31,
       "file": "wicketgate-pay.json"
     }
