@@ -10,14 +10,14 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-25T11:36:58.023Z",
+  "updatedAt": "2026-11-25T11:42:05.696Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
   "inbox": {
-    "head": 7,
-    "consumed": 4,
-    "oldestPendingHeight": 10721008
+    "head": 9,
+    "consumed": 8,
+    "oldestPendingHeight": 10725742
   },
   "accounts": [
     {
@@ -26,9 +26,14 @@
       "nonce": 1
     },
     {
+      "id": "0x5401e3ef8b91c5fb59a28fc3941972720234b13ae748a431f073d6aff4772c17",
+      "balance": "1",
+      "nonce": 0
+    },
+    {
       "id": "0x540d254cbd9a5491757323148e8fe5d21962fecad2b454c7a5135c56084514fc",
-      "balance": "4500000",
-      "nonce": 1
+      "balance": "2500000",
+      "nonce": 2
     }
   ],
   "batches": [
@@ -86,6 +91,35 @@
       "submission": {
         "tx": "FAAE639A738C195782DAC046FEC36686A9460B40747C148B6D01F0F5AC9461E8",
         "height": 10720385,
+        "signer": "qor17fhcxn83a0l9lqs8dmyesp5xeqdxsphu0j87x3",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 3,
+      "status": "submitted",
+      "inboxStart": 4,
+      "inboxEnd": 8,
+      "submittedTime": 1795606740,
+      "stateRoot": "0xe56706a19822e8a14231711d05a2f890d837250d8276e4c20d1e2042391990fd",
+      "withdrawalsRoot": "0xde950417ab5ab40892a53743404cd2b3a194213b046d32805985add88d82f877",
+      "verdict": "match",
+      "exitRoot": "0x2b0e0a8f9a804e144fa17a4710c9ec789488854260916335d339ca1b31bafd48",
+      "withdrawals": [
+        {
+          "index": "0",
+          "recipient": "qor1lk7fdflxvyxes9tudqzgkm65uss2pf5ehh6q63",
+          "recipientEvm": "0xfdbc96A7E6610D98157C68048b6F54e420a0a699",
+          "amountUqor": "2000000",
+          "exitProof": [],
+          "chainProof": []
+        }
+      ],
+      "submission": {
+        "tx": "FC48D936F9B446211EFE68A6C7B0B72DE82A36AD42B5F9C764E4E74177C2ECA4",
+        "height": 10725652,
         "signer": "qor17fhcxn83a0l9lqs8dmyesp5xeqdxsphu0j87x3",
         "pqVerified": true,
         "tier": "pqc"
