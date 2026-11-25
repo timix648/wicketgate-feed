@@ -10,12 +10,12 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-25T16:33:08.846Z",
+  "updatedAt": "2026-11-25T16:38:23.578Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
   "inbox": {
-    "head": 127,
+    "head": 131,
     "consumed": 117,
     "oldestPendingHeight": 10737212
   },
