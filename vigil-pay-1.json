@@ -10,20 +10,20 @@
     "lockPerWatcherQor": 20,
     "enabled": true
   },
-  "updatedAt": "2026-11-25T09:03:11.678Z",
+  "updatedAt": "2026-11-25T09:07:56.104Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
   "inbox": {
-    "head": 24,
-    "consumed": 24,
+    "head": 25,
+    "consumed": 25,
     "oldestPendingHeight": null
   },
   "accounts": [
     {
       "id": "0x212853123b50c98f13f20179b536f8a265a89d26c23b76d284242fe6d261360b",
-      "balance": "230000",
-      "nonce": 6
+      "balance": "220000",
+      "nonce": 7
     },
     {
       "id": "0x365941e28df60f6fa76a8070c4898b167a893c551cec1a20c386ac59c44447e7",
@@ -37,7 +37,7 @@
     },
     {
       "id": "0x6b6c0bea5e3bfbf32e6312de5c4648dd853570ac134ece008bd6d919b88dc70e",
-      "balance": "220000",
+      "balance": "230000",
       "nonce": 6
     },
     {
@@ -769,6 +769,37 @@
       },
       "pool": {
         "batchKey": "0x2f3cd5a034bfc91724034105bc3883256dddffebf9cd806e72f7361a67afcc72",
+        "confirmed": false,
+        "confirmedAt": null,
+        "contested": false,
+        "released": false,
+        "openAdvances": 0,
+        "coverQor": 0,
+        "advancedQor": 0,
+        "watchers": []
+      }
+    },
+    {
+      "index": 22,
+      "status": "submitted",
+      "inboxStart": 24,
+      "inboxEnd": 25,
+      "submittedTime": 1795597416,
+      "stateRoot": "0x5d5c2daa5b24083f6144014193fbafba908780ad3dc01e3b5556746b80f92ccc",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "attestationTx": "not-needed: no withdrawals to exit",
+      "submission": {
+        "tx": "BB5C1DF0CC2B4E7579249D27ABD3D1930112A2E2EBC221FABCBA054BD40CD11F",
+        "height": 10719113,
+        "signer": "qor1z6m6kshavs5zjvd3tz0nu9tjpde5p7w83mj90s",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": {
+        "batchKey": "0x8a234b084b8abc737a595f2a162c87d35127b0f665494dd8bdfa33d15e05abe1",
         "confirmed": false,
         "confirmedAt": null,
         "contested": false,
