@@ -10,13 +10,13 @@
     "lockPerWatcherQor": 20,
     "enabled": true
   },
-  "updatedAt": "2026-11-25T06:23:39.122Z",
+  "updatedAt": "2026-11-25T06:29:23.851Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
   "inbox": {
-    "head": 47,
-    "consumed": 47,
+    "head": 48,
+    "consumed": 48,
     "oldestPendingHeight": null
   },
   "accounts": [
@@ -27,8 +27,8 @@
     },
     {
       "id": "0x14e8c2f84ea0be3ca595612ce65cfd795f9b01a69a7b16f06bf02acf61bc34a7",
-      "balance": "4450000",
-      "nonce": 35
+      "balance": "4440000",
+      "nonce": 36
     },
     {
       "id": "0x365941e28df60f6fa76a8070c4898b167a893c551cec1a20c386ac59c44447e7",
@@ -47,7 +47,7 @@
     },
     {
       "id": "0x9621a556ab9a2b7af4e37dace1d79482171e47360ab36c1501a5ec785823b5f7",
-      "balance": "1700000",
+      "balance": "1710000",
       "nonce": 0
     }
   ],
@@ -1108,6 +1108,37 @@
       },
       "pool": {
         "batchKey": "0x942e9a30365d46d95a9c32bb1d52be3abd88da1d384d31a4ef5ed71f450ffba7",
+        "confirmed": false,
+        "confirmedAt": null,
+        "contested": false,
+        "released": false,
+        "openAdvances": 0,
+        "coverQor": 0,
+        "advancedQor": 0,
+        "watchers": []
+      }
+    },
+    {
+      "index": 32,
+      "status": "submitted",
+      "inboxStart": 47,
+      "inboxEnd": 48,
+      "submittedTime": 1795588044,
+      "stateRoot": "0xa2b0f3764d98da720190765f1564446c6793748fd1157446d56777bb4ec7fb58",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "attestationTx": "not-needed: no withdrawals to exit",
+      "submission": {
+        "tx": "FB8F40251AB91A3A06C24881940E3692BFA0F2C88C382AE52AFCEFFB40B40084",
+        "height": 10712545,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": {
+        "batchKey": "0x0b0dc0304a67ff689d0f8dc945720bdb4fca7ab730c4db2aae14dc858bb78cb4",
         "confirmed": false,
         "confirmedAt": null,
         "contested": false,
