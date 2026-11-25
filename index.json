@@ -5,61 +5,61 @@
   "rollups": [
     {
       "rollupId": "augury-oracle",
-      "updatedAt": "2026-11-25T09:06:47.897Z",
+      "updatedAt": "2026-11-25T09:12:48.433Z",
       "batches": 0,
       "file": "augury-oracle.json"
     },
     {
       "rollupId": "ledgerpump",
-      "updatedAt": "2026-11-25T09:06:48.884Z",
+      "updatedAt": "2026-11-25T09:12:49.038Z",
       "batches": 5,
       "file": "ledgerpump.json"
     },
     {
       "rollupId": "rdk-v328-e2e-mwd5v89d",
-      "updatedAt": "2026-11-25T09:06:49.697Z",
+      "updatedAt": "2026-11-25T09:12:49.726Z",
       "batches": 7,
       "file": "rdk-v328-e2e-mwd5v89d.json"
     },
     {
       "rollupId": "sealed-scouts-1",
-      "updatedAt": "2026-11-25T09:06:51.269Z",
+      "updatedAt": "2026-11-25T09:12:51.202Z",
       "batches": 1521,
       "file": "sealed-scouts-1.json"
     },
     {
       "rollupId": "skyproof-1",
-      "updatedAt": "2026-11-25T09:06:52.255Z",
+      "updatedAt": "2026-11-25T09:12:52.218Z",
       "batches": 9,
       "file": "skyproof-1.json"
     },
     {
       "rollupId": "tree-rings",
-      "updatedAt": "2026-11-25T09:07:53.403Z",
+      "updatedAt": "2026-11-25T09:12:53.047Z",
       "batches": 1,
       "file": "tree-rings.json"
     },
     {
       "rollupId": "veil-pay-1",
-      "updatedAt": "2026-11-25T09:07:54.034Z",
+      "updatedAt": "2026-11-25T09:12:53.750Z",
       "batches": 8,
       "file": "veil-pay-1.json"
     },
     {
       "rollupId": "vigil-1",
-      "updatedAt": "2026-11-25T09:07:54.864Z",
+      "updatedAt": "2026-11-25T09:12:54.539Z",
       "batches": 34,
       "file": "vigil-1.json"
     },
     {
       "rollupId": "vigil-pay-1",
-      "updatedAt": "2026-11-25T09:07:56.104Z",
+      "updatedAt": "2026-11-25T09:12:55.957Z",
       "batches": 23,
       "file": "vigil-pay-1.json"
     },
     {
       "rollupId": "wicketgate-pay",
-      "updatedAt": "2026-11-25T09:07:59.237Z",
+      "updatedAt": "2026-11-25T09:13:00.270Z",
       "batches": 31,
       "file": "wicketgate-pay.json"
     }
