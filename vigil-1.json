@@ -10,7 +10,7 @@
     "lockPerWatcherQor": 20,
     "enabled": true
   },
-  "updatedAt": "2026-11-25T07:18:04.746Z",
+  "updatedAt": "2026-11-25T07:23:20.264Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
@@ -72,7 +72,13 @@
           "chainProof": []
         }
       ],
-      "submission": null,
+      "submission": {
+        "tx": "B15BF4B9BACA1DE7ED0E290C8BD9D409AF11A8207D38FD5481066C047092E70E",
+        "height": 10234764,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0x4c4432fa50e7c8ecf3a8bcdba8e44b0b0f68888de2c65961759729c7ed6f6380",
         "confirmed": false,
@@ -96,7 +102,22 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "7853216496A5E0BA69CC332165D532B4800B5734C1E391D2E21E16B5D1BF4D83",
+        "height": 10235504,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "replacedSubmissions": [
+        {
+          "tx": "E5F81D8132AF395E1EEDE9B50FC66FFD7013310EE7BAC7A0675CE3FB0DC3FEC9",
+          "height": 10235429,
+          "signer": "qor1hnfd8kf8kjegp8eyjm3shklydy443z7yw6fmuk",
+          "pqVerified": true,
+          "tier": "pqc"
+        }
+      ],
       "pool": {
         "batchKey": "0xf87b5be029942fc3951279eecd9c68ab1b79e943b69fbe1de5b24622f485626a",
         "confirmed": false,
@@ -120,7 +141,13 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "7EA5134790B554381CBC5A26751AF30351AFF473D9C0B5652F5460B726734524",
+        "height": 10237841,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0x9ab0be6327d2246e89e7308c7a4099e9e1fa06848139ef64e8cb7cfff21069fe",
         "confirmed": false,
@@ -153,7 +180,13 @@
           "chainProof": []
         }
       ],
-      "submission": null,
+      "submission": {
+        "tx": "001C90A489CF81A6686D0FA13E8BB9C4D20E8FC2DD13953A213B31FB2CCC80C5",
+        "height": 10245979,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0xbb5ee5aa3fcb82a1e0fecfe50cb33cceaa8db76fbdced1af211339a2c5978416",
         "confirmed": false,
@@ -177,7 +210,13 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "CFD10F9A0B331A139E21BB10133ABEEC7A9E9D847BCD175F438F0170D1E7BD3D",
+        "height": 10246942,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0x88360685b15f7653d2472105d3ca5793c612f7d919dc0d1128cc0686358814dd",
         "confirmed": false,
@@ -201,7 +240,13 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "31C182B648A87AAC7D92BE8B0100319CFA0C8435011D3892416D04271F52F93A",
+        "height": 10247048,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0xf4e1a51a312ef5b34b462d1cc81e58e82728262cdff976157fc53eb636d9d923",
         "confirmed": false,
@@ -225,7 +270,13 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "85D4790675D68E91FE189215C9F96F66C443E40A92526D186B6DC426F17638E3",
+        "height": 10247126,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0x5d6018a675cf764e86d5fc7611c270bd6af3f27f8cf0e346b21cad4ca4fc6bf4",
         "confirmed": false,
@@ -249,7 +300,13 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "6DC71551EBADF297B1CA958B18262C64A72C8E45C9B6FF7CA5CE28432A7B6E70",
+        "height": 10247594,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0xad60308faf917cfcfc0aa56d69751eb995f0d20b54a52661b9bb591e56b99f40",
         "confirmed": false,
@@ -273,7 +330,13 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "EA2719178721C63EF82C64ABD3FFF681A339ECD4172E4828CBB432B66A43365A",
+        "height": 10248123,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0x3fb2b942b8093e73252d088514af99778ae655b99564dda1e9d1b38d9489e8b5",
         "confirmed": false,
@@ -297,7 +360,13 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "D17B1A0506AB6DD3888570392DF924168B3D98526792D1DD13FBD27B4848F60E",
+        "height": 10248243,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0xa974e650ef27c750cf1bd332e3bff6b28f2f3847f305336ddb7a9f759fa8657f",
         "confirmed": false,
@@ -321,7 +390,13 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "F241749069AFE2F4E1B9933509F1EF26E5076BABE707DCB5D2EE3C26A98E3053",
+        "height": 10248363,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0x5a34768365b0e316ccc6f037a836e7627e0df280fd6fd2df818e37aab23b816f",
         "confirmed": false,
@@ -345,7 +420,13 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "AA645C6F1CCEB2E9EA27442EA17556ED7E44EADF67E529FF30B44950EEDA5B21",
+        "height": 10249368,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0xe92aee62d7da05ab8171f4001cb28940e938ebf9987c7626b52d25dbfd07080f",
         "confirmed": false,
@@ -369,7 +450,13 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "40A1E848973111929504F236E45B0B52869D3BD9B97C6574CEB861538A6DDA55",
+        "height": 10249587,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0x5942d2d2fc7f7c2f0d966d2d823d28a5c01fd16e08c88dc8f9fd7164bb84f568",
         "confirmed": false,
@@ -402,7 +489,13 @@
           "chainProof": []
         }
       ],
-      "submission": null,
+      "submission": {
+        "tx": "8F6E53DCD689D5CA08038FFE3E2A90492C42F27F014AD64F44D9541B184FE74A",
+        "height": 10250290,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0xd1fd18bb543a3ffc29d6d928cc87bd7cee3e5f887d0328c2ba72e804139c7bc0",
         "confirmed": false,
@@ -426,7 +519,13 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "66EDF795D07714AD9EE962BFE248053731B6B5368D1E3218D96FB9242DB0D3E7",
+        "height": 10250439,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0x11f085bd27fc5a53853468c62ca95ed25064e65033257b4fbf94e31d9fac90c8",
         "confirmed": false,
@@ -459,7 +558,13 @@
           "chainProof": []
         }
       ],
-      "submission": null,
+      "submission": {
+        "tx": "6CD0447AA96328A725BFD31C4518BD8CD42423C069068619FEE1CC5DA88C81F4",
+        "height": 10250459,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0xbfab0626804cfebd856be16639aee2e831159a8eccaf7c588ea9727c8ce177fc",
         "confirmed": false,
@@ -483,7 +588,13 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "1D5FA3C6FB3AFA7DCE8E2E68C16424484068A9F235F1AECBACE78E5803EC3D0F",
+        "height": 10252058,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0x942db59eb2412788849aa4badcc0687690971e58b524be4316a8fa21d83548ac",
         "confirmed": false,
@@ -507,7 +618,13 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "07F8075FB03835A0DBC3AC7A1B0A7C14A8B6DA2DBF8F5EFB994FD6CE97342FF4",
+        "height": 10252320,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0xbc6ebe9157854717079e94970230c4845c4d96666fb627f53e604f1a4abcdb91",
         "confirmed": false,
@@ -531,7 +648,22 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "AE62F0CD3F78984FA92C4C571551977343043B15C074AD328C39CB15416BE580",
+        "height": 10252872,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "replacedSubmissions": [
+        {
+          "tx": "E6993DBCAE77E735D138E03748A09321899525BAF24C464BEE360C2A9C02BDB4",
+          "height": 10252827,
+          "signer": "qor1hnfd8kf8kjegp8eyjm3shklydy443z7yw6fmuk",
+          "pqVerified": true,
+          "tier": "pqc"
+        }
+      ],
       "pool": {
         "batchKey": "0x56c02af5e374068dff2c7c9a59a86caa40a795007fe252876fdbb171d7a83a05",
         "confirmed": false,
@@ -555,7 +687,13 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "A4BF30F95E10A0476A2D8D4F8A4500C24A7B72C05DB4C069D8E4970B2C81577E",
+        "height": 10253221,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0x609fd7159872cfb15a928f922d5b58818c1f9f80c3cf5aa265c883854ea87b5e",
         "confirmed": false,
@@ -579,7 +717,13 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "ABD0F0C40FBF843F92451169154E736FFBBA6E6809C6E7EA98B19C9C12028BB6",
+        "height": 10253471,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0x8b61c8adc83c423a98bfff546ab74656a54dcdfea2bac51420868be4f45d5320",
         "confirmed": false,
@@ -603,7 +747,13 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "2C1AB18074A003011529C2FA4CF1AD04B56F6A5C20F4DDF42D7EAC4EFFA97EAA",
+        "height": 10253750,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0xa8a23a040d4db5a064417c77caeb242f8b3d3c3b328c26c2766d3d6f95e5b914",
         "confirmed": false,
@@ -636,7 +786,13 @@
           "chainProof": []
         }
       ],
-      "submission": null,
+      "submission": {
+        "tx": "CC3D634C48ED2AAC258DB2715565E8635554CAEB9FC5AD930B2182F27A4FB44C",
+        "height": 10254026,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0x2625648b48e1f48267df7dbce9b9799d35553a969c9bb112790f68932ae8aed0",
         "confirmed": false,
@@ -660,7 +816,13 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "68260A1C7DCBEA278DAFD4A8125DFDFF133C8ED34BD7ADD73020B07849B3915D",
+        "height": 10254360,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0xc62a8cba2cead7011890fa3cd45a59d8fa934cea2ff2cfa117aaaa6161315ecf",
         "confirmed": false,
@@ -693,7 +855,13 @@
           "chainProof": []
         }
       ],
-      "submission": null,
+      "submission": {
+        "tx": "83A5A266E08AB3833D5D685ACD2A2710B888AB31C77F83BD6B76D3F052B0C59D",
+        "height": 10254455,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0xc1a5fa9c34904b9fcd7679279f6a45188801bc2eababe4b131074c82ceac7724",
         "confirmed": false,
@@ -717,7 +885,13 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "07342516A11CB387BB085718D02E6F87CA6077AF1BBD6260BCC810FB10A23992",
+        "height": 10254619,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0x98cd07895d4e523f0c8c5a4c0d640ac462219872700e27b44a468c8fd30edb49",
         "confirmed": false,
@@ -750,7 +924,13 @@
           "chainProof": []
         }
       ],
-      "submission": null,
+      "submission": {
+        "tx": "3E5225144205A5A1CD07C0DB27DCF89268947351CDC1F4EEBB1F56E6CCCEFFF1",
+        "height": 10255354,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0x1ef7f57363d283863cb50084e716be9c1927a68e1412c661b590768a3e53b98e",
         "confirmed": false,
@@ -774,7 +954,13 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "9F05148E176781ADEF3371F4BB7BA0D77BA27CBF6E6CE60E4C7202CE6EDE8FA7",
+        "height": 10305464,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0x3f76c0002f76af538190a1b88f5f6c496d9ba64e0b5fd8b298dc2a27f940e6fa",
         "confirmed": false,
@@ -807,7 +993,13 @@
           "chainProof": []
         }
       ],
-      "submission": null,
+      "submission": {
+        "tx": "A2E65859DD5209D66EE90953B011DB8D67D5C1185E46AFA460FB0EACD5CD0D7A",
+        "height": 10305555,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0xa258d0555e59f6489b38e9d6df2fefd654b60f30a11ed3919c6ab8b153a52078",
         "confirmed": false,
@@ -831,7 +1023,29 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "C84025D3BFD559F6DB4C7F567C5BE00082ADBDA741A0C5A1B2710BD423ED9FE2",
+        "height": 10354506,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "replacedSubmissions": [
+        {
+          "tx": "9C99378232BDEAF92ED44D109236D39DA2B693CAD5122572F577E6A734C44DDE",
+          "height": 10338740,
+          "signer": "qor1hc3dg5w8a988kazr7cdjyqp6sdqpf2sg8vqse4",
+          "pqVerified": true,
+          "tier": "pqc"
+        },
+        {
+          "tx": "3DB238B4F64AE89A0A8200781FE72D1D671E9D96902EC6698275A166D0B6A2E0",
+          "height": 10339572,
+          "signer": "qor1hc3dg5w8a988kazr7cdjyqp6sdqpf2sg8vqse4",
+          "pqVerified": true,
+          "tier": "pqc"
+        }
+      ],
       "pool": {
         "batchKey": "0x7f5bbb15024852b4a1d4e2fa542891c6f464183d2bacf2796d9671d1dc9bb112",
         "confirmed": false,
@@ -855,7 +1069,13 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "B240A3A82F4F455397AAE5CC16E0DA7542E78D9CD4498FC6E6C79F670B085976",
+        "height": 10669024,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0x68c7c4b6e493a3fd9952c6756d931594874ea23f953c490564c0ba6e2a806bc8",
         "confirmed": false,
@@ -879,7 +1099,13 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "submission": null,
+      "submission": {
+        "tx": "9EEC257159AAAF5E2EFA96C1720EE196288EF870BFD8CBCA701C90B57F78C536",
+        "height": 10669228,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0x942e9a30365d46d95a9c32bb1d52be3abd88da1d384d31a4ef5ed71f450ffba7",
         "confirmed": false,
@@ -904,7 +1130,13 @@
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
       "attestationTx": "not-needed: no withdrawals to exit",
-      "submission": null,
+      "submission": {
+        "tx": "FB8F40251AB91A3A06C24881940E3692BFA0F2C88C382AE52AFCEFFB40B40084",
+        "height": 10712545,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0x0b0dc0304a67ff689d0f8dc945720bdb4fca7ab730c4db2aae14dc858bb78cb4",
         "confirmed": false,
@@ -929,7 +1161,13 @@
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
       "attestationTx": "not-needed: no withdrawals to exit",
-      "submission": null,
+      "submission": {
+        "tx": "E2FF9608C8C351B79B66EBC0748D5DF8BE42DE33564C2A18FBBDB56367F86298",
+        "height": 10712736,
+        "signer": "qor107qxkklc0znm38tl0595asa9z73c69w85tsztr",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
       "pool": {
         "batchKey": "0x8410d74c30c16172563a9b3e878e800c420c5f180c3e672c8607133686ef6467",
         "confirmed": false,
