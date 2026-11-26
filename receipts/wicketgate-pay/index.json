@@ -1,9 +1,9 @@
 {
   "rollupId": "wicketgate-pay",
-  "generatedAt": "2026-11-26T12:29:52.146Z",
-  "batches": 34,
-  "receipts": 34,
-  "valid": 33,
+  "generatedAt": "2026-11-26T13:02:05.233Z",
+  "batches": 35,
+  "receipts": 35,
+  "valid": 35,
   "rows": [
     {
       "batch": 0,
@@ -68,8 +68,8 @@
     {
       "batch": 6,
       "status": "finalized",
-      "valid": false,
-      "checks": "2/6",
+      "valid": true,
+      "checks": "6/6",
       "stateRoot": "39ce3cce5901bf8b00198e97a9396190e4954a3aaf24027a7c9ca026076a6309",
       "anchorHeight": 10206794,
       "algorithm": "ML-DSA-87",
@@ -327,7 +327,7 @@
     },
     {
       "batch": 32,
-      "status": "submitted",
+      "status": "finalized",
       "valid": true,
       "checks": "6/6",
       "stateRoot": "2643c2d1436dc4ca1cea1f8ff9c77197ba44e747473d3203766373c675d7f065",
@@ -337,13 +337,23 @@
     },
     {
       "batch": 33,
-      "status": "submitted",
+      "status": "finalized",
       "valid": true,
       "checks": "6/6",
       "stateRoot": "b1b5f303c68eaa09da7d8b7209909355f7041981b6dd8c5692edcb7616d7eccf",
       "anchorHeight": 10786106,
       "algorithm": "ML-DSA-87",
       "file": "batch-33.json"
+    },
+    {
+      "batch": 34,
+      "status": "submitted",
+      "valid": true,
+      "checks": "6/6",
+      "stateRoot": "b1c4ae1b80aad2253cf014d4c80d17c4db4cd165ab12f200d75099e643c8bbfb",
+      "anchorHeight": 10788896,
+      "algorithm": "ML-DSA-87",
+      "file": "batch-34.json"
     }
   ]
 }
