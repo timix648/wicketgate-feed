@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "rollupId": "quill-ledger-1",
+  "rollupKey": "0xa3ea127bc06dc1bf4341e9054b65ff98828c5c69b2edf7a7d41a8a5924a425ab",
+  "lane": {
+    "windowSecs": 0,
+    "graceSecs": 0,
+    "feeBps": 0,
+    "quorum": 0,
+    "lockPerWatcherQor": 0,
+    "enabled": false
+  },
+  "updatedAt": "2026-11-26T18:21:33.481Z",
+  "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
+  "mode": "challenge",
+  "reader": "rdk",
+  "inbox": {
+    "head": 1,
+    "consumed": 0,
+    "oldestPendingHeight": 10803154
+  },
+  "accounts": [],
+  "batches": []
+}
