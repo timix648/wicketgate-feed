@@ -10,19 +10,19 @@
     "lockPerWatcherQor": 50,
     "enabled": true
   },
-  "updatedAt": "2026-11-26T12:39:55.242Z",
+  "updatedAt": "2026-11-26T12:44:38.369Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
   "inbox": {
-    "head": 120,
-    "consumed": 120,
+    "head": 121,
+    "consumed": 121,
     "oldestPendingHeight": null
   },
   "accounts": [
     {
       "id": "0x365941e28df60f6fa76a8070c4898b167a893c551cec1a20c386ac59c44447e7",
-      "balance": "5910000",
+      "balance": "5920000",
       "nonce": 0
     },
     {
@@ -32,8 +32,8 @@
     },
     {
       "id": "0x6bb3a7bbfff5261cd5c3bff397c8ac219d6ec80667adc6ec9a126d867819c0cb",
-      "balance": "29500000",
-      "nonce": 1
+      "balance": "29490000",
+      "nonce": 2
     },
     {
       "id": "0x9554c942c01410544f113297d9f0ec6ce18fa426d925a89c71e77021e7792bbd",
@@ -2461,6 +2461,37 @@
           "0x65261E42C226E4A34256F5f144aE2Ea63Db5BaE4",
           "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0"
         ]
+      }
+    },
+    {
+      "index": 34,
+      "status": "submitted",
+      "inboxStart": 120,
+      "inboxEnd": 121,
+      "submittedTime": 1795696955,
+      "stateRoot": "0xb1c4ae1b80aad2253cf014d4c80d17c4db4cd165ab12f200d75099e643c8bbfb",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "attestationTx": "not-needed: no withdrawals to exit",
+      "submission": {
+        "tx": "47815AB29F8F6CE9AB33539F133B55F43A80FD1D91CF8F68F11AF48D229B593F",
+        "height": 10788896,
+        "signer": "qor16087dpc985wvk6hlsl2x8p0kyumz394q0lvm6k",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": {
+        "batchKey": "0x27537025733b008150e61d0bf731aef4b3a8922c75a05c2fb3ef0ed56bb1bbb6",
+        "confirmed": false,
+        "confirmedAt": null,
+        "contested": false,
+        "released": false,
+        "openAdvances": 0,
+        "coverQor": 0,
+        "advancedQor": 0,
+        "watchers": []
       }
     }
   ]
