@@ -10,7 +10,7 @@
     "lockPerWatcherQor": 50,
     "enabled": true
   },
-  "updatedAt": "2026-11-26T17:17:06.172Z",
+  "updatedAt": "2026-11-26T17:48:23.830Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
@@ -1298,9 +1298,9 @@
       "submission": {
         "tx": "375E782265D99334B13F68FDEC9CEE5800CAE5E49C98B2EC577F8DE3EEBC4D4A",
         "height": 10628404,
-        "signer": null,
-        "pqVerified": null,
-        "tier": null
+        "signer": "qor16087dpc985wvk6hlsl2x8p0kyumz394q0lvm6k",
+        "pqVerified": true,
+        "tier": "pqc"
       },
       "pool": {
         "batchKey": "0x2650181d11ca9780bf95b33396c3d7e220125fcc2f0547193b464b0da66d7650",
@@ -2495,7 +2495,7 @@
     },
     {
       "index": 35,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 121,
       "inboxEnd": 122,
       "submittedTime": 1795710052,
@@ -2504,7 +2504,6 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "attestationTx": "not-needed: no withdrawals to exit",
       "submission": {
         "tx": "4EF3E3C7B691F82E076B78C8997131A73F7C76777F4641D729E9640881D3FBBA",
         "height": 10798071,
@@ -2526,7 +2525,7 @@
     },
     {
       "index": 36,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 122,
       "inboxEnd": 123,
       "submittedTime": 1795710300,
@@ -2535,7 +2534,6 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "attestationTx": "not-needed: no withdrawals to exit",
       "submission": {
         "tx": "947EDF911A265E4678EFBFFCA7D434EE4650423CBE87854E3D40609C3F519A6E",
         "height": 10798245,
@@ -2557,7 +2555,7 @@
     },
     {
       "index": 37,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 123,
       "inboxEnd": 124,
       "submittedTime": 1795710704,
@@ -2566,7 +2564,6 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "attestationTx": "not-needed: no withdrawals to exit",
       "submission": {
         "tx": "D87440E4650E89EB99FDE44DF333F4C4D272426744385268DDA23BECBB42ED1A",
         "height": 10798528,
