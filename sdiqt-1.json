@@ -10,7 +10,7 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-26T10:17:07.190Z",
+  "updatedAt": "2026-11-26T10:55:10.753Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
@@ -282,7 +282,7 @@
     },
     {
       "index": 11,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 22,
       "inboxEnd": 24,
       "submittedTime": 1795685852,
