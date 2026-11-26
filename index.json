@@ -5,31 +5,31 @@
   "rollups": [
     {
       "rollupId": "augury-oracle",
-      "updatedAt": "2026-11-26T23:17:25.727Z",
+      "updatedAt": "2026-11-26T23:52:02.082Z",
       "batches": 0,
       "file": "augury-oracle.json"
     },
     {
       "rollupId": "ledgerpump",
-      "updatedAt": "2026-11-26T23:17:27.314Z",
+      "updatedAt": "2026-11-26T23:52:25.698Z",
       "batches": 5,
       "file": "ledgerpump.json"
     },
     {
       "rollupId": "quill-ledger-1",
-      "updatedAt": "2026-11-26T23:17:29.671Z",
+      "updatedAt": "2026-11-26T23:52:14.020Z",
       "batches": 4,
       "file": "quill-ledger-1.json"
     },
     {
       "rollupId": "rdk-v328-e2e-mwd5v89d",
-      "updatedAt": "2026-11-26T23:17:31.419Z",
+      "updatedAt": "2026-11-26T23:53:07.644Z",
       "batches": 7,
       "file": "rdk-v328-e2e-mwd5v89d.json"
     },
     {
       "rollupId": "sdiqt-1",
-      "updatedAt": "2026-11-26T23:17:33.503Z",
+      "updatedAt": "2026-11-26T23:54:22.238Z",
       "batches": 18,
       "file": "sdiqt-1.json"
     },
@@ -41,19 +41,19 @@
     },
     {
       "rollupId": "skyproof-1",
-      "updatedAt": "2026-11-26T23:17:37.339Z",
+      "updatedAt": "2026-11-26T23:53:52.686Z",
       "batches": 12,
       "file": "skyproof-1.json"
     },
     {
       "rollupId": "tree-rings",
-      "updatedAt": "2026-11-26T23:17:39.289Z",
+      "updatedAt": "2026-11-26T23:53:33.412Z",
       "batches": 14,
       "file": "tree-rings.json"
     },
     {
       "rollupId": "veil-pay-1",
-      "updatedAt": "2026-11-26T23:17:40.922Z",
+      "updatedAt": "2026-11-26T23:52:47.804Z",
       "batches": 8,
       "file": "veil-pay-1.json"
     },
@@ -65,13 +65,13 @@
     },
     {
       "rollupId": "vigil-pay-1",
-      "updatedAt": "2026-11-26T23:17:44.468Z",
+      "updatedAt": "2026-11-26T23:55:23.436Z",
       "batches": 25,
       "file": "vigil-pay-1.json"
     },
     {
       "rollupId": "wicketgate-pay",
-      "updatedAt": "2026-11-26T23:17:57.701Z",
+      "updatedAt": "2026-11-26T23:51:59.519Z",
       "batches": 41,
       "file": "wicketgate-pay.json"
     }
