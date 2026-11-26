@@ -10,7 +10,7 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-26T18:38:37.589Z",
+  "updatedAt": "2026-11-26T18:45:13.568Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
@@ -113,9 +113,9 @@
         {
           "tx": "8F4BD8EBDA38C7E8E378C952FECA8793ACE9F7D7468B9990447DB6D9F70E081E",
           "height": 10320164,
-          "signer": "qor1a5j8wjpxpqc6f7htyv92042nrt7gaegpezdhx4",
-          "pqVerified": true,
-          "tier": "pqc"
+          "signer": null,
+          "pqVerified": null,
+          "tier": null
         }
       ],
       "pool": null
