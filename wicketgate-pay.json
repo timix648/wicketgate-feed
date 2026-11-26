@@ -10,19 +10,19 @@
     "lockPerWatcherQor": 50,
     "enabled": true
   },
-  "updatedAt": "2026-11-26T00:56:25.018Z",
+  "updatedAt": "2026-11-26T01:01:37.953Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
   "inbox": {
-    "head": 117,
-    "consumed": 117,
+    "head": 118,
+    "consumed": 118,
     "oldestPendingHeight": null
   },
   "accounts": [
     {
       "id": "0x365941e28df60f6fa76a8070c4898b167a893c551cec1a20c386ac59c44447e7",
-      "balance": "5900000",
+      "balance": "5910000",
       "nonce": 0
     },
     {
@@ -32,8 +32,8 @@
     },
     {
       "id": "0x9554c942c01410544f113297d9f0ec6ce18fa426d925a89c71e77021e7792bbd",
-      "balance": "72584000",
-      "nonce": 99
+      "balance": "72574000",
+      "nonce": 100
     }
   ],
   "batches": [
@@ -2354,6 +2354,37 @@
           "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
           "0xe9916f8cf1D98E47f7FCC518800C2Ef72cb703D8"
         ]
+      }
+    },
+    {
+      "index": 31,
+      "status": "submitted",
+      "inboxStart": 117,
+      "inboxEnd": 118,
+      "submittedTime": 1795654881,
+      "stateRoot": "0xd55ac7b0bf2b1996e901b72d583017d7d35bfdea2393eae3879e5e757bae8d27",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "attestationTx": "not-needed: no withdrawals to exit",
+      "submission": {
+        "tx": "B2C3DE463C3B4469A2CBA719B75C4BCD7B2951D84A060D021537BF4E02EC55DF",
+        "height": 10759408,
+        "signer": "qor16087dpc985wvk6hlsl2x8p0kyumz394q0lvm6k",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": {
+        "batchKey": "0xe615dbecda34848802de3f8f04740c844fef1d2548b6131e09ee4b37e86c6104",
+        "confirmed": false,
+        "confirmedAt": null,
+        "contested": false,
+        "released": false,
+        "openAdvances": 0,
+        "coverQor": 0,
+        "advancedQor": 0,
+        "watchers": []
       }
     }
   ]
