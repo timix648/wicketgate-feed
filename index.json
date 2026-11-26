@@ -5,68 +5,74 @@
   "rollups": [
     {
       "rollupId": "augury-oracle",
-      "updatedAt": "2026-11-26T20:12:13.030Z",
+      "updatedAt": "2026-11-26T21:06:59.627Z",
       "batches": 0,
       "file": "augury-oracle.json"
     },
     {
       "rollupId": "ledgerpump",
-      "updatedAt": "2026-11-26T20:12:25.242Z",
+      "updatedAt": "2026-11-26T21:07:01.683Z",
       "batches": 5,
       "file": "ledgerpump.json"
     },
     {
       "rollupId": "quill-ledger-1",
-      "updatedAt": "2026-11-26T20:12:37.334Z",
+      "updatedAt": "2026-11-26T21:07:03.995Z",
       "batches": 4,
       "file": "quill-ledger-1.json"
     },
     {
       "rollupId": "rdk-v328-e2e-mwd5v89d",
-      "updatedAt": "2026-11-26T20:13:55.375Z",
+      "updatedAt": "2026-11-26T21:07:05.535Z",
       "batches": 7,
       "file": "rdk-v328-e2e-mwd5v89d.json"
     },
     {
       "rollupId": "sdiqt-1",
-      "updatedAt": "2026-11-26T20:14:24.982Z",
+      "updatedAt": "2026-11-26T21:07:07.703Z",
       "batches": 18,
       "file": "sdiqt-1.json"
     },
     {
+      "rollupId": "sealed-scouts-1",
+      "updatedAt": "2026-11-26T21:07:09.846Z",
+      "batches": 1521,
+      "file": "sealed-scouts-1.json"
+    },
+    {
       "rollupId": "skyproof-1",
-      "updatedAt": "2026-11-26T20:15:32.590Z",
+      "updatedAt": "2026-11-26T21:07:11.462Z",
       "batches": 12,
       "file": "skyproof-1.json"
     },
     {
       "rollupId": "tree-rings",
-      "updatedAt": "2026-11-26T20:16:54.820Z",
+      "updatedAt": "2026-11-26T21:07:13.275Z",
       "batches": 14,
       "file": "tree-rings.json"
     },
     {
       "rollupId": "veil-pay-1",
-      "updatedAt": "2026-11-26T20:17:12.717Z",
+      "updatedAt": "2026-11-26T21:07:14.971Z",
       "batches": 8,
       "file": "veil-pay-1.json"
     },
     {
       "rollupId": "vigil-1",
-      "updatedAt": "2026-11-26T20:19:22.688Z",
+      "updatedAt": "2026-11-26T21:07:16.717Z",
       "batches": 36,
       "file": "vigil-1.json"
     },
     {
       "rollupId": "vigil-pay-1",
-      "updatedAt": "2026-11-26T20:20:13.328Z",
+      "updatedAt": "2026-11-26T21:07:18.275Z",
       "batches": 25,
       "file": "vigil-pay-1.json"
     },
     {
       "rollupId": "wicketgate-pay",
-      "updatedAt": "2026-11-26T20:22:36.502Z",
-      "batches": 40,
+      "updatedAt": "2026-11-26T21:07:31.845Z",
+      "batches": 41,
       "file": "wicketgate-pay.json"
     }
   ]
