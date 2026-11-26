@@ -10,15 +10,81 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-26T18:33:01.954Z",
+  "updatedAt": "2026-11-26T18:37:57.921Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
   "inbox": {
-    "head": 1,
-    "consumed": 0,
-    "oldestPendingHeight": 10803154
+    "head": 4,
+    "consumed": 3,
+    "oldestPendingHeight": 10803717
   },
-  "accounts": [],
-  "batches": []
+  "accounts": [
+    {
+      "id": "0x60969ed9b92b3955bc45851defd4f44a28d82cfd1bae7b9f73b3e8806baa9e9c",
+      "balance": "5000000",
+      "nonce": 2
+    }
+  ],
+  "batches": [
+    {
+      "index": 0,
+      "status": "submitted",
+      "inboxStart": 0,
+      "inboxEnd": 2,
+      "submittedTime": 1795718016,
+      "stateRoot": "0xd6a9a1579d166f9d5676cf958c0166fc071e3686b57d0d14d0c519aa63429890",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": {
+        "tx": "6F960DBE5766AED1D2784527936ECD39D78B2062E8FE0A825B10652997011839",
+        "height": 10803668,
+        "signer": "qor198ldncc0u6gyz9jfgcuuutz02mvv3ltrgz20as",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 1,
+      "status": "submitted",
+      "inboxStart": 2,
+      "inboxEnd": 3,
+      "submittedTime": 1795718054,
+      "stateRoot": "0x0dffe4affafe892869fbb993b3806fed755f3e4db287ab227adae62b16d553bd",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": {
+        "tx": "6DA53409C351C70BDC79BA1F1EFF3DD4200FAA2EEA14A5EDA193AF901EA620F0",
+        "height": 10803695,
+        "signer": "qor198ldncc0u6gyz9jfgcuuutz02mvv3ltrgz20as",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 2,
+      "status": "rejected",
+      "inboxStart": 3,
+      "inboxEnd": 4,
+      "submittedTime": 1795718098,
+      "stateRoot": "0x9af3b473b172f53379c7ed791b0c9a34807700ad906bfe3a34139be049693572",
+      "withdrawalsRoot": "0x",
+      "verdict": "rejected-on-chain",
+      "reason": "rejected by a fraud proof; its inbox range was rolled back",
+      "submission": {
+        "tx": "751909FC2BACF25B6FE9D6BC52BD8FD6222620BB282230D4A0C52D606562E1AB",
+        "height": 10803726,
+        "signer": "qor198ldncc0u6gyz9jfgcuuutz02mvv3ltrgz20as",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    }
+  ]
 }
