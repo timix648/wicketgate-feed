@@ -10,13 +10,13 @@
     "lockPerWatcherQor": 50,
     "enabled": true
   },
-  "updatedAt": "2026-11-26T11:27:29.818Z",
+  "updatedAt": "2026-11-26T11:32:58.885Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
   "inbox": {
-    "head": 118,
-    "consumed": 118,
+    "head": 119,
+    "consumed": 119,
     "oldestPendingHeight": null
   },
   "accounts": [
@@ -28,6 +28,11 @@
     {
       "id": "0x5401e3ef8b91c5fb59a28fc3941972720234b13ae748a431f073d6aff4772c17",
       "balance": "85",
+      "nonce": 0
+    },
+    {
+      "id": "0x6bb3a7bbfff5261cd5c3bff397c8ac219d6ec80667adc6ec9a126d867819c0cb",
+      "balance": "30000000",
       "nonce": 0
     },
     {
@@ -2376,6 +2381,37 @@
       },
       "pool": {
         "batchKey": "0xe615dbecda34848802de3f8f04740c844fef1d2548b6131e09ee4b37e86c6104",
+        "confirmed": false,
+        "confirmedAt": null,
+        "contested": false,
+        "released": false,
+        "openAdvances": 0,
+        "coverQor": 0,
+        "advancedQor": 0,
+        "watchers": []
+      }
+    },
+    {
+      "index": 32,
+      "status": "submitted",
+      "inboxStart": 118,
+      "inboxEnd": 119,
+      "submittedTime": 1795692732,
+      "stateRoot": "0x2643c2d1436dc4ca1cea1f8ff9c77197ba44e747473d3203766373c675d7f065",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "attestationTx": "not-needed: no withdrawals to exit",
+      "submission": {
+        "tx": "2DD433C14FA637C45F446A718FA8D4E66EDB4C99C3F980B525E9728DC91EC445",
+        "height": 10785936,
+        "signer": "qor16087dpc985wvk6hlsl2x8p0kyumz394q0lvm6k",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": {
+        "batchKey": "0x660d6fcda0d2aef47b7a37a179aa2ec9755dfbf2ab0d48385a7e5bec7710ffb5",
         "confirmed": false,
         "confirmedAt": null,
         "contested": false,
