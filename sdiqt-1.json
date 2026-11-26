@@ -10,7 +10,7 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-26T19:23:35.389Z",
+  "updatedAt": "2026-11-26T19:36:52.218Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
@@ -214,9 +214,9 @@
       "submission": {
         "tx": "597A9A84D1E68FC3BA97E19F10775C569549D8C59B6D9F3D91C137A668D05CEA",
         "height": 10741590,
-        "signer": "qor17fhcxn83a0l9lqs8dmyesp5xeqdxsphu0j87x3",
-        "pqVerified": true,
-        "tier": "pqc"
+        "signer": null,
+        "pqVerified": null,
+        "tier": null
       },
       "pool": null
     },
@@ -234,9 +234,9 @@
       "submission": {
         "tx": "992142EA52389A4EE98E96642820B6C138E02BEFE6C9C9D400855131C00D463B",
         "height": 10743274,
-        "signer": "qor17fhcxn83a0l9lqs8dmyesp5xeqdxsphu0j87x3",
-        "pqVerified": true,
-        "tier": "pqc"
+        "signer": null,
+        "pqVerified": null,
+        "tier": null
       },
       "pool": null
     },
@@ -254,9 +254,9 @@
       "submission": {
         "tx": "A6E1966AACE8443EB516A2AF253F603E2C8A2E2F5FF21AF5FDAD814BAF07F72D",
         "height": 10751469,
-        "signer": "qor17fhcxn83a0l9lqs8dmyesp5xeqdxsphu0j87x3",
-        "pqVerified": true,
-        "tier": "pqc"
+        "signer": null,
+        "pqVerified": null,
+        "tier": null
       },
       "pool": null
     },
@@ -274,9 +274,9 @@
       "submission": {
         "tx": "6CC57B8BABE3FFEE45E5CE232E84CB5579C95BD977DD4C2A8E00237A068CA503",
         "height": 10779411,
-        "signer": "qor17fhcxn83a0l9lqs8dmyesp5xeqdxsphu0j87x3",
-        "pqVerified": true,
-        "tier": "pqc"
+        "signer": null,
+        "pqVerified": null,
+        "tier": null
       },
       "pool": null
     },
@@ -294,9 +294,9 @@
       "submission": {
         "tx": "77354BAABD1FC32EFB2CFD203D108C3A851BD07DA8C595A523A20CF7534F3706",
         "height": 10781110,
-        "signer": "qor17fhcxn83a0l9lqs8dmyesp5xeqdxsphu0j87x3",
-        "pqVerified": true,
-        "tier": "pqc"
+        "signer": null,
+        "pqVerified": null,
+        "tier": null
       },
       "pool": null
     },
@@ -314,17 +314,17 @@
       "submission": {
         "tx": "8722F05D69E755C75260EE30ADE12496CC0DF80543F7394140D9702D18807274",
         "height": 10782274,
-        "signer": "qor17fhcxn83a0l9lqs8dmyesp5xeqdxsphu0j87x3",
-        "pqVerified": true,
-        "tier": "pqc"
+        "signer": null,
+        "pqVerified": null,
+        "tier": null
       },
       "replacedSubmissions": [
         {
           "tx": "B503A9D0ED7A273F0A7BF16CB796F4E30669BEA1E6FD77EFD35E824351DC65D7",
           "height": 10782129,
-          "signer": "qor17fhcxn83a0l9lqs8dmyesp5xeqdxsphu0j87x3",
-          "pqVerified": true,
-          "tier": "pqc"
+          "signer": null,
+          "pqVerified": null,
+          "tier": null
         }
       ],
       "pool": null
@@ -343,9 +343,9 @@
       "submission": {
         "tx": "3A775B5F245D2CE85CFEC756EACBA80AD9CF31FD4E8B88D3A6B26127315E2344",
         "height": 10782347,
-        "signer": "qor17fhcxn83a0l9lqs8dmyesp5xeqdxsphu0j87x3",
-        "pqVerified": true,
-        "tier": "pqc"
+        "signer": null,
+        "pqVerified": null,
+        "tier": null
       },
       "pool": null
     },
@@ -363,9 +363,9 @@
       "submission": {
         "tx": "525985B9EB49378B26B6910E75107C0F9DA17632B6182FC3BD15C1D9D0C34A7D",
         "height": 10785458,
-        "signer": "qor17fhcxn83a0l9lqs8dmyesp5xeqdxsphu0j87x3",
-        "pqVerified": true,
-        "tier": "pqc"
+        "signer": null,
+        "pqVerified": null,
+        "tier": null
       },
       "pool": null
     },
@@ -383,9 +383,9 @@
       "submission": {
         "tx": "6F62A3220CD32483642E7BC1ED45C71B655E5B412F3ED97B0F033EF93D1D096F",
         "height": 10788833,
-        "signer": "qor17fhcxn83a0l9lqs8dmyesp5xeqdxsphu0j87x3",
-        "pqVerified": true,
-        "tier": "pqc"
+        "signer": null,
+        "pqVerified": null,
+        "tier": null
       },
       "pool": null
     },
@@ -403,9 +403,9 @@
       "submission": {
         "tx": "D194955505207730CF30D21A775DE176B7753A306EED0EF848BF3A5E127C711F",
         "height": 10795539,
-        "signer": "qor17fhcxn83a0l9lqs8dmyesp5xeqdxsphu0j87x3",
-        "pqVerified": true,
-        "tier": "pqc"
+        "signer": null,
+        "pqVerified": null,
+        "tier": null
       },
       "pool": null
     },
@@ -423,9 +423,9 @@
       "submission": {
         "tx": "5445849B976C29FF52B8BB72F613108AC6228E8581A11D044901397C57931A9F",
         "height": 10798903,
-        "signer": "qor17fhcxn83a0l9lqs8dmyesp5xeqdxsphu0j87x3",
-        "pqVerified": true,
-        "tier": "pqc"
+        "signer": null,
+        "pqVerified": null,
+        "tier": null
       },
       "pool": null
     }
