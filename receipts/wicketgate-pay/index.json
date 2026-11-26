@@ -1,6 +1,6 @@
 {
   "rollupId": "wicketgate-pay",
-  "generatedAt": "2026-11-26T19:59:22.033Z",
+  "generatedAt": "2026-11-26T20:30:40.937Z",
   "batches": 40,
   "receipts": 40,
   "valid": 40,
@@ -387,7 +387,7 @@
     },
     {
       "batch": 38,
-      "status": "submitted",
+      "status": "finalized",
       "valid": true,
       "checks": "6/6",
       "stateRoot": "233a285d43c1319e98efe9c115500c5eaff0f177cc731cf027f9582ae70eb701",
@@ -397,7 +397,7 @@
     },
     {
       "batch": 39,
-      "status": "submitted",
+      "status": "finalized",
       "valid": true,
       "checks": "6/6",
       "stateRoot": "233a285d43c1319e98efe9c115500c5eaff0f177cc731cf027f9582ae70eb701",
