@@ -10,7 +10,7 @@
     "lockPerWatcherQor": 20,
     "enabled": true
   },
-  "updatedAt": "2026-11-27T20:35:53.257Z",
+  "updatedAt": "2026-11-27T20:41:19.529Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
