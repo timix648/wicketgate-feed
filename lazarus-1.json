@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "rollupId": "lazarus-1",
+  "rollupKey": "0xf9da33762d54f432678c6203ddf2667059b7c29889e23baf2b038dff2e6145a7",
+  "lane": {
+    "windowSecs": 0,
+    "graceSecs": 0,
+    "feeBps": 0,
+    "quorum": 0,
+    "lockPerWatcherQor": 0,
+    "enabled": false
+  },
+  "updatedAt": "2026-11-27T21:01:24.716Z",
+  "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
+  "mode": "challenge",
+  "reader": "rdk",
+  "inbox": {
+    "head": 0,
+    "consumed": 0,
+    "oldestPendingHeight": null
+  },
+  "accounts": [],
+  "batches": []
+}
