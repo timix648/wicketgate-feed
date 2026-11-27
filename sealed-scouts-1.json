@@ -10,14 +10,14 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-27T21:49:19.973Z",
+  "updatedAt": "2026-11-27T21:53:32.059Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
   "inbox": {
-    "head": 16770,
-    "consumed": 10223,
-    "oldestPendingHeight": 10685293
+    "head": 16790,
+    "consumed": 10415,
+    "oldestPendingHeight": 10687364
   },
   "accounts": [
     {
@@ -21970,7 +21970,7 @@
     },
     {
       "index": 1522,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 8431,
       "inboxEnd": 8495,
       "submittedTime": 1795812494,
@@ -21984,7 +21984,7 @@
     },
     {
       "index": 1523,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 8495,
       "inboxEnd": 8559,
       "submittedTime": 1795812623,
@@ -21998,7 +21998,7 @@
     },
     {
       "index": 1524,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 8559,
       "inboxEnd": 8623,
       "submittedTime": 1795812753,
@@ -22366,6 +22366,34 @@
       "inboxStart": 10223,
       "inboxEnd": 10287,
       "submittedTime": 1795816090,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 1551,
+      "status": "submitted",
+      "inboxStart": 10287,
+      "inboxEnd": 10351,
+      "submittedTime": 1795816217,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 1552,
+      "status": "submitted",
+      "inboxStart": 10351,
+      "inboxEnd": 10415,
+      "submittedTime": 1795816346,
       "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
       "withdrawalsRoot": "0x",
       "verdict": "match",
