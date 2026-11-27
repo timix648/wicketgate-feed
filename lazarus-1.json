@@ -10,16 +10,21 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-27T21:28:33.735Z",
+  "updatedAt": "2026-11-27T21:33:39.710Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
   "inbox": {
-    "head": 3,
-    "consumed": 3,
+    "head": 4,
+    "consumed": 4,
     "oldestPendingHeight": null
   },
   "accounts": [
+    {
+      "id": "0x5401e3ef8b91c5fb59a28fc3941972720234b13ae748a431f073d6aff4772c17",
+      "balance": "1",
+      "nonce": 0
+    },
     {
       "id": "0xaf36e695b405589cc2e9a70a4fed20545c5fd83da8c39804b8c55c6d34537018",
       "balance": "1500000",
@@ -27,8 +32,8 @@
     },
     {
       "id": "0xdf628cb4fd1b452ea27c001a1bf6fbaa2e6c94408a4bbeec7a3dfdfa4a4c1fda",
-      "balance": "500000",
-      "nonce": 0
+      "balance": "200000",
+      "nonce": 1
     }
   ],
   "batches": [
@@ -46,6 +51,35 @@
       "submission": {
         "tx": "FF11B1952F20A9BF3076CCD89AE74C7218592C142E0D65F95665E88DE39E2562",
         "height": 10871551,
+        "signer": "qor1x6n5ghs4p9z2hvdpslw3vuuu0etexardp8q79x",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 1,
+      "status": "submitted",
+      "inboxStart": 3,
+      "inboxEnd": 4,
+      "submittedTime": 1795815005,
+      "stateRoot": "0x662e9e4a67c92c4a28a030569f9dc94d0d8c421bbbf995be14a3d9be856117fc",
+      "withdrawalsRoot": "0x0a761feb6a61c70ae4a1e9e98deadb639fd562494e94ae69789f88894259416f",
+      "verdict": "match",
+      "exitRoot": "0x6e49ed9fe1b7418ab1395069c4bc30e12d234030417d6f978f30bfb266076400",
+      "withdrawals": [
+        {
+          "index": "0",
+          "recipient": "qor1s58kwaqshxl4zd0qym46hgc4356cf8czwayawm",
+          "recipientEvm": "0x850f677410B9Bf5135e026ebABA3158D35849F02",
+          "amountUqor": "300000",
+          "exitProof": [],
+          "chainProof": []
+        }
+      ],
+      "submission": {
+        "tx": "59DFEECDAEEA66DCDEDA442CAC3F1F0606A37517E0296A9C50A4DEBA5E47AD61",
+        "height": 10871811,
         "signer": "qor1x6n5ghs4p9z2hvdpslw3vuuu0etexardp8q79x",
         "pqVerified": true,
         "tier": "pqc"
