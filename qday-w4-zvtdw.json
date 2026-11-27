@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "rollupId": "qday-w4-zvtdw",
+  "rollupKey": "0x9e386b75d2d88a9839e3842b82f121a9757072dfcf26b7f3eee97c1c2006a1a8",
+  "lane": {
+    "windowSecs": 0,
+    "graceSecs": 0,
+    "feeBps": 0,
+    "quorum": 0,
+    "lockPerWatcherQor": 0,
+    "enabled": false
+  },
+  "updatedAt": "2026-11-27T13:09:09.930Z",
+  "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
+  "mode": "challenge",
+  "reader": "rdk",
+  "inbox": {
+    "head": 0,
+    "consumed": 0,
+    "oldestPendingHeight": null
+  },
+  "accounts": [],
+  "batches": []
+}
