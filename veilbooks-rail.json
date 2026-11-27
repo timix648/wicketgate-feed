@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "rollupId": "veilbooks-rail",
+  "rollupKey": "0x57df0da8195a558501cc2315f38f84f7be78dfbdc4b6ef1906b9e032963fab1e",
+  "lane": {
+    "windowSecs": 0,
+    "graceSecs": 0,
+    "feeBps": 0,
+    "quorum": 0,
+    "lockPerWatcherQor": 0,
+    "enabled": false
+  },
+  "updatedAt": "2026-11-27T07:16:34.492Z",
+  "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
+  "mode": "challenge",
+  "reader": "rdk",
+  "inbox": {
+    "head": 0,
+    "consumed": 0,
+    "oldestPendingHeight": null
+  },
+  "accounts": [],
+  "batches": []
+}
