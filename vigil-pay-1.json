@@ -10,7 +10,7 @@
     "lockPerWatcherQor": 20,
     "enabled": true
   },
-  "updatedAt": "2026-11-27T18:23:12.585Z",
+  "updatedAt": "2026-11-27T18:28:25.811Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
@@ -916,7 +916,7 @@
     },
     {
       "index": 26,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 28,
       "inboxEnd": 30,
       "submittedTime": 1795800178,
@@ -925,7 +925,6 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "attestationTx": "not-needed: no withdrawals to exit",
       "submission": {
         "tx": "1ECFC1DE2527EA737FF1931BE3C95204990484919034D0856B2A9F218719F0A7",
         "height": 10861394,
@@ -947,7 +946,7 @@
     },
     {
       "index": 27,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 30,
       "inboxEnd": 31,
       "submittedTime": 1795800247,
@@ -956,7 +955,6 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "attestationTx": "not-needed: no withdrawals to exit",
       "submission": {
         "tx": "6F5864663407FC5E72C47FC223CD7023F5BA0C82F68D6CEF34AEF90EBD4113A7",
         "height": 10861442,
@@ -978,7 +976,7 @@
     },
     {
       "index": 28,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 31,
       "inboxEnd": 32,
       "submittedTime": 1795800293,
@@ -987,7 +985,6 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "attestationTx": "not-needed: no withdrawals to exit",
       "submission": {
         "tx": "AB8938BE96920106036060F639384527D09FF1EF9331FD26D9FB3A10ED2B742D",
         "height": 10861475,
@@ -1009,7 +1006,7 @@
     },
     {
       "index": 29,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 32,
       "inboxEnd": 33,
       "submittedTime": 1795800426,
@@ -1027,7 +1024,6 @@
           "chainProof": []
         }
       ],
-      "attestationTx": "already-attested",
       "submission": {
         "tx": "8115F77A68EFE65A5772D5F50F80E1B85C8F5407F72EC8CC10776949CD668112",
         "height": 10861569,
@@ -1052,7 +1048,7 @@
     },
     {
       "index": 30,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 33,
       "inboxEnd": 34,
       "submittedTime": 1795800441,
@@ -1061,7 +1057,6 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "attestationTx": "not-needed: no withdrawals to exit",
       "submission": {
         "tx": "B1380718E1A89A4ADC381E987C6A5533688DDCD14C7F8A9417B5DD77AA13B26A",
         "height": 10861579,
@@ -1083,7 +1078,7 @@
     },
     {
       "index": 31,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 34,
       "inboxEnd": 35,
       "submittedTime": 1795800449,
@@ -1092,7 +1087,6 @@
       "verdict": "match",
       "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
       "withdrawals": [],
-      "attestationTx": "not-needed: no withdrawals to exit",
       "submission": {
         "tx": "0099A7BD0B48D3461F1C8BF4B2844099793646FC8DCAF83DD89E62B8A7E09B88",
         "height": 10861585,
