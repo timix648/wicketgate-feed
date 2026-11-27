@@ -10,19 +10,24 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-27T09:44:50.428Z",
+  "updatedAt": "2026-11-27T09:49:20.573Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
   "inbox": {
-    "head": 3,
-    "consumed": 3,
+    "head": 4,
+    "consumed": 4,
     "oldestPendingHeight": null
   },
   "accounts": [
     {
       "id": "0x2d235507303d971dec4e5523c6a5e60dad8a964e51d4e1f33ed67b8969ecce9a",
-      "balance": "20000000",
+      "balance": "15000000",
+      "nonce": 1
+    },
+    {
+      "id": "0x5401e3ef8b91c5fb59a28fc3941972720234b13ae748a431f073d6aff4772c17",
+      "balance": "1",
       "nonce": 0
     },
     {
@@ -51,6 +56,35 @@
       "submission": {
         "tx": "4A6FE51A66D5B0652C7E035BFC41A1850F0E2CF2D484E55A8125AAAF0C79D6B1",
         "height": 10839344,
+        "signer": "qor1wzazq8gtxnuhq9mj5x6h5phenvvmxe8c0jwdyc",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": null
+    },
+    {
+      "index": 1,
+      "status": "submitted",
+      "inboxStart": 3,
+      "inboxEnd": 4,
+      "submittedTime": 1795772788,
+      "stateRoot": "0xb75504eef6be3b86917a78af2a557c148c02be5e1f120bf58c284de64a145282",
+      "withdrawalsRoot": "0xe9fb8f8f09a74302540b5358136989ffe89ce6da2c33fd4ac5cd25423b6c3800",
+      "verdict": "match",
+      "exitRoot": "0x3e71d484ff3203be0c397f682ddad3b3376587fc03ce268dee7c78d44df61ffe",
+      "withdrawals": [
+        {
+          "index": "0",
+          "recipient": "qor1wzazq8gtxnuhq9mj5x6h5phenvvmxe8c0jwdyc",
+          "recipientEvm": "0x70bA201D0B34F9701772a1b57a06f99B19B364f8",
+          "amountUqor": "5000000",
+          "exitProof": [],
+          "chainProof": []
+        }
+      ],
+      "submission": {
+        "tx": "95FB7D680E9581B3AEB9BDA6218B3021DC773286257BDE63404281241D78A388",
+        "height": 10842172,
         "signer": "qor1wzazq8gtxnuhq9mj5x6h5phenvvmxe8c0jwdyc",
         "pqVerified": true,
         "tier": "pqc"
