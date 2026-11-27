@@ -1,9 +1,9 @@
 {
   "rollupId": "wicketgate-pay",
-  "generatedAt": "2026-11-27T20:46:49.633Z",
+  "generatedAt": "2026-11-27T21:19:12.540Z",
   "batches": 41,
   "receipts": 41,
-  "valid": 41,
+  "valid": 39,
   "rows": [
     {
       "batch": 0,
@@ -268,8 +268,8 @@
     {
       "batch": 26,
       "status": "finalized",
-      "valid": true,
-      "checks": "6/6",
+      "valid": false,
+      "checks": "0/6",
       "stateRoot": "ab6fbe0e357c6132b66f3c054ab7278320a25eebf7d8a586f5d7dbd19a2b8bb1",
       "anchorHeight": 10632814,
       "algorithm": "ML-DSA-87",
@@ -278,12 +278,8 @@
     {
       "batch": 27,
       "status": "finalized",
-      "valid": true,
-      "checks": "6/6",
-      "stateRoot": "1cab71f7da8064eaefe63ddaded80b58745974b1701e873cc2d5654d90222e7f",
-      "anchorHeight": 10632879,
-      "algorithm": "ML-DSA-87",
-      "file": "batch-27.json"
+      "valid": false,
+      "error": "REST GET /qorechain/rdk/v1/batch/wicketgate-pay/27 failed: 429 Too Many Requests"
     },
     {
       "batch": 28,
