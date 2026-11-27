@@ -10,14 +10,14 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-27T23:18:24.480Z",
+  "updatedAt": "2026-11-27T23:23:34.476Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
   "inbox": {
-    "head": 17064,
-    "consumed": 12975,
-    "oldestPendingHeight": 10715176
+    "head": 17084,
+    "consumed": 13103,
+    "oldestPendingHeight": 10716614
   },
   "accounts": [
     {
@@ -22572,7 +22572,7 @@
     },
     {
       "index": 1565,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 11183,
       "inboxEnd": 11247,
       "submittedTime": 1795818015,
@@ -22586,7 +22586,7 @@
     },
     {
       "index": 1566,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 11247,
       "inboxEnd": 11311,
       "submittedTime": 1795818144,
@@ -22954,6 +22954,34 @@
       "inboxStart": 12911,
       "inboxEnd": 12975,
       "submittedTime": 1795821484,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 1593,
+      "status": "submitted",
+      "inboxStart": 12975,
+      "inboxEnd": 13039,
+      "submittedTime": 1795821612,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 1594,
+      "status": "submitted",
+      "inboxStart": 13039,
+      "inboxEnd": 13103,
+      "submittedTime": 1795821741,
       "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
       "withdrawalsRoot": "0x",
       "verdict": "match",
