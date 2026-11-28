@@ -4,100 +4,100 @@
   "reader": "rdk",
   "rollups": [
     {
+      "rollupId": "wicketgate-pay",
+      "updatedAt": "2026-11-28T11:42:46.810Z",
+      "batches": 41,
+      "file": "wicketgate-pay.json"
+    },
+    {
       "rollupId": "augury-oracle",
-      "updatedAt": "2026-11-28T11:33:53.865Z",
+      "updatedAt": "2026-11-28T11:42:48.652Z",
       "batches": 0,
       "file": "augury-oracle.json"
     },
     {
       "rollupId": "exit-kit-diana",
-      "updatedAt": "2026-11-28T11:33:55.344Z",
+      "updatedAt": "2026-11-28T11:42:50.401Z",
       "batches": 2,
       "file": "exit-kit-diana.json"
     },
     {
       "rollupId": "lazarus-1",
-      "updatedAt": "2026-11-28T11:33:57.432Z",
+      "updatedAt": "2026-11-28T11:42:52.318Z",
       "batches": 2,
       "file": "lazarus-1.json"
     },
     {
-      "rollupId": "ledgerpump",
-      "updatedAt": "2026-11-28T11:34:05.612Z",
-      "batches": 5,
-      "file": "ledgerpump.json"
+      "rollupId": "veilbooks-rail",
+      "updatedAt": "2026-11-28T11:42:53.902Z",
+      "batches": 2,
+      "file": "veilbooks-rail.json"
     },
     {
       "rollupId": "qday-w4-zvtdw",
-      "updatedAt": "2026-11-28T11:34:01.410Z",
+      "updatedAt": "2026-11-28T11:42:56.380Z",
       "batches": 2,
       "file": "qday-w4-zvtdw.json"
     },
     {
       "rollupId": "quill-ledger-1",
-      "updatedAt": "2026-11-28T11:34:04.028Z",
+      "updatedAt": "2026-11-28T11:42:58.731Z",
       "batches": 4,
       "file": "quill-ledger-1.json"
     },
     {
-      "rollupId": "rdk-v328-e2e-mwd5v89d",
-      "updatedAt": "2026-11-28T11:34:08.879Z",
-      "batches": 7,
-      "file": "rdk-v328-e2e-mwd5v89d.json"
-    },
-    {
-      "rollupId": "sdiqt-1",
-      "updatedAt": "2026-11-28T11:34:15.092Z",
-      "batches": 23,
-      "file": "sdiqt-1.json"
-    },
-    {
-      "rollupId": "sealed-scouts-1",
-      "updatedAt": "2026-11-28T11:34:29.464Z",
-      "batches": 1836,
-      "file": "sealed-scouts-1.json"
-    },
-    {
-      "rollupId": "skyproof-1",
-      "updatedAt": "2026-11-28T11:34:12.728Z",
-      "batches": 20,
-      "file": "skyproof-1.json"
-    },
-    {
-      "rollupId": "tree-rings",
-      "updatedAt": "2026-11-28T11:34:11.129Z",
-      "batches": 14,
-      "file": "tree-rings.json"
+      "rollupId": "ledgerpump",
+      "updatedAt": "2026-11-28T11:43:00.600Z",
+      "batches": 5,
+      "file": "ledgerpump.json"
     },
     {
       "rollupId": "veil-pay-1",
-      "updatedAt": "2026-11-28T11:34:07.245Z",
+      "updatedAt": "2026-11-28T11:43:02.357Z",
       "batches": 8,
       "file": "veil-pay-1.json"
     },
     {
-      "rollupId": "veilbooks-rail",
-      "updatedAt": "2026-11-28T11:33:58.947Z",
-      "batches": 2,
-      "file": "veilbooks-rail.json"
+      "rollupId": "rdk-v328-e2e-mwd5v89d",
+      "updatedAt": "2026-11-28T11:43:03.909Z",
+      "batches": 7,
+      "file": "rdk-v328-e2e-mwd5v89d.json"
+    },
+    {
+      "rollupId": "tree-rings",
+      "updatedAt": "2026-11-28T11:43:05.915Z",
+      "batches": 14,
+      "file": "tree-rings.json"
+    },
+    {
+      "rollupId": "skyproof-1",
+      "updatedAt": "2026-11-28T11:43:07.621Z",
+      "batches": 20,
+      "file": "skyproof-1.json"
+    },
+    {
+      "rollupId": "sdiqt-1",
+      "updatedAt": "2026-11-28T11:43:09.683Z",
+      "batches": 23,
+      "file": "sdiqt-1.json"
     },
     {
       "rollupId": "vigil-1",
-      "updatedAt": "2026-11-28T11:34:17.435Z",
+      "updatedAt": "2026-11-28T11:43:11.542Z",
       "batches": 37,
       "file": "vigil-1.json"
     },
     {
       "rollupId": "vigil-pay-1",
-      "updatedAt": "2026-11-28T11:34:19.675Z",
+      "updatedAt": "2026-11-28T11:43:14.001Z",
       "batches": 41,
       "file": "vigil-pay-1.json"
     },
     {
-      "rollupId": "wicketgate-pay",
-      "updatedAt": "2026-11-28T11:35:13.642Z",
-      "batches": 41,
-      "file": "wicketgate-pay.json"
+      "rollupId": "sealed-scouts-1",
+      "updatedAt": "2026-11-28T11:43:23.254Z",
+      "batches": 1838,
+      "file": "sealed-scouts-1.json"
     }
   ]
 }
