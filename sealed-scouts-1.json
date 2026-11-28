@@ -10,14 +10,14 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-28T00:07:30.551Z",
+  "updatedAt": "2026-11-28T00:11:52.209Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
   "inbox": {
-    "head": 17225,
-    "consumed": 14447,
-    "oldestPendingHeight": 10731643
+    "head": 17239,
+    "consumed": 14575,
+    "oldestPendingHeight": 10732994
   },
   "accounts": [
     {
@@ -22880,7 +22880,7 @@
     },
     {
       "index": 1587,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 12591,
       "inboxEnd": 12655,
       "submittedTime": 1795820838,
@@ -22894,7 +22894,7 @@
     },
     {
       "index": 1588,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 12655,
       "inboxEnd": 12719,
       "submittedTime": 1795820967,
@@ -22908,7 +22908,7 @@
     },
     {
       "index": 1589,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 12719,
       "inboxEnd": 12783,
       "submittedTime": 1795821095,
@@ -23276,6 +23276,34 @@
       "inboxStart": 14383,
       "inboxEnd": 14447,
       "submittedTime": 1795824433,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 1616,
+      "status": "submitted",
+      "inboxStart": 14447,
+      "inboxEnd": 14511,
+      "submittedTime": 1795824567,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 1617,
+      "status": "submitted",
+      "inboxStart": 14511,
+      "inboxEnd": 14575,
+      "submittedTime": 1795824695,
       "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
       "withdrawalsRoot": "0x",
       "verdict": "match",
