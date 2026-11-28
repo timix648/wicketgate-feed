@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "rollupId": "exit-kit-diana",
+  "rollupKey": "0x3e8a1e7e357198af99046633b84eca9b67681a8f3cf646aa104f9a8db03c7214",
+  "lane": {
+    "windowSecs": 0,
+    "graceSecs": 0,
+    "feeBps": 0,
+    "quorum": 0,
+    "lockPerWatcherQor": 0,
+    "enabled": false
+  },
+  "updatedAt": "2026-11-28T05:07:08.950Z",
+  "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
+  "mode": "challenge",
+  "reader": "rdk",
+  "inbox": {
+    "head": 0,
+    "consumed": 0,
+    "oldestPendingHeight": null
+  },
+  "accounts": [],
+  "batches": []
+}
