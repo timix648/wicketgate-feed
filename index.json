@@ -4,100 +4,100 @@
   "reader": "rdk",
   "rollups": [
     {
-      "rollupId": "augury-oracle",
-      "updatedAt": "2026-11-28T05:27:31.397Z",
-      "batches": 0,
-      "file": "augury-oracle.json"
+      "rollupId": "wicketgate-pay",
+      "updatedAt": "2026-11-28T05:30:51.294Z",
+      "batches": 41,
+      "file": "wicketgate-pay.json"
     },
     {
       "rollupId": "exit-kit-diana",
-      "updatedAt": "2026-11-28T05:27:29.397Z",
+      "updatedAt": "2026-11-28T05:31:02.436Z",
       "batches": 0,
       "file": "exit-kit-diana.json"
     },
     {
+      "rollupId": "augury-oracle",
+      "updatedAt": "2026-11-28T05:31:04.343Z",
+      "batches": 0,
+      "file": "augury-oracle.json"
+    },
+    {
       "rollupId": "lazarus-1",
-      "updatedAt": "2026-11-28T05:27:43.439Z",
+      "updatedAt": "2026-11-28T05:31:05.942Z",
       "batches": 2,
       "file": "lazarus-1.json"
     },
     {
-      "rollupId": "ledgerpump",
-      "updatedAt": "2026-11-28T05:27:51.165Z",
-      "batches": 5,
-      "file": "ledgerpump.json"
+      "rollupId": "veilbooks-rail",
+      "updatedAt": "2026-11-28T05:31:07.540Z",
+      "batches": 2,
+      "file": "veilbooks-rail.json"
     },
     {
       "rollupId": "qday-w4-zvtdw",
-      "updatedAt": "2026-11-28T05:27:47.142Z",
+      "updatedAt": "2026-11-28T05:31:19.078Z",
       "batches": 2,
       "file": "qday-w4-zvtdw.json"
     },
     {
       "rollupId": "quill-ledger-1",
-      "updatedAt": "2026-11-28T05:27:49.564Z",
+      "updatedAt": "2026-11-28T05:31:21.497Z",
       "batches": 4,
       "file": "quill-ledger-1.json"
     },
     {
-      "rollupId": "rdk-v328-e2e-mwd5v89d",
-      "updatedAt": "2026-11-28T05:27:54.357Z",
-      "batches": 7,
-      "file": "rdk-v328-e2e-mwd5v89d.json"
-    },
-    {
-      "rollupId": "sdiqt-1",
-      "updatedAt": "2026-11-28T05:26:23.237Z",
-      "batches": 23,
-      "file": "sdiqt-1.json"
-    },
-    {
-      "rollupId": "sealed-scouts-1",
-      "updatedAt": "2026-11-28T05:26:55.575Z",
-      "batches": 1724,
-      "file": "sealed-scouts-1.json"
-    },
-    {
-      "rollupId": "skyproof-1",
-      "updatedAt": "2026-11-28T05:26:21.149Z",
-      "batches": 12,
-      "file": "skyproof-1.json"
-    },
-    {
-      "rollupId": "tree-rings",
-      "updatedAt": "2026-11-28T05:27:56.399Z",
-      "batches": 14,
-      "file": "tree-rings.json"
+      "rollupId": "ledgerpump",
+      "updatedAt": "2026-11-28T05:31:23.092Z",
+      "batches": 5,
+      "file": "ledgerpump.json"
     },
     {
       "rollupId": "veil-pay-1",
-      "updatedAt": "2026-11-28T05:27:52.782Z",
+      "updatedAt": "2026-11-28T05:31:24.705Z",
       "batches": 8,
       "file": "veil-pay-1.json"
     },
     {
-      "rollupId": "veilbooks-rail",
-      "updatedAt": "2026-11-28T05:27:44.732Z",
-      "batches": 2,
-      "file": "veilbooks-rail.json"
+      "rollupId": "rdk-v328-e2e-mwd5v89d",
+      "updatedAt": "2026-11-28T05:31:26.289Z",
+      "batches": 7,
+      "file": "rdk-v328-e2e-mwd5v89d.json"
+    },
+    {
+      "rollupId": "tree-rings",
+      "updatedAt": "2026-11-28T05:31:28.326Z",
+      "batches": 14,
+      "file": "tree-rings.json"
+    },
+    {
+      "rollupId": "skyproof-1",
+      "updatedAt": "2026-11-28T05:31:29.912Z",
+      "batches": 12,
+      "file": "skyproof-1.json"
+    },
+    {
+      "rollupId": "sdiqt-1",
+      "updatedAt": "2026-11-28T05:31:31.996Z",
+      "batches": 23,
+      "file": "sdiqt-1.json"
     },
     {
       "rollupId": "vigil-1",
-      "updatedAt": "2026-11-28T05:26:34.032Z",
+      "updatedAt": "2026-11-28T05:31:33.665Z",
       "batches": 37,
       "file": "vigil-1.json"
     },
     {
       "rollupId": "vigil-pay-1",
-      "updatedAt": "2026-11-28T05:26:35.715Z",
+      "updatedAt": "2026-11-28T05:31:35.280Z",
       "batches": 40,
       "file": "vigil-pay-1.json"
     },
     {
-      "rollupId": "wicketgate-pay",
-      "updatedAt": "2026-11-28T05:27:27.977Z",
-      "batches": 41,
-      "file": "wicketgate-pay.json"
+      "rollupId": "sealed-scouts-1",
+      "updatedAt": "2026-11-28T05:31:44.897Z",
+      "batches": 1726,
+      "file": "sealed-scouts-1.json"
     }
   ]
 }
