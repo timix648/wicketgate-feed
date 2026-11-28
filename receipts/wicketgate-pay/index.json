@@ -1,9 +1,9 @@
 {
   "rollupId": "wicketgate-pay",
-  "generatedAt": "2026-11-28T09:29:45.366Z",
+  "generatedAt": "2026-11-28T10:01:58.568Z",
   "batches": 41,
   "receipts": 41,
-  "valid": 40,
+  "valid": 39,
   "rows": [
     {
       "batch": 0,
@@ -138,8 +138,12 @@
     {
       "batch": 13,
       "status": "finalized",
-      "valid": false,
-      "error": "REST GET /qorechain/multilayer/v1/anchors/wicketgate-pay failed: 429 Too Many Requests"
+      "valid": true,
+      "checks": "6/6",
+      "stateRoot": "e20d72aa7bb40b351340e53918ad4225460fb5a2610a8aa14cfc6e910b3e9834",
+      "anchorHeight": 10363158,
+      "algorithm": "ML-DSA-87",
+      "file": "batch-13.json"
     },
     {
       "batch": 14,
@@ -364,22 +368,14 @@
     {
       "batch": 36,
       "status": "finalized",
-      "valid": true,
-      "checks": "6/6",
-      "stateRoot": "68c3ecda674585b8102bfb52936af0fa1fdba0b17414be2c8f9683a98e4ceba4",
-      "anchorHeight": 10798245,
-      "algorithm": "ML-DSA-87",
-      "file": "batch-36.json"
+      "valid": false,
+      "error": "REST GET /qorechain/rdk/v1/rollup/wicketgate-pay failed: 429 Too Many Requests"
     },
     {
       "batch": 37,
       "status": "finalized",
-      "valid": true,
-      "checks": "6/6",
-      "stateRoot": "e3865401ca2c158187b5f227d920d303fa4d89cb841fb1c75edd84a8d02163ea",
-      "anchorHeight": 10798528,
-      "algorithm": "ML-DSA-87",
-      "file": "batch-37.json"
+      "valid": false,
+      "error": "REST GET /qorechain/rdk/v1/rollup/wicketgate-pay failed: 429 Too Many Requests"
     },
     {
       "batch": 38,
