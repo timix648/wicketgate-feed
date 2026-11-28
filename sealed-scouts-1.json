@@ -10,14 +10,14 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-28T09:44:06.731Z",
+  "updatedAt": "2026-11-28T09:48:43.284Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
   "inbox": {
-    "head": 19428,
-    "consumed": 19428,
-    "oldestPendingHeight": null
+    "head": 19450,
+    "consumed": 19446,
+    "oldestPendingHeight": 10902824
   },
   "accounts": [
     {
@@ -25666,7 +25666,7 @@
     },
     {
       "index": 1786,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 19176,
       "inboxEnd": 19194,
       "submittedTime": 1795855684,
@@ -25880,6 +25880,20 @@
       "inboxStart": 19410,
       "inboxEnd": 19428,
       "submittedTime": 1795859032,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 1802,
+      "status": "submitted",
+      "inboxStart": 19428,
+      "inboxEnd": 19446,
+      "submittedTime": 1795859284,
       "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
       "withdrawalsRoot": "0x",
       "verdict": "match",
