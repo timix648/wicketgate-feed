@@ -10,14 +10,14 @@
     "lockPerWatcherQor": 0,
     "enabled": false
   },
-  "updatedAt": "2026-11-28T11:03:53.484Z",
+  "updatedAt": "2026-11-28T11:09:34.009Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
   "inbox": {
-    "head": 19753,
-    "consumed": 19744,
-    "oldestPendingHeight": 10905884
+    "head": 19780,
+    "consumed": 19780,
+    "oldestPendingHeight": null
   },
   "accounts": [
     {
@@ -25960,7 +25960,7 @@
     },
     {
       "index": 1807,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 19506,
       "inboxEnd": 19515,
       "submittedTime": 1795860218,
@@ -25974,7 +25974,7 @@
     },
     {
       "index": 1808,
-      "status": "submitted",
+      "status": "finalized",
       "inboxStart": 19515,
       "inboxEnd": 19516,
       "submittedTime": 1795860320,
@@ -26244,6 +26244,34 @@
       "inboxStart": 19726,
       "inboxEnd": 19744,
       "submittedTime": 1795863651,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 1828,
+      "status": "submitted",
+      "inboxStart": 19744,
+      "inboxEnd": 19762,
+      "submittedTime": 1795863903,
+      "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "submission": null,
+      "pool": null
+    },
+    {
+      "index": 1829,
+      "status": "submitted",
+      "inboxStart": 19762,
+      "inboxEnd": 19780,
+      "submittedTime": 1795864159,
       "stateRoot": "0x1b06a7cb2b5a8b021bbdd3cc49bb020df3f522a8df0222bea75cbadf68705f3a",
       "withdrawalsRoot": "0x",
       "verdict": "match",
