@@ -10,13 +10,13 @@
     "lockPerWatcherQor": 20,
     "enabled": true
   },
-  "updatedAt": "2026-11-28T10:58:52.110Z",
+  "updatedAt": "2026-11-28T11:02:41.529Z",
   "watcher": "0xe754DfBe7C4C4061D089B8e262f6F4C36e563bC0",
   "mode": "challenge",
   "reader": "rdk",
   "inbox": {
-    "head": 44,
-    "consumed": 44,
+    "head": 45,
+    "consumed": 45,
     "oldestPendingHeight": null
   },
   "accounts": [
@@ -24,6 +24,11 @@
       "id": "0x212853123b50c98f13f20179b536f8a265a89d26c23b76d284242fe6d261360b",
       "balance": "130000",
       "nonce": 8
+    },
+    {
+      "id": "0x28c652079c26607560f41a47411c2e62f33f30487a6ca2153871f5f01031aa6b",
+      "balance": "1000000",
+      "nonce": 0
     },
     {
       "id": "0x365941e28df60f6fa76a8070c4898b167a893c551cec1a20c386ac59c44447e7",
@@ -1372,6 +1377,37 @@
       },
       "pool": {
         "batchKey": "0x8236c79a9b47a73abc53c057a75a502e0e58499b5109f0f32a0af54a968ef294",
+        "confirmed": false,
+        "confirmedAt": null,
+        "contested": false,
+        "released": false,
+        "openAdvances": 0,
+        "coverQor": 0,
+        "advancedQor": 0,
+        "watchers": []
+      }
+    },
+    {
+      "index": 40,
+      "status": "submitted",
+      "inboxStart": 44,
+      "inboxEnd": 45,
+      "submittedTime": 1795863717,
+      "stateRoot": "0x5cd7cc61fe32e72ba2ebdb07646ff4e46304eba2b2189236f633fb02bda5f15f",
+      "withdrawalsRoot": "0x",
+      "verdict": "match",
+      "exitRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "withdrawals": [],
+      "attestationTx": "not-needed: no withdrawals to exit",
+      "submission": {
+        "tx": "02D33A6327FB52A0D2FB81F9E628D5E3F78776FCE9CB03E998219FBD337CA79B",
+        "height": 10905914,
+        "signer": "qor1z6m6kshavs5zjvd3tz0nu9tjpde5p7w83mj90s",
+        "pqVerified": true,
+        "tier": "pqc"
+      },
+      "pool": {
+        "batchKey": "0xbd34f3da53efd99154a8fd3d52c473039ad0b4e014c160fcb1da1b67dad6039f",
         "confirmed": false,
         "confirmedAt": null,
         "contested": false,
